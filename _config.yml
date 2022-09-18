@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : ""
-title                    : "Academic homepage"
+title                    : "Academic Homepage"
 title_separator          : "-"
 name                     : &name "Jianbin Tan"
 description              : &description "personal description"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/Tan-jianbin"
+  github           : ""
   google_plus      :
   keybase          :
   instagram        :
