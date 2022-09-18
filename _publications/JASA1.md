@@ -2,6 +2,7 @@
 title: "The Effects of Stringent and Mild Interventions for Coronavirus Pandemic"
 collection: publications
 permalink: /publication/JASA1
+excerpt: ''
 date: 2021-04-22
 venue: 'Journal of the American Statistical Association'
 paperurl: 'https://www.tandfonline.com/doi/abs/10.1080/01621459.2021.1897015'
