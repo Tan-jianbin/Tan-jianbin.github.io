@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/JASA1
 excerpt: ''
 date: 2021-04-22
-venue: ''
+venue: 'Journal of the American Statistical Association'
 paperurl: ''
 citation: 'Tian, Ting, Jianbin Tan, Wenxiang Luo, Yukang Jiang, Minqiong Chen, Songpan Yang, Canhong Wen, Wenliang Pan, and Xueqin Wang, The effects of stringent and mild interventions for coronavirus pandemic, Journal of the American Statistical Association 116, no. 534 (2021): 481-491 (*$\mathbf{joint\ first\ authorship}$)'
 
