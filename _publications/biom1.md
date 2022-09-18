@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/biom1
 excerpt: ''
 date: 
-venue: ''
+venue: 'Biometrics'
 paperurl: ''
 citation: 'Jianbin Tan, Ye Shen, Yang Ge, Leonardo Martinez, and Hui Huang,  Age-related Model for Estimating the Symptomatic and Asymptomatic Transmissibility of COVID-19 Patients, Biometrics, revised and resubmitted'
 
