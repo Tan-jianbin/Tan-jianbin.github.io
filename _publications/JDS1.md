@@ -5,7 +5,7 @@ permalink: /publication/JDS1
 excerpt: ''
 date: 2021-05-07
 venue: 'Journal of Data Science'
-paperurl: 'https://jds-online.org/journal/JDS/issue/47'
+paperurl: ''
 citation: 'Ting Tian, Jianbin Tan, Yukang Jiang, Xueqin Wang, Heping Zhang, Evaluate the Risk of Resumption of Business for the States of New York, New Jersey and Connecticut via a Pre-Symptomatic and Asymptomatic Transmission Model of COVID-19, J. data sci. 19(2021), no. 2, 178-196 (joint first authorship)'
 
 ---
