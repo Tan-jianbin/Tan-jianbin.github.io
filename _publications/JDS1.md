@@ -3,6 +3,7 @@ title: "Evaluate the Risk of Resumption of Business for the States of New York, 
 collection: publications
 permalink: /publication/JDS1
 excerpt: ''
+date: 2021-05-07
 paperurl: ''
 citation: 'Ting Tian, Jianbin Tan, Yukang Jiang, Xueqin Wang, and Heping Zhang, Evaluate the Risk of Resumption of Business for the States of New York, New Jersey and Connecticut via a Pre-Symptomatic and Asymptomatic Transmission Model of COVID-19, Journal of Data Science 19 (2021), no. 2, 178-196 (*$\mathbf{joint\ first}$ $\mathbf{authorship}$)'
 
