@@ -3,7 +3,8 @@ title: "Transmission roles of symptomatic and asymptomatic COVID-19 cases: a mod
 collection: publications
 permalink: /publication/E&I1
 excerpt: ''
-date: 3022-04-22
+date: 3022-08-23
+venue: 'Epidemiology and Infection'
 paperurl: ''
 citation: 'Jianbin Tan, Yang Ge, Leonardo Martinez, Jimin Sun, Changwei Li, Adrianna Westbrook, Enfu Chen, Jinren Pan, Yang Li, Wei Cheng, Feng Ling, Zhiping Chen, Ye Shen, and Hui Huang,  Transmission roles of symptomatic and asymptomatic COVID-19 cases: a modeling study, Epidemiology and Infection, accepted'
 
