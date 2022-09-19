@@ -8,8 +8,7 @@ date: 2021-09-01
 location: "Hefei, China"
 ---
 
-%
-                                
+ ---                             
 Prerequisites
 ======
 Probability, Linear Algebra, Statistical Inference, and Statistical Computation
