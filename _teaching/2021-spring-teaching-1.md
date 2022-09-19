@@ -29,7 +29,7 @@ Content
 5. Linear Regression for Classification: LDA, logistic regression, SVM.
 6. Generalized Linear Model: Basic introduction and algorithm, quasi-likelihood (over-dispersion), GLM with random effects.
 7. EM Algorithm and Variational Inference: mixture model, GMM, mean-field method.
-8. Optimization Methods (II): projected gradient descent, proximal gradient decent, ADMM.
+8. Optimization Methods (II): projected gradient descent, proximal gradient descent, ADMM.
 9. Sparse Linear model: Lp shrinkage penalty, the Lasso (coordinate decent, LARS, proximal and gradient projection methods, EM, Dantzig selector, SCAD), elastic net, group Lasso, fused Lasso.
 10. Undirected Graphical Model: conditional independence (clique, factorization, Hammersley-Clifford equivalence), Gaussian graphical model (circling algorithm), graphical Lasso, Gaussian copula graphical model.
 11. Latent Linear Model: factor analysis, PCA, CCA, ICA.
