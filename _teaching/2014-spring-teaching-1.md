@@ -30,7 +30,7 @@ Content
 4. Optimization Methods (I): convex optimization, Lagrange multipliers, gradient decent (unconstrained gradient decent, Newton-like method), coordinate decent.
 5. Linear Regression for Classification: LDA, logistic regression, SVM.
 6. Generalized Linear Model: Basic introduction and algorithm, quasi-likelihood (over-dispersion), GLM with random effects.
-7. EM Algorithm and Variational Inference.: mixture model, GMM, mean-field method.
+7. EM Algorithm and Variational Inference: mixture model, GMM, mean-field method.
 8. Optimization Methods (II): projected gradient descent, proximal gradient decent, ADMM.
 9. Sparse Linear model: Lp shrinkage penalty, the Lasso (coordinate decent, LARS, proximal and gradient projection methods, EM, Dantzig selector, SCAD), elastic net, group Lasso, fused Lasso.
 10. Undirected Graphical Model: conditional independence (clique, factorization, Hammersley-Clifford equivalence), Gaussian graphical model (circling algorithm), graphical Lasso, Gaussian copula graphical model.
@@ -38,4 +38,4 @@ Content
 12. Smoothing Method: basis expansions (Spline, nature cubic spline, Fourier bases, wavelet bases, smoothing spline, P-spline, GCV), kernel estimator (Kernel density estimation, NW kernel estimator, local linear regression, kernel density classifier), the curse of dimensionality.
 13. Kernel Trick: kernel property (symmetric, non-negative, reproductive, reproducing kernel Hilbert space), Mercer's Theorem, kernel penalty (kernel ridge regression, kernel SVM), maximum mean discrepancy. 
 14. Additive Model and Tree-Based Model: GAM, tree-based model (regression tree, classification tree), boosting (Adaboost, gradient boosting, boosting tree), bagging (random forest), ensemble learning.
-15. Unsupervised Learning: clustering (K-mean, hierarchical clustering, model-based clustering, spectral clustering), sparse principal component analysis, matrix learning.
+15. Unsupervised Learning: clustering (K-mean, hierarchical clustering, model-based clustering, spectral clustering), sparse principal component analysis.
