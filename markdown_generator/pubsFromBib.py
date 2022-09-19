@@ -106,7 +106,6 @@ for pubsource in publist:
             citation = citation + "\"" + html_escape(b["title"].replace("{", "").replace("}","").replace("\\","")) + ".\""
 
             #add venue logic depending on citation type
-            if len(str(item.venue)) > 1:
             venue = publist[pubsource]["venue-pretext"]+b[publist[pubsource]["venuekey"]].replace("{", "").replace("}","").replace("\\","")
 
             citation = citation + " " + html_escape(venue)
