@@ -3,8 +3,6 @@ title: "Age-related Model for Estimating the Symptomatic and Asymptomatic Transm
 collection: publications
 permalink: /publication/biom1
 excerpt: ''
-date: 2022-09-20
-venue: ''
 paperurl: ''
 citation: 'Jianbin Tan, Ye Shen, Yang Ge, Leonardo Martinez, and Hui Huang,  Age-related Model for Estimating the Symptomatic and Asymptomatic Transmissibility of COVID-19 Patients, Biometrics, revised and resubmitted'
 
