@@ -9,10 +9,9 @@ location: "Hefei, China"
 ---
 
      
-     
 Prerequisites
 ======
-probability, statistical inference, linear algebra, and statistical computation
+Probability, Linear Algebra, Statistical Inference, and Statistical Computation
 
 Reference
 ======
@@ -20,7 +19,6 @@ Reference
 2. Statistical Learning of The Lasso and Generalization, Trevor Hastie, Robert Tibshirani, Martin Wainwright.
 3. Statistical Foundations of Data Science, Jianqing Fan, Runze Li, Cun-Hui Zhang, Hui Zou.
 4. High-Dimensional Statistics, A Non-Asymptomatic Viewpoint, Martin Wainwright.
-
 
 Content 
 ======
