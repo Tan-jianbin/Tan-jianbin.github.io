@@ -8,20 +8,17 @@ date: 2021-09-01
 location: "Hefei, China"
 ---
                       
-======
 Prerequisites   
 
 Probability, Linear Algebra, Statistical Inference, and Statistical Computation
 
 Reference
-======
 1. The Elements of Statistical Learning: Data mining, Inference, and Prediction, Trevor Hastie, Robert Tibshirani, Jerome Friedman.
 2. Statistical Learning of The Lasso and Generalization, Trevor Hastie, Robert Tibshirani, Martin Wainwright.
 3. Statistical Foundations of Data Science, Jianqing Fan, Runze Li, Cun-Hui Zhang, Hui Zou.
 4. High-Dimensional Statistics, A Non-Asymptomatic Viewpoint, Martin Wainwright.
 
 Content 
-======
 1. Gaussian Model: what are statistical models, multivariate Gaussian random vector (conditional Gaussian distribution, MLE), linear discriminant analysis (MLE, QDA, LDA), sufficient dimension reduction (principal component analysis, reduced-rank LDA).
 2. Statistical Learning Theory and Model Selection: decision theory (admissibility, Stein's paradox, minimax criterion), learning theory (regularization, VC dimension, minimal description length), model selection (information criterion, cross-validation).
 3. Linear Regression: least square estimator (Gaussian-Markov theorem, geometry explanation, computation), subset selection (Cp criterion, forward, backward or stepwise selection), Ridge regression.
