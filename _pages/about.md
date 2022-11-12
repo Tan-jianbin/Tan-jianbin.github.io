@@ -3,7 +3,7 @@ I’m a Ph.D. candidate working with Prof. Hui Huang in the School of Mathematic
 ---
 permalink: /
 title: "Research Interests"
-excerpt: "About me"
+excerpt: "Research Interests"
 author_profile: true
 redirect_from: 
   - /about/
