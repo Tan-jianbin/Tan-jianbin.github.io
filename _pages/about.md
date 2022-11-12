@@ -12,7 +12,7 @@ I’m a Ph.D. candidate working with Prof. Hui Huang in the School of Mathematic
 
 Research Interests
 ======
-- Statistical inference in differential equations: parameter estimation, non-parametric inference, mechanism-constrained machine learning
-- Functional data analysis: functional time series, spatial-indexed functional data, multivariate functional time series
+- Statistical inference in differential equations: parameter estimation, non-parametric modelling, mechanism-constrained machine learning
+- Functional data analysis: functional modelling,  (multivariate) functional time series, spatial-indexed functional data, functional time series
 - Bayesian inference: Monte Carlo methods in Bayesian computation, variational Bayesian methods, empirical Bayes
   
