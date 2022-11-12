@@ -14,5 +14,5 @@ Research Interests
 ======
 - Statistical inference in differential equations: parameter estimation, non-parametric inference, mechanism-constrained machine learning
 - Functional data analysis: functional time series, spatial-indexed functional data, multivariate functional time series
-- Bayesian inference: Monte Carlo methods on posterior sampling, variational Bayesian methods, empirical Bayes
+- Bayesian inference: Monte Carlo Methods in Bayesian Computation, variational Bayesian methods, empirical Bayes
   
