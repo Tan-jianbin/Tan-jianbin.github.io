@@ -22,13 +22,7 @@ Reference
 
 Content 
 ======
-1. [Introduction](http://tan-jianbin.github.io/files/PPT_2022-fall-teaching/1.The Introduction of Asymptotic Statistics.pdf)
-2. [Stochastic convergence](http://tan-jianbin.github.io/files/PPT_2022-fall-teaching/2.Stochastic Convergence.pdf)
-3. [Delta method and method of moment](http://tan-jianbin.github.io/files/PPT_2022-fall-teaching/3.Delta Method and Method of Moment.pdf)
-2. [M Estimator and Z estimator](http://tan-jianbin.github.io/files/PPT_2022-fall-teaching/4.M Estimator and Z estimator.pdf)
-2. [Stochastic convergence](http://tan-jianbin.github.io/files/PPT_2022-fall-teaching/2.Stochastic Convergence.pdf)
-2. [Stochastic convergence](http://tan-jianbin.github.io/files/PPT_2022-fall-teaching/2.Stochastic Convergence.pdf)
-2. [Stochastic convergence](http://tan-jianbin.github.io/files/PPT_2022-fall-teaching/2.Stochastic Convergence.pdf)
-2. [Stochastic convergence](http://tan-jianbin.github.io/files/PPT_2022-fall-teaching/2.Stochastic Convergence.pdf)
-2. [Stochastic convergence](http://tan-jianbin.github.io/files/PPT_2022-fall-teaching/2.Stochastic Convergence.pdf)
-2. [Stochastic convergence](http://tan-jianbin.github.io/files/PPT_2022-fall-teaching/2.Stochastic Convergence.pdf)
+1. [Introduction](http://tan-jianbin.github.io/files/PPT_2019_P&S/1.The Introduction of Asymptotic Statistics.pdf)
+2. [Stochastic convergence](http://tan-jianbin.github.io/files/PPT_2019_P&S/2.Stochastic Convergence.pdf)
+3. [Delta method and method of moment](http://tan-jianbin.github.io/files/PPT_2019_P&S/3.Delta Method and Method of Moment.pdf)
+2. [M Estimator and Z estimator](http://tan-jianbin.github.io/files/PPT_2019_P&S/4.M Estimator and Z estimator.pdf)
