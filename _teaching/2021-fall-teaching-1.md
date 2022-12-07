@@ -25,7 +25,7 @@ Reference
 Content 
 ======
 
-1. Gaussian Model: what are statistical models, multivariate Gaussian random vector (conditional Gaussian distribution, MLE), linear discriminant analysis (MLE, QDA, LDA), sufficient dimension reduction (principal component analysis, reduced-rank LDA).
+1. [Gaussian model](http://tan-jianbin.github.io/files/PPT_2021-fall-teaching/JASA1.pdf)
 2. Statistical Learning Theory and Model Selection: decision theory (admissibility, Stein's paradox, minimax criterion), learning theory (regularization, VC dimension, minimal description length), model selection (information criterion, cross-validation).
 3. Linear Regression: least square estimator (Gaussian-Markov theorem, geometry explanation, computation), subset selection (Cp criterion, forward, backward or stepwise selection), Ridge regression.
 4. Optimization Methods (I): convex optimization, Lagrange multipliers, gradient decent (unconstrained gradient decent, Newton-like method), coordinate decent.
