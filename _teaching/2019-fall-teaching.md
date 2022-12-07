@@ -14,10 +14,10 @@ Study the theories of asymptotic statistics, empirical process, high-dimensional
 Reference
 ======
 
-1. Van der Vaart, A. W. (2000). Asymptotic statistics (Vol. 3). Cambridge university press.
+1. Van der Vaart, A. W. (2000). Asymptotic statistics. Cambridge university press.
 2. Van de Geer, S. A., & van de Geer, S. (2000). Empirical Processes in M-estimation (Vol. 6). Cambridge university press.
 3. Wainwright, M. J. (2019). High-dimensional statistics: A non-asymptotic viewpoint (Vol. 48). Cambridge University Press.
-4. Vershynin, R. (2018). High-dimensional probability: An introduction with applications in data science (Vol. 47). Cambridge university press.
+4. Vershynin, R. (2018). High-dimensional probability: An introduction with applications in data science. Cambridge university press.
 5. Tsybakov, A. B. Introduction to Nonparametric Estimation (Springer Series in Statistics).
 
 Content 
@@ -25,7 +25,7 @@ Content
 1. [Introduction](http://tan-jianbin.github.io/files/PPT_2022-fall-teaching/1.The Introduction of Asymptotic Statistics.pdf)
 2. [Stochastic convergence](http://tan-jianbin.github.io/files/PPT_2022-fall-teaching/2.Stochastic Convergence.pdf)
 3. [Delta method and method of moment](http://tan-jianbin.github.io/files/PPT_2022-fall-teaching/3.Delta Method and Method of Moment.pdf)
-2. [Stochastic convergence](http://tan-jianbin.github.io/files/PPT_2022-fall-teaching/2.Stochastic Convergence.pdf)
+2. [M Estimator and Z estimator](http://tan-jianbin.github.io/files/PPT_2022-fall-teaching/4.M Estimator and Z estimator.pdf)
 2. [Stochastic convergence](http://tan-jianbin.github.io/files/PPT_2022-fall-teaching/2.Stochastic Convergence.pdf)
 2. [Stochastic convergence](http://tan-jianbin.github.io/files/PPT_2022-fall-teaching/2.Stochastic Convergence.pdf)
 2. [Stochastic convergence](http://tan-jianbin.github.io/files/PPT_2022-fall-teaching/2.Stochastic Convergence.pdf)
