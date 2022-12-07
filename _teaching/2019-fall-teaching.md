@@ -9,7 +9,7 @@ location: "Guangzhou, China"
 
 ---         
 
-Study the theories of asymptotic statistics, empirical processes, high-dimensional statistics, and nonparametric statistics.
+Study the theories of asymptotic statistics, empirical process, high-dimensional statistics, and nonparametric statistics.
 
 Reference
 ======
