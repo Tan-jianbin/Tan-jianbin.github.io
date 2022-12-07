@@ -31,7 +31,7 @@ Content
 6. [EM algorithm and variational inference](http://tan-jianbin.github.io/files/PPT_2021-fall-teaching/EM_Algorithm&Variational_Inference.pdf)
 8. [Sparse linear model](http://tan-jianbin.github.io/files/PPT_2021-fall-teaching/Sparse_Linear_Model.pdf)
 9. [Undirected graphical model](http://tan-jianbin.github.io/files/PPT_2021-fall-teaching/Undirected_Graphical_Model.pdf)
-10. [Latent linear model](http://tan-jianbin.github.io/files/PPT_2021-fall-teaching/Directed_Graphical_Models.pdf)
+10. [Directed graphical model](http://tan-jianbin.github.io/files/PPT_2021-fall-teaching/Directed_Graphical_Models.pdf)
 11. [Smoothing method](http://tan-jianbin.github.io/files/PPT_2021-fall-teaching/Smooth_Method.pdf)
 12. [Kernel method](http://tan-jianbin.github.io/files/PPT_2021-fall-teaching/Kernel_Method.pdf)
 13. [Tree-based model](http://tan-jianbin.github.io/files/PPT_2021-fall-teaching/Tree_Based_Model.pdf)
