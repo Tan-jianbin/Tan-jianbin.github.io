@@ -21,3 +21,4 @@ Content
 ======
 
 1. [Introduction](http://tan-jianbin.github.io/files/PPT_2022-fall-teaching/Introduction.pdf)
+2. [Nonlinear least squares](http://tan-jianbin.github.io/files/PPT_2022-fall-teaching/Nonlinear_Least_Squares.pdf)
