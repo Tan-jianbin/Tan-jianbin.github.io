@@ -9,7 +9,7 @@ location: "Hefei, China"
 
 ---         
 
-
+Learning the basic principles and algorithms of machine learning
 
 Reference
 ======
