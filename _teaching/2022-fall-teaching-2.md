@@ -28,5 +28,5 @@ Content
 6. [Local polynomial regression](http://tan-jianbin.github.io/files/PPT_2022-fall-teaching/Local_Polynomial.pdf)
 7. [Two-step methods with different fitting criteria](http://tan-jianbin.github.io/files/PPT_2022-fall-teaching/Equation Matching.pdf)
 8. [Sparse additive model for ODEs](http://tan-jianbin.github.io/files/PPT_2022-fall-teaching/sparse additive model for ODEs.pdf)
-9. [Neural Ordinary Differential Equations](http://tan-jianbin.github.io/files/PPT_2022-fall-teaching/NODE-slides.pdf)
+9. [Neural ordinary differential equations](http://tan-jianbin.github.io/files/PPT_2022-fall-teaching/NODE-slides.pdf)
 10. [Gaussian process](http://tan-jianbin.github.io/files/PPT_2022-fall-teaching/Gaussian processes.pdf)
