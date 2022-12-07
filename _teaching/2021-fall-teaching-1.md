@@ -25,7 +25,7 @@ Content
 
 1. [Gaussian model](http://tan-jianbin.github.io/files/PPT_2021-fall-teaching/Gaussian_model.pdf)
 2. [Statistical learning theory and model selection](http://tan-jianbin.github.io/files/PPT_2021-fall-teaching/Statistic_Learning_Theory.pdf)
-3. [Linear regression](http://tan-jianbin.github.io/files/PPT_2021-fall-teaching/Linear_regression.pdf)
+3. [Linear regression](http://tan-jianbin.github.io/files/PPT_2021-fall-teaching/Linear_Regression.pdf)
 4. [Linear classification](http://tan-jianbin.github.io/files/PPT_2021-fall-teaching/Linear_Classification.pdf)
 5. [Generalized linear model](http://tan-jianbin.github.io/files/PPT_2021-fall-teaching/Generalized_Linear_Model.pdf)
 6. [EM algorithm and variational inference](http://tan-jianbin.github.io/files/PPT_2021-fall-teaching/EM_Algorithm&Variational_Inferencel.pdf)
