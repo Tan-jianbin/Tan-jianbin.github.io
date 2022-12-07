@@ -15,8 +15,8 @@ Reference
 ======
 
 1. Van der Vaart, A. W. (2000). Asymptotic statistics. Cambridge university press.
-2. Van de Geer, S. A., & van de Geer, S. (2000). Empirical Processes in M-estimation (Vol. 6). Cambridge university press.
-3. Wainwright, M. J. (2019). High-dimensional statistics: A non-asymptotic viewpoint (Vol. 48). Cambridge University Press.
+2. Van de Geer, S. A., & van de Geer, S. (2000). Empirical Processes in M-estimation. Cambridge university press.
+3. Wainwright, M. J. (2019). High-dimensional statistics: A non-asymptotic viewpoint. Cambridge University Press.
 4. Vershynin, R. (2018). High-dimensional probability: An introduction with applications in data science. Cambridge university press.
 5. Tsybakov, A. B. Introduction to Nonparametric Estimation (Springer Series in Statistics).
 
@@ -26,7 +26,7 @@ Content
 2. [Stochastic convergence](http://tan-jianbin.github.io/files/PPT_2019_P&S/2.Stochastic Convergence.pdf)
 3. [Delta method and method of moment](http://tan-jianbin.github.io/files/PPT_2019_P&S/3.Delta Method and Method of Moment.pdf)
 4. [M estimator and Z estimator](http://tan-jianbin.github.io/files/PPT_2019_P&S/4.M Estimator and Z estimator.pdf)
-5. [Concentration Inequality](http://tan-jianbin.github.io/files/PPT_2019_P&S/5.Concentration Inequality.pdf)
+5. [Concentration inequality](http://tan-jianbin.github.io/files/PPT_2019_P&S/5.Concentration Inequality.pdf)
 6. [Glivenkov-Cantelli class](http://tan-jianbin.github.io/files/PPT_2019_P&S/6.Glivenkov-Cantelli Class.pdf)
 7. [Metric entropy](http://tan-jianbin.github.io/files/PPT_2019_P&S/7.Metric Entropy.pdf)
 8. [Vapnik Chervonenkis class](http://tan-jianbin.github.io/files/PPT_2019_P&S/8.Vapnik Chervonenkis Class.pdf)
