@@ -28,7 +28,7 @@ Content
 3. [Linear regression](http://tan-jianbin.github.io/files/PPT_2021-fall-teaching/Linear_Regression.pdf)
 4. [Linear classification](http://tan-jianbin.github.io/files/PPT_2021-fall-teaching/Linear_Classification.pdf)
 5. [Generalized linear model](http://tan-jianbin.github.io/files/PPT_2021-fall-teaching/Generalized_Linear_Model.pdf)
-6. [EM algorithm and variational inference](http://tan-jianbin.github.io/files/PPT_2021-fall-teaching/EM_Algorithm&Variational_Inferencel.pdf)
+6. [EM algorithm and variational inference](http://tan-jianbin.github.io/files/PPT_2021-fall-teaching/EM_Algorithm&Variational_Inference.pdf)
 8. [Sparse linear model](http://tan-jianbin.github.io/files/PPT_2021-fall-teaching/Sparse_Linear_Model.pdf)
 9. [Undirected graphical model](http://tan-jianbin.github.io/files/PPT_2021-fall-teaching/Undirected_Graphical_Model.pdf)
 10. [Latent linear Model](http://tan-jianbin.github.io/files/PPT_2021-fall-teaching/Directed_Graphical_Models.pdf)
