@@ -9,7 +9,7 @@ location: "Hefei, China"
 
 ---         
 
-Study the state-of-art theories and methods for the statistical inference of differential equations.
+Study the state-of-art theories and methods for statistical inference of differential equations.
 
 Reference
 ======
