@@ -20,16 +20,4 @@ Reference
 Content 
 ======
 
-1. [Gaussian model](http://tan-jianbin.github.io/files/PPT_2021-fall-teaching/Gaussian_Model.pdf)
-2. [Statistical learning theory and model selection](http://tan-jianbin.github.io/files/PPT_2021-fall-teaching/Statistic_Learning_Theory.pdf)
-3. [Linear regression](http://tan-jianbin.github.io/files/PPT_2021-fall-teaching/Linear_Regression.pdf)
-4. [Linear classification](http://tan-jianbin.github.io/files/PPT_2021-fall-teaching/Linear_Classification.pdf)
-5. [Generalized linear model](http://tan-jianbin.github.io/files/PPT_2021-fall-teaching/Generalized_Linear_Model.pdf)
-6. [EM algorithm and variational inference](http://tan-jianbin.github.io/files/PPT_2021-fall-teaching/EM_Algorithm&Variational_Inference.pdf)
-8. [Sparse linear model](http://tan-jianbin.github.io/files/PPT_2021-fall-teaching/Sparse_Linear_Model.pdf)
-9. [Undirected graphical model](http://tan-jianbin.github.io/files/PPT_2021-fall-teaching/Undirected_Graphical_Model.pdf)
-10. [Directed graphical model](http://tan-jianbin.github.io/files/PPT_2021-fall-teaching/Directed_Graphical_Models.pdf)
-11. [Smoothing method](http://tan-jianbin.github.io/files/PPT_2021-fall-teaching/Smooth_Method.pdf)
-12. [Kernel method](http://tan-jianbin.github.io/files/PPT_2021-fall-teaching/Kernel_Method.pdf)
-13. [Tree-based model](http://tan-jianbin.github.io/files/PPT_2021-fall-teaching/Tree_Based_Model.pdf)
-14. [Clustering](http://tan-jianbin.github.io/files/PPT_2021-fall-teaching/Clustering.pdf)
+1. [Introduction](http://tan-jianbin.github.io/files/PPT_2022-fall-teaching/Introduction.pdf)
