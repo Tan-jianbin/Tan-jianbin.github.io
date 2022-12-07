@@ -1,5 +1,5 @@
 ---
-title: "Statistical Learning"
+title: "Statistical Inference of Differential Equations"
 collection: 
 type: "Seminar"
 permalink: /teaching/2022-fall-teaching-2
@@ -9,7 +9,7 @@ location: "Hefei, China"
 
 ---         
 
-Study the state-of-art theories and methods about the statistical learning of differential equations
+Study the state-of-art theories and methods for the statistical inference of differential equations.
 
 Reference
 ======
