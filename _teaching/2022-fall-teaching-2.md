@@ -14,11 +14,8 @@ Study the state-of-art theories and methods for the statistical inference of dif
 Reference
 ======
 
-1. The Elements of Statistical Learning: Data mining, Inference, and Prediction, Trevor Hastie, Robert Tibshirani, Jerome Friedman.
-2. Statistical Learning of The Lasso and Generalization, Trevor Hastie, Robert Tibshirani, Martin Wainwright.
-3. Statistical Foundations of Data Science, Jianqing Fan, Runze Li, Cun-Hui Zhang, Hui Zou.
-4. High-Dimensional Statistics, A Non-Asymptomatic Viewpoint, Martin Wainwright.
-5. Latest literature.
+1. Ramsay, J., & Hooker, G. (2017). Dynamic data analysis. New York, NY, USA: Springer.
+2. Latest literature.
 
 Content 
 ======
