@@ -36,4 +36,4 @@ Content
 12. [Sparse linear model in high dimension](http://tan-jianbin.github.io/files/PPT_2019_P&S/12.Sparse Linear Models in High Dimensions.pdf)
 13. [Nonparametric least square](http://tan-jianbin.github.io/files/PPT_2019_P&S/13.Nonparametric Least Square Bound.pdf)
 14. [Local polynomial regression](http://tan-jianbin.github.io/files/PPT_2019_P&S/14.Kernel-Based Estimators.pdf)
-15. [Minimax Lower Bound](http://tan-jianbin.github.io/files/PPT_2019_P&S/15.Minimax Lower Bound.pdf)
+15. [Minimax lower bound](http://tan-jianbin.github.io/files/PPT_2019_P&S/15.Minimax Lower Bound.pdf)
