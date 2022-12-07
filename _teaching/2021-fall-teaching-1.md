@@ -9,7 +9,7 @@ location: "Hefei, China"
 
 ---         
 
-Learning the basic principles and algorithms of machine learning
+Study the basic principles and algorithms of statistical learning.
 
 Reference
 ======
@@ -25,14 +25,13 @@ Content
 1. [Gaussian model](http://tan-jianbin.github.io/files/PPT_2021-fall-teaching/Gaussian model.pdf)
 2. [Statistical learning theory and model selection](http://tan-jianbin.github.io/files/PPT_2021-fall-teaching/Statistic_Learning_Theory.pdf)
 3. [Linear regression](http://tan-jianbin.github.io/files/PPT_2021-fall-teaching/Linear_regression.pdf)
-5. [Linear classification](http://tan-jianbin.github.io/files/PPT_2021-fall-teaching/Linear_Classification.pdf)
-6. Generalized Linear Model: Basic introduction and algorithm, quasi-likelihood (over-dispersion), GLM with random effects.
-7. EM Algorithm and Variational Inference: mixture model, GMM, mean-field method.
-8. Optimization Methods (II): projected gradient descent, proximal gradient descent, ADMM.
-9. Sparse Linear model: Lp shrinkage penalty, the Lasso (coordinate decent, LARS, proximal and gradient projection methods, EM, Dantzig selector, SCAD), elastic net, group Lasso, fused Lasso.
-10. Undirected Graphical Model: conditional independence (clique, factorization, Hammersley-Clifford equivalence), Gaussian graphical model (circling algorithm), graphical Lasso, Gaussian copula graphical model.
-11. Latent Linear Model: factor analysis, PCA, CCA, ICA.
-12. Smoothing Method: basis expansions (Spline, nature cubic spline, Fourier bases, wavelet bases, smoothing spline, P-spline, GCV), kernel estimator (Kernel density estimation, NW kernel estimator, local linear regression, kernel density classifier), the curse of dimensionality.
-13. Kernel Trick: kernel property (symmetric, non-negative, reproductive, reproducing kernel Hilbert space), Mercer's Theorem, kernel penalty (kernel ridge regression, kernel SVM), maximum mean discrepancy. 
-14. Additive Model and Tree-Based Model: GAM, tree-based model (regression tree, classification tree), boosting (Adaboost, gradient boosting, boosting tree), bagging (random forest), ensemble learning.
-15. Unsupervised Learning: clustering (K-mean, hierarchical clustering, model-based clustering, spectral clustering), sparse principal component analysis.
+4. [Linear classification](http://tan-jianbin.github.io/files/PPT_2021-fall-teaching/Linear_Classification.pdf)
+5. [Generalized linear model](http://tan-jianbin.github.io/files/PPT_2021-fall-teaching/Generalized_Linear_Model.pdf)
+6. [EM algorithm and variational inference](http://tan-jianbin.github.io/files/PPT_2021-fall-teaching/EM_Algorithm&Variational_Inferencel.pdf).
+8. [Sparse linear model](http://tan-jianbin.github.io/files/PPT_2021-fall-teaching/Sparse_Linear_Model.pdf).
+9. [Undirected graphical model](http://tan-jianbin.github.io/files/PPT_2021-fall-teaching/Undirected_Graphical_Model.pdf).
+10. [Latent linear Model](http://tan-jianbin.github.io/files/PPT_2021-fall-teaching/Directed_Graphical_Models.pdf).
+11. [Smoothing method](http://tan-jianbin.github.io/files/PPT_2021-fall-teaching/Smooth_Method.pdf).
+12. [Kernel methods](http://tan-jianbin.github.io/files/PPT_2021-fall-teaching/Kernel_Method.pdf). 
+13. [Tree-based model](http://tan-jianbin.github.io/files/PPT_2021-fall-teaching/Tree_Based_Model.pdf).
+14. [Clustering](http://tan-jianbin.github.io/files/PPT_2021-fall-teaching/Clustering.pdf).
