@@ -25,8 +25,8 @@ Reference
 Content 
 ======
 
-1. [Gaussian model](http://tan-jianbin.github.io/files/PPT_2021-fall-teaching/JASA1.pdf)
-2. Statistical Learning Theory and Model Selection: decision theory (admissibility, Stein's paradox, minimax criterion), learning theory (regularization, VC dimension, minimal description length), model selection (information criterion, cross-validation).
+1. [Gaussian model](http://tan-jianbin.github.io/files/PPT_2021-fall-teaching/Gaussian model.pdf)
+2. [Statistical learning theory and Model Selection](http://tan-jianbin.github.io/files/PPT_2021-fall-teaching/Statistic_Learning_Theory.pdf).
 3. Linear Regression: least square estimator (Gaussian-Markov theorem, geometry explanation, computation), subset selection (Cp criterion, forward, backward or stepwise selection), Ridge regression.
 4. Optimization Methods (I): convex optimization, Lagrange multipliers, gradient decent (unconstrained gradient decent, Newton-like method), coordinate decent.
 5. Linear Regression for Classification: LDA, logistic regression, SVM.
