@@ -9,7 +9,7 @@ location: "Guangzhou, China"
 
 ---         
 
-Study the theories of asymptotic statistics, empirical process, high-dimensional statistics, and nonparametric statistics.
+Study the mathematical basis of functional data analysis, including the fundamental knowledge of functional analysis and probability in function spaces.
 
 Reference
 ======
