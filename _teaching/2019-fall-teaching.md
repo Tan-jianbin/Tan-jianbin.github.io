@@ -22,5 +22,5 @@ Content
 2. [Linear operator and functionals](http://tan-jianbin.github.io/files/PPT_2019-fda/Operator.pdf)
 3. [Reproducing kernel Hilbert spaces](http://tan-jianbin.github.io/files/PPT_2019-fda/Reproducing kernel Hilbert spaces.pdf)
 4. [Compact operator](http://tan-jianbin.github.io/files/PPT_2019-fda/Compact Operator.pdf)
-5. [Non-parametric regression](http://tan-jianbin.github.io/files/PPT_2019-fda/Non-parametric Regression.pdf)
+5. [Nonparametric regression](http://tan-jianbin.github.io/files/PPT_2019-fda/Non-parametric Regression.pdf)
 6. [Random elements in Hilbert spaces](http://tan-jianbin.github.io/files/PPT_2019-fda/Random elements in Hilbert space.pdf)
