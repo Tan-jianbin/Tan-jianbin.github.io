@@ -1,5 +1,5 @@
 ---
-title: "Mathematical foundations of functional data"
+title: "Mathematical Foundations of Functional Data"
 collection: 
 type: "Seminar"
 permalink: /teaching/2019-fall-teaching
