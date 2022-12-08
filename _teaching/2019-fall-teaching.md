@@ -14,7 +14,7 @@ Study the mathematical basis of functional data analysis, including the fundamen
 Reference
 ======
 
-1. Hsing, T., & Eubank, R. (2015). Theoretical foundations of functional data analysis, with an introduction to linear operators (Vol. 997). John Wiley & Sons.
+1. Hsing, T., & Eubank, R. (2015). Theoretical foundations of functional data analysis, with an introduction to linear operators John Wiley & Sons.
 
 Content 
 ======
