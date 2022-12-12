@@ -2,7 +2,7 @@
 title: "Statistical Learning"
 collection: 
 type: "Seminar"
-permalink: /seminar/2021-fall-teaching-1
+permalink: /seminars/2021-fall-teaching-1
 venue: "University of Science and Technology of China, School of Management"
 date: 2021-09-01
 location: "Hefei, China"
