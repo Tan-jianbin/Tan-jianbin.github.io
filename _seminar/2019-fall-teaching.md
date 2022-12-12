@@ -2,7 +2,7 @@
 title: "Mathematical Foundations of Functional Data"
 collection: 
 type: "Seminar"
-permalink: /teaching/2019-fall-teaching
+permalink: /seminar/2019-fall-teaching
 venue: "Sun Yat-sen University, School of Mathematics"
 date: 2019-09-01
 location: "Guangzhou, China"

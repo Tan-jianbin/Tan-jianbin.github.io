@@ -2,7 +2,7 @@
 title: "Statistical Inference of Differential Equations"
 collection: 
 type: "Seminar"
-permalink: /teaching/2022-fall-teaching-2
+permalink: /seminar/2022-fall-teaching-2
 venue: "University of Science and Technology of China, School of Management"
 date: 2022-09-01
 location: "Hefei, China"

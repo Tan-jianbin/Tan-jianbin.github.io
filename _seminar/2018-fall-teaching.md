@@ -1,7 +1,8 @@
 ---
 title: "Statistics and Probability"
 collection: 
-permalink: /teaching/2018-fall-teaching
+type: 
+permalink: /seminar/2018-fall-teaching
 venue: "Sun Yat-sen University, School of Mathematics"
 date: 2018-09-01
 location: "Guangzhou, China"
