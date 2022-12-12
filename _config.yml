@@ -224,7 +224,7 @@ defaults:
  # _seminars
   - scope:
       path: ""
-      type: seminar
+      type: seminars
     values:
       layout: single
       author_profile: true
