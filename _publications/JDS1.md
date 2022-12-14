@@ -1,5 +1,5 @@
 ---
-title: ["Evaluate the Risk of Resumption of Business for the States of New York, New Jersey and Connecticut via a Pre-Symptomatic and Asymptomatic Transmission Model of COVID-19"](https://jds-online.org/journal/JDS/article/664/info)
+title: "Evaluate the Risk of Resumption of Business for the States of New York, New Jersey and Connecticut via a Pre-Symptomatic and Asymptomatic Transmission Model of COVID-19 [Link](https://jds-online.org/journal/JDS/article/664/info)"
 collection: publications
 permalink: /publication/JDS1
 excerpt: ''
