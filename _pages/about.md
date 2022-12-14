@@ -18,6 +18,6 @@ Research Interests
 ======
 - Functional data analysis: (multivariate) functional time series, graphical models of multivariate functional data.
 - Dynamic data analysis: statistical inference of dynamic systems, including estimation of parameters, governing equations, and causal networks of dynamic systems.
-- Application: infectious diseases and spatiotemporal modeling.
+- Application: spatiotemporal and epidemic modeling.
 
   
