@@ -1,5 +1,5 @@
 ---
-title: "Transmission roles of symptomatic and asymptomatic COVID-19 cases: a modeling study [DOI](https://doi.org/10.1017/S0950268822001467)"
+title: "Transmission roles of symptomatic and asymptomatic COVID-19 cases: a modeling study [[DOI]](https://doi.org/10.1017/S0950268822001467)"
 collection: publications
 permalink: /publication/E&I1
 excerpt: ''

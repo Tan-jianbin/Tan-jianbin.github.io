@@ -1,5 +1,5 @@
 ---
-title: 'The Effects of Stringent and Mild Interventions for Coronavirus Pandemic [DOI](https://doi.org/10.1080/01621459.2021.1897015)'
+title: 'The Effects of Stringent and Mild Interventions for Coronavirus Pandemic [[DOI]](https://doi.org/10.1080/01621459.2021.1897015)'
 collection: publications
 permalink: /publication/JASA1
 excerpt: ''
