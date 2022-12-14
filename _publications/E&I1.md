@@ -1,5 +1,5 @@
 ---
-title: "Transmission roles of symptomatic and asymptomatic COVID-19 cases: a modeling study [Link](https://www.cambridge.org/core/journals/epidemiology-and-infection/article/transmission-roles-of-symptomatic-and-asymptomatic-covid19-cases-a-modeling-study/83FF3958AE6CCAD3A772E63F1FC0EB39)"
+title: "Transmission roles of symptomatic and asymptomatic COVID-19 cases: a modeling study [DOI](https://doi.org/10.1017/S0950268822001467)"
 collection: publications
 permalink: /publication/E&I1
 excerpt: ''
