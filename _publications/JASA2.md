@@ -6,6 +6,6 @@ excerpt: ''
 date: 3023-04-22
 venue: 'Journal of the American Statistical Association'
 paperurl: ''
-citation: 'Jianbin Tan, Decai Liang, Yongtao Guan, Hui Huang, Principal Component Analysis of Graphical-Functional Time Series, $\textit{Journal of the American Statistical Association}$, under revision'
+citation: 'Jianbin Tan, Decai Liang, Yongtao Guan, Hui Huang, Principal Component Analysis of Graphical-Functional Time Series, $\textit{Journal of the American Statistical Association}$, under review'
 
 ---
