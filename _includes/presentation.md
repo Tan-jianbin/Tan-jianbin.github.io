@@ -1,10 +1,20 @@
 ## Presentations
 
-<h4 style="margin:0 10px 0;">Conference Reviewers</h4>
+<!-- 使用 Bootstrap 栅格系统创建两列 -->
+<div class="row">
+  <div class="col-md-6">
+    <h2>演讲标题</h2>
+    <p>演讲概述</p>
+    <ul>
+      <li>演讲亮点1</li>
+      <li>演讲亮点2</li>
+      <li>演讲亮点3</li>
+    </ul>
+  </div>
+  <div class="col-md-6">
+    <!-- 插入图片 -->
+    <img src="path/to/image.jpg" alt="演讲图片">
+  </div>
+</div>
 
-<ul style="margin:0 0 5px;">
-  <li><a href="http://cvpr2023.thecvf.com/"><autocolor>IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2021-2023</autocolor></a></li>
-  <li><a href="http://iccv2021.thecvf.com/"><autocolor>IEEE/CVF International Conference on Computer Vision (ICCV) 2021</autocolor></a></li>
-  <li><a href="https://eccv2022.ecva.net/"><autocolor>European Conference on Computer Vision (ECCV) 2022</autocolor></a></li>
-</ul>
 
