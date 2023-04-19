@@ -7,8 +7,8 @@
 <div class="pub-row">
 
    <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;max-width: 150px;max-height: 150px">
-    <img src="assets/img/comps.pdf" style="width: auto; height: auto">
-    <abbr class="badge">BIOM</abbr>
+    <img src="assets/img/Local.pdf" style="width: auto; height: auto">
+    <abbr class="badge">JRSSB</abbr>
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="">Green’s Matching: an Efficient Approach to Parameter Estimation in Complex Dynamic Systems</a></div>
@@ -22,8 +22,8 @@
 <div class="pub-row">
 
    <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;max-width: 150px;max-height: 150px">
-    <img src="assets/img/comps.pdf" style="width: auto; height: auto">
-    <abbr class="badge">BIOM</abbr>
+    <img src="assets/img/fit_fda.pdf" style="width: auto; height: auto">
+    <abbr class="badge">JASA</abbr>
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="">Principal Component Analysis of Graphical-Functional Time Series</a></div>
