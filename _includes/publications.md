@@ -6,7 +6,7 @@
 <li>
 <div class="pub-row">
 
-   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;max-width: 150px;max-height: 150px">
+   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;max-width: 100px;max-height: 100px">
     <img src="assets/img/Local.pdf" style="width: auto; height: auto">
     <abbr class="badge">JRSSB</abbr>
   </div>
@@ -21,7 +21,7 @@
 <li>
 <div class="pub-row">
 
-   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;max-width: 150px;max-height: 150px">
+   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;max-width: 100px;max-height: 100px">
     <img src="assets/img/fit_fda.pdf" style="width: auto; height: auto">
     <abbr class="badge">JASA</abbr>
   </div>
