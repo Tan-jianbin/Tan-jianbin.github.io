@@ -17,6 +17,7 @@
     <div class="periodical"><em> Journal of Data Science, 2021.</em></div>
     <div class="links">
       <a href="https://doi.org/10.6339/21-JDS994" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">DOI</a>
+      <strong><i style="color:#e74d3c">Discussion paper</i></strong>
     </div>
   </div>
 </div>
