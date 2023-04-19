@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I’m a Ph.D. candidate of statistics working with Prof. [Hui Huang](https://math.sysu.edu.cn/teacher/485) in the School of Mathematics, SYSU, since 2019. I am generally interested in analyzing $\textbf{data with complex structures}$, and I have focused on research about $\textbf{functional data analysis}$ and $\textbf{dynamic data analysis}$.
 
 ## Research Interests
 
