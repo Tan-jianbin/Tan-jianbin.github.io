@@ -7,7 +7,8 @@
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/tran.jpg" class="">
+  <div style="position: relative;">
+<img src="assets/img/tran.jpg" style="width: 100px; height: 100px">
     <abbr class="badge">E&I</abbr>
   </div>
   
