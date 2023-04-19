@@ -11,6 +11,21 @@
     <abbr class="badge">BIOM</abbr>
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="">Principal Component Analysis of Graphical-Functional Time Series</a></div>
+    <div class="author"> <strong> Jianbin Tan </strong>, Decai Liang, Yongtao Guan, and Hui Huang.</div>
+    <div class="periodical"><em> Journal of the American Statistical Association, under review.</em></div>
+  </div>
+</div>
+</li>
+
+<li>
+<div class="pub-row">
+
+   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;max-width: 150px;max-height: 150px">
+    <img src="assets/img/comps.pdf" style="width: auto; height: auto">
+    <abbr class="badge">BIOM</abbr>
+  </div>
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://doi.org/10.1111/biom.13814">Age-related Model for Estimating the Symptomatic and Asymptomatic Transmissibility of COVID-19 Patients</a></div>
     <div class="author"> <strong> Jianbin Tan </strong>, Ye Shen, Yang Ge, Leonardo Martinez, and Hui Huang.</div>
     <div class="periodical"><em> Biometrics, accepted.</em></div>
