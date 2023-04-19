@@ -1,3 +1,19 @@
+ <head>
+    <style>
+     
+.pub-row {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start; /* 将元素顶部对齐 */
+  margin-bottom: 20px;
+  border-bottom: 1px solid #ddd;
+  padding-bottom: 20px;
+}
+    </style>
+  </head>
+  
+  
+ 
 <h2 id="publications" style="margin: 2px 0px -15px;">Publications</h2>
 
 <div class="publications">
@@ -19,7 +35,7 @@
 </li>
 
 <li>
- <div class="row align-items-start">
+<div class="pub-row">
 
    <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;max-width: 150px;max-height: 150px">
     <img src="assets/img/fit_fda.pdf" style="width: auto; height: auto">
@@ -95,3 +111,6 @@
 <br>
 </ol>
 </div>
+
+
+  
