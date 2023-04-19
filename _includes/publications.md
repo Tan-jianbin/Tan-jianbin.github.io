@@ -5,9 +5,9 @@
   display: flex;
   justify-content: space-between;
   align-items: flex-start; /* 将元素顶部对齐 */
-  margin-bottom: 20px;
-  border-bottom: 1px solid #ddd;
-  padding-bottom: 20px;
+  margin-bottom: 1px;
+  border-bottom: none;
+  padding-bottom: 1px;
 }
     </style>
   </head>
