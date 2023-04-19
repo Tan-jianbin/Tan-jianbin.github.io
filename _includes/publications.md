@@ -14,7 +14,6 @@
     <div class="title"><a href="https://doi.org/10.1080/01621459.2021.1897015">The Effects of Stringent and Mild Interventions for Coronavirus Pandemic</a></div>
     <div class="author">Ting Tian, <strong> Jianbin Tan (joint first authorship) </strong>, Wenxiang Luo, Yukang Jiang, Minqiong Chen, Songpan Yang, Canhong Wen, Wenliang Pan, and Xueqin Wang.</div>
     <div class="periodical"><em> Journal of the American Statistical Association, 2021.</em></div>
-      </div>
   </div>
 </div>
 </li>
@@ -32,7 +31,6 @@
     <div class="author">Ting Tian, <strong> Jianbin Tan (joint first authorship)</strong>, Yukang Jiang, Xueqin Wang, and Heping Zhang.</div>
     <div class="periodical"><em> Journal of Data Science, 2021.</em></div>
       </div>
-  </div>
 </div>
 </li>
   
