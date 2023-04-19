@@ -8,8 +8,8 @@ I’m a Ph.D. candidate in statistics working with Prof. [Hui Huang](https://mat
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Functional data analysis**: dependent functional data, (multivariate) functional time series, graphical models of functional data.
+- **Dynamic data analysis**: statistical inference of dynamic systems.
 
 ## News
 
