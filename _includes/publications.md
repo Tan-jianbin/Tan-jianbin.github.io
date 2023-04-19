@@ -6,7 +6,7 @@
 <li>
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/policy.pdf" class="">
+    <img src="assets/img/tran.jpg" class="">
     <abbr class="badge">E&I</abbr>
   </div>
   
