@@ -12,6 +12,7 @@ During my doctorate career, different projects have been carried out under the g
 
 - **Functional data analysis**: dependent functional data, (multivariate) functional time series, graphical models of functional data.
 - **Dynamic data analysis**: differential equation modeling, statistical inference of dynamic systems.
+- **Bayesian inference**: Monte-Carlo-based inference, variational inference, empirical Bayesian. 
 
 
 {% include_relative _includes/publications.md %}
