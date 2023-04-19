@@ -15,7 +15,9 @@
     <div class="periodical"><em> Epidemiology and Infection, 2022.</em></div>
   </div>
 </div>
+</li>
 
+<li>
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/img/policy.pdf" class="">
@@ -27,7 +29,9 @@
     <div class="periodical"><em> Journal of the American Statistical Association, 2021.</em></div>
   </div>
 </div>
+</li>
 
+<li>
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/img/states.pdf" class="">
