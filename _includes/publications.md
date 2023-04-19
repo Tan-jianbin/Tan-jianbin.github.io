@@ -12,7 +12,7 @@
   
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://doi.org/10.1017/S0950268822001467">Transmission roles of symptomatic and asymptomatic COVID-19 cases: a modeling study</a></div>
-    <div class="author"> <strong> Jianbin Tan <strong> , Yang Ge, Leonardo Martinez, Jimin Sun, Changwei Li, Adrianna Westbrook, Enfu Chen, Jinren Pan, Yang Li, Wei Cheng, Feng Ling, Zhiping Chen, Ye Shen, and Hui Huang.</div>
+    <div class="author"> <strong> Jianbin Tan <strong>, Yang Ge, Leonardo Martinez, Jimin Sun, Changwei Li, Adrianna Westbrook, Enfu Chen, Jinren Pan, Yang Li, Wei Cheng, Feng Ling, Zhiping Chen, Ye Shen, and Hui Huang.</div>
     <div class="periodical"><em> Epidemiology and Infection, 2022.</em></div>
   </div>
 </div>
