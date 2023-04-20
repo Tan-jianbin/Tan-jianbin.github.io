@@ -1,8 +1,4 @@
-body {
-    background-image: url("assets/img/Local.pdf");
-    background-size: cover;
-    background-position: center;
-}
+
 
 
 ---
