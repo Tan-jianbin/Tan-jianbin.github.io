@@ -1,10 +1,12 @@
 ## Presentations
 
-<ul class="speech-info">
-  <li>Title: <span class="speech-title">Principal Component Analysis of Graphical-Functional Time Series</span></li>
-  <li>Name: <span class="conference-name">NESS Symposium 2022</span></li>
-  <li>Date: <span class="date">2022-05-25</span></li>
-</ul>
-
-
+<a href="指定内容页面链接">
+  <div class="pub-row">
+    <div class="pub-text" style="width: 100%;">
+      <h3>Principal Component Analysis of Graphical-Functional Time Series</h3>
+      <p>NESS Symposium 2022</p>
+      <p>2022-05-25</p>
+    </div>
+  </div>
+</a>
 
