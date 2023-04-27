@@ -23,7 +23,7 @@
 <div class="pub-row">
 
    <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;max-width: 150px;max-height: 150px">
-    <img src="assets/img/Local.pdf" style="width: auto; height: auto">
+    <img src="assets/img/Local.jpeg" style="width: auto; height: auto">
     <abbr class="badge">JRSSB</abbr>
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
@@ -38,7 +38,7 @@
 <div class="pub-row">
 
    <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;max-width: 150px;max-height: 150px">
-    <img src="assets/img/fit_fda.pdf" style="width: auto; height: auto">
+    <img src="assets/img/fit_fda.jpeg" style="width: auto; height: auto">
     <abbr class="badge">JASA</abbr>
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
@@ -53,7 +53,7 @@
 <div class="pub-row">
 
    <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;max-width: 150px;max-height: 150px">
-    <img src="assets/img/comps.pdf" style="width: auto; height: auto">
+    <img src="assets/img/comps.jpeg" style="width: auto; height: auto">
     <abbr class="badge">BIOM</abbr>
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
@@ -68,7 +68,7 @@
 <div class="pub-row">
 
    <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;max-width: 150px;max-height: 150px">
-    <img src="assets/img/tran.jpg" style="width: auto; height: auto">
+    <img src="assets/img/tran.jpeg" style="width: auto; height: auto">
     <abbr class="badge">EI</abbr>
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
@@ -83,7 +83,7 @@
 <div class="pub-row">
 
    <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;max-width: 150px;max-height: 150px">
-    <img src="assets/img/policy.pdf" style="width: auto; height: auto">
+    <img src="assets/img/policy.jpeg" style="width: auto; height: auto">
     <abbr class="badge">JASA</abbr>
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
@@ -97,7 +97,7 @@
 <li>
 <div class="pub-row">
      <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;max-width: 150px;max-height: 150px">
-    <img src="assets/img/states.pdf" style="width: 150px; height: 80px">
+    <img src="assets/img/states.jpeg" style="width: 150px; height: 80px">
     <abbr class="badge">JDS</abbr>
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
