@@ -2,7 +2,7 @@
 layout: homepage
 ---
 
-## About Me
+## Welcome to <p style="color: red;">Jia</p> <p style="color: blue;">n</p> <p style="color: yellow;">bin</p> 's homepage!
 
 I’m a Ph.D. candidate in statistics working with Prof. [Hui Huang](https://math.sysu.edu.cn/teacher/485) in the School of Mathematics, SYSU, since 2019. I am generally interested in analyzing **data with complex structures** and I have focused on research about **functional data analysis** and **dynamic data analysis**.
 
