@@ -10,5 +10,3 @@ My research interest lies in the topic of statistical modelling and analysis for
 
 
 {% include_relative _includes/publications.md %}
-
-{% include_relative _includes/presentation.md %}  
