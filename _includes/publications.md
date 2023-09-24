@@ -42,7 +42,7 @@
     <abbr class="badge">JASA</abbr>
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href=" ">Principal Component Analysis of Graphical-Functional Time Series</a></div>
+    <div class="title"><a href=" ">Grphical Principal Component Analysis of Multivariate Functional Time Series</a></div>
     <div class="author"> <strong> Jianbin Tan </strong>, Decai Liang, Yongtao Guan, and Hui Huang.</div>
     <div class="periodical"><em> Journal of the American Statistical Association, under review.</em></div>
   </div>
