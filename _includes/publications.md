@@ -29,7 +29,7 @@
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href=" ">Green’s Matching: an Efficient Approach to Parameter Estimation in Complex Dynamic Systems</a></div>
     <div class="author"> <strong> Jianbin Tan </strong>, Guoyu Zhang, Xueqin Wang, Hui Huang, and Fang Yao.</div>
-    <div class="periodical"><em> Journal of the Royal Statistical Society, Series B (Statistical Methodology), under review.</em></div>
+    <div class="periodical"><em> Journal of the Royal Statistical Society, Series B (Statistical Methodology), major revision.</em></div>
   </div>
 </div>
 </li>
@@ -44,9 +44,9 @@
     <abbr class="badge">JASA</abbr>
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href=" ">Grphical Principal Component Analysis of Multivariate Functional Time Series</a></div>
+    <div class="title"><a href="https://www.tandfonline.com/doi/full/10.1080/01621459.2024.2302198">Grphical Principal Component Analysis of Multivariate Functional Time Series</a></div>
     <div class="author"> <strong> Jianbin Tan </strong>, Decai Liang, Yongtao Guan, and Hui Huang.</div>
-    <div class="periodical"><em> Journal of the American Statistical Association, acceptable after major revisions.</em></div>
+    <div class="periodical"><em> Journal of the American Statistical Association, to appear.</em></div>
   </div>
 </div>
 </li>
