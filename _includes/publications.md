@@ -61,7 +61,7 @@
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://doi.org/10.1017/S0950268823001292">Social mixing and network characteristics of COVID-19 patients before and after widespread interventions: A population-based study</a></div>
-    <div class="author"> Yuncong He, Leonardo Martinez, Yang Ge, Yan Feng, Yewen Chen, <strong> Jianbin Tan<strong> , Adrianna Westbrook, Changwei Li, Wei Cheng, Feng Ling, Huimin Cheng, Shushan Wu, Wenxuan Zhong, Andreas Handel, Hui Huang, Jimin Sun, and Ye Shen.</div>
+    <div class="author"> Yuncong He, Leonardo Martinez, Yang Ge, Yan Feng, Yewen Chen, <strong> Jianbin Tan<strong>, Adrianna Westbrook, Changwei Li, Wei Cheng, Feng Ling, Huimin Cheng, Shushan Wu, Wenxuan Zhong, Andreas Handel, Hui Huang, Jimin Sun, and Ye Shen.</div>
     <div class="periodical"><em> Epidemiology & Infection, 2023.</em></div>
   </div>
 </div>
