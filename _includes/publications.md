@@ -138,12 +138,12 @@
 
    <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;max-width: 150px;max-height: 150px">
     <img src="assets/img/policy.jpeg" style="width: auto; height: auto">
-    <abbr class="badge">JDS</abbr>
+    <abbr class="badge">ACTA</abbr>
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://doi.org/10.1101/2020.05.16.20103747">P-SIHR probabilistic graphical model: an applicable model of covid-19 in estimating the number of infectious individuals</a></div>
+    <div class="title"><a href="https://applmath.cjoe.ac.cn/jweb_yysxxb/CN/10.12387/C2020029">P-SIHR probabilistic graphical model: an applicable model of covid-19 in estimating the number of infectious individuals</a></div>
     <div class="author"><strong> Jianbin Tan </strong>, Yukang Jiang, Ting Tian, and Xueqin Wang.</div>
-    <div class="periodical"><em> Journal of Data Science, 2021.</em></div>
+    <div class="periodical"><em> Acta Mathematicae Applicatae Sinica, 2020.</em></div>
   </div>
 </div>
 </li>
