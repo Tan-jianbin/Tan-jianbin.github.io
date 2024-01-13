@@ -74,7 +74,7 @@
 
    <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;max-width: 150px;max-height: 150px">
     <img src="assets/img/tran.jpeg" style="width: auto; height: auto">
-    <abbr class="badge">BIOM</abbr>
+    <abbr class="badge">I&E</abbr>
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://doi.org/10.1017/S0950268822001467">Transmission roles of symptomatic and asymptomatic COVID-19 cases: a modelling study</a></div>
