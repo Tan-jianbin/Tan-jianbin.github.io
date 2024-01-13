@@ -61,7 +61,7 @@
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://doi.org/10.1017/S0950268823001292">Social mixing and network characteristics of COVID-19 patients before and after widespread interventions: A population-based study</a></div>
-    <div class="author"> Yuncong He, Leonardo Martinez, Yang Ge, Yan Feng, Yewen Chen, <strong> Jianbin Tan<strong> , Adrianna Westbrook, Changwei Li, Wei Cheng, Feng Ling, Huimin Cheng, Shushan Wu, Wenxuan Zhong, Andreas Handel, Hui Huang, Jimin Sun, Ye Shen.</div>
+    <div class="author"> Yuncong He, Leonardo Martinez, Yang Ge, Yan Feng, Yewen Chen, <strong> Jianbin Tan<strong> , Adrianna Westbrook, Changwei Li, Wei Cheng, Feng Ling, Huimin Cheng, Shushan Wu, Wenxuan Zhong, Andreas Handel, Hui Huang, Jimin Sun, and Ye Shen.</div>
     <div class="periodical"><em> Epidemiology & Infection, 2023.</em></div>
   </div>
 </div>
@@ -131,6 +131,23 @@
   </div>
 </div>
 </li>
+
+
+<li>
+<div class="pub-row">
+
+   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;max-width: 150px;max-height: 150px">
+    <img src="assets/img/policy.jpeg" style="width: auto; height: auto">
+    <abbr class="badge">JDS</abbr>
+  </div>
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://doi.org/10.1101/2020.05.16.20103747">P-SIHR probabilistic graphical model: an applicable model of covid-19 in estimating the number of infectious individuals</a></div>
+    <div class="author"><strong> Jianbin Tan </strong>, Yukang Jiang, Ting Tian, and Xueqin Wang.</div>
+    <div class="periodical"><em> Journal of Data Science, 2021.</em></div>
+  </div>
+</div>
+</li>
+
 
 
 
