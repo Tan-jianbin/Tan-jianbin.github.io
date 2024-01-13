@@ -73,6 +73,23 @@
 <div class="pub-row">
 
    <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;max-width: 150px;max-height: 150px">
+    <img src="assets/img/tran.jpeg" style="width: auto; height: auto">
+    <abbr class="badge">BIOM</abbr>
+  </div>
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://doi.org/10.1017/S0950268822001467">Transmission roles of symptomatic and asymptomatic COVID-19 cases: a modelling study</a></div>
+    <div class="author"> <strong> Jianbin Tan </strong>, Yang Ge, Leonardo Martinez, Jimin Sun, Changwei Li, Adrianna Westbrook, Enfu Chen, Jinren Pan, Yang Li, Wei Cheng, Feng Ling, Zhiping Chen, Ye Shen, and Hui Huang.</div>
+    <div class="periodical"><em> Epidemiology & Infection, 2022.</em></div>
+  </div>
+</div>
+</li>
+
+
+
+<li>
+<div class="pub-row">
+
+   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;max-width: 150px;max-height: 150px">
     <img src="assets/img/policy.jpeg" style="width: auto; height: auto">
     <abbr class="badge">JASA</abbr>
   </div>
