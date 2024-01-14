@@ -121,11 +121,11 @@
 <div class="pub-row">
 
    <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;max-width: 150px;max-height: 150px">
-    <img src="assets/img/policy.jpeg" style="width: auto; height: auto">
+    <img src="assets/img/jds.jpeg" style="width: auto; height: auto">
     <abbr class="badge">JDS</abbr>
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://doi.org/10.1101/2020.05.16.20103747">Evaluate the risk of resumption of business for the states of New York, New Jersey and Connecticut via a pre-symptomatic and asymptomatic transmission model of COVID-19</a></div>
+    <div class="title"><a href="https://jds-online.org/journal/JDS/article/664/info">Evaluate the risk of resumption of business for the states of New York, New Jersey and Connecticut via a pre-symptomatic and asymptomatic transmission model of COVID-19</a></div>
     <div class="author">Ting Tian, <strong> Jianbin Tan (joint first authorship) </strong>, Yukang Jiang, Xueqin Wang, and Heping Zhang.</div>
     <div class="periodical"><em> Journal of Data Science, 2021.</em></div>
   </div>
