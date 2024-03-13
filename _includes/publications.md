@@ -23,11 +23,27 @@
 <div class="pub-row">
 
    <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;max-width: 150px;max-height: 150px">
+    <img src="assets/img/clusterres8.png" style="width: auto; height: auto">
+    <abbr class="badge">JASA</abbr>
+  </div>
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href=" ">Functional clustering for longitudinal associations between social determinants of health and stroke mortality in the US</a></div>
+    <div class="author"> Fangzhi Luo, <strong> Jianbin Tan (joint first authorship) </strong>, Donglan Zhang, Hui Huang, and Ye Shen.</div>
+    <div class="periodical"><em> Journal of the American Statistical Association, submitted.</em></div>
+  </div>
+</div>
+</li>
+
+
+<li>
+<div class="pub-row">
+
+   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;max-width: 150px;max-height: 150px">
     <img src="assets/img/Local.jpeg" style="width: auto; height: auto">
     <abbr class="badge">JRSSB</abbr>
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href=" ">Green’s matching: an efficient approach to parameter estimation in complex dynamic Systems</a></div>
+    <div class="title"><a href=" ">Green’s matching: an efficient approach to parameter estimation in complex dynamic systems</a></div>
     <div class="author"> <strong> Jianbin Tan </strong>, Guoyu Zhang, Xueqin Wang, Hui Huang, and Fang Yao.</div>
     <div class="periodical"><em> Journal of the Royal Statistical Society, Series B (Statistical Methodology), accepted.</em></div>
   </div>
