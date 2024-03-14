@@ -43,7 +43,7 @@
     <abbr class="badge">JRSSB</abbr>
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href=" ">Green’s matching: an efficient approach to parameter estimation in complex dynamic systems</a></div>
+    <div class="title"><a href="https://doi.org/10.1093/jrsssb/qkae031">Green’s matching: an efficient approach to parameter estimation in complex dynamic systems</a></div>
     <div class="author"> <strong> Jianbin Tan </strong>, Guoyu Zhang, Xueqin Wang, Hui Huang, and Fang Yao.</div>
     <div class="periodical"><em> Journal of the Royal Statistical Society, Series B (Statistical Methodology), accepted.</em></div>
   </div>
