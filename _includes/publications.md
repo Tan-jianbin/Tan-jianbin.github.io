@@ -76,7 +76,7 @@
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://doi.org/10.1017/S0950268823001292">Social mixing and network characteristics of COVID-19 patients before and after widespread interventions: A population-based study</a></div>
-    <div class="author"> Yuncong He, Leonardo Martinez, Yang Ge, Yan Feng, Yewen Chen, <strong>Jianbin Tan</strong>, Adrianna Westbrook, Changwei Li, Wei Cheng, Feng Ling, Huimin Cheng, Shushan Wu, Wenxuan Zhong, Andreas Handel, Hui Huang, Jimin Sun, and Ye Shen.</div>
+    <div class="author"> Yuncong He, Leonardo Martinez, Yang Ge, Yan Feng, Yewen Chen, <strong><span style="color: orange;">Jianbin Tan</span></strong>, Adrianna Westbrook, Changwei Li, Wei Cheng, Feng Ling, Huimin Cheng, Shushan Wu, Wenxuan Zhong, Andreas Handel, Hui Huang, Jimin Sun, and Ye Shen.</div>
     <div class="periodical"><em> Epidemiology & Infection, 2023.</em></div>
   </div>
 </div>
@@ -93,7 +93,7 @@
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://doi.org/10.1111/biom.13814">Age-related Model for Estimating the Symptomatic and Asymptomatic Transmissibility of COVID-19 Patients</a></div>
-    <div class="author"> <strong> Jianbin Tan </strong>, Ye Shen, Yang Ge, Leonardo Martinez, and Hui Huang.</div>
+    <div class="author"> <strong><span style="color: orange;">Jianbin Tan</span></strong>, Ye Shen, Yang Ge, Leonardo Martinez, and Hui Huang.</div>
     <div class="periodical"><em> Biometrics, 2023.</em></div>
   </div>
 </div>
@@ -109,7 +109,7 @@
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://doi.org/10.1017/S0950268822001467">Transmission roles of symptomatic and asymptomatic COVID-19 cases: a modelling study</a></div>
-    <div class="author"> <strong> Jianbin Tan </strong>, Yang Ge, Leonardo Martinez, Jimin Sun, Changwei Li, Adrianna Westbrook, Enfu Chen, Jinren Pan, Yang Li, Wei Cheng, Feng Ling, Zhiping Chen, Ye Shen, and Hui Huang.</div>
+    <div class="author"> <strong><span style="color: orange;">Jianbin Tan</span></strong>, Yang Ge, Leonardo Martinez, Jimin Sun, Changwei Li, Adrianna Westbrook, Enfu Chen, Jinren Pan, Yang Li, Wei Cheng, Feng Ling, Zhiping Chen, Ye Shen, and Hui Huang.</div>
     <div class="periodical"><em> Epidemiology & Infection, 2022.</em></div>
   </div>
 </div>
@@ -126,7 +126,7 @@
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://doi.org/10.1080/01621459.2021.1897015">The Effects of Stringent and Mild Interventions for Coronavirus Pandemic</a></div>
-    <div class="author">Ting Tian, <strong> Jianbin Tan (joint first authorship) </strong>, Wenxiang Luo, Yukang Jiang, Minqiong Chen, Songpan Yang, Canhong Wen, Wenliang Pan, and Xueqin Wang.</div>
+    <div class="author">Ting Tian, <strong><span style="color: orange;">Jianbin Tan</span></strong>, Wenxiang Luo, Yukang Jiang, Minqiong Chen, Songpan Yang, Canhong Wen, Wenliang Pan, and Xueqin Wang.</div>
     <div class="periodical"><em> Journal of the American Statistical Association, 2021.</em></div>
   </div>
 </div>
@@ -142,7 +142,7 @@
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://jds-online.org/journal/JDS/article/664/info">Evaluate the risk of resumption of business for the states of New York, New Jersey and Connecticut via a pre-symptomatic and asymptomatic transmission model of COVID-19</a></div>
-    <div class="author">Ting Tian, <strong> Jianbin Tan (joint first authorship) </strong>, Yukang Jiang, Xueqin Wang, and Heping Zhang.</div>
+    <div class="author">Ting Tian, <strong><span style="color: orange;">Jianbin Tan</span></strong> (joint first authorship), Yukang Jiang, Xueqin Wang, and Heping Zhang.</div>
     <div class="periodical"><em> Journal of Data Science, 2021.</em></div>
   </div>
 </div>
