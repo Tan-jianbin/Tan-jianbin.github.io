@@ -28,7 +28,7 @@
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href=" ">Functional clustering for longitudinal associations between social determinants of health and stroke mortality in the US</a></div>
-    <div class="author"> Fangzhi Luo, <strong><span style="color: orange;">Jianbin Tan</span></strong> (joint first authorship), Donglan Zhang, Hui Huang, and Ye Shen.</div>
+    <div class="author"> Fangzhi Luo, <strong><span style="color: orange;">Jianbin Tan (joint first authorship)</span></strong> , Donglan Zhang, Hui Huang, and Ye Shen.</div>
     <div class="periodical"><em> Journal of the American Statistical Association, submitted.</em></div>
   </div>
 </div>
@@ -126,7 +126,7 @@
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://doi.org/10.1080/01621459.2021.1897015">The effects of stringent and mild interventions for coronavirus pandemic</a></div>
-    <div class="author">Ting Tian, <strong><span style="color: orange;">Jianbin Tan</span></strong>, Wenxiang Luo, Yukang Jiang, Minqiong Chen, Songpan Yang, Canhong Wen, Wenliang Pan, and Xueqin Wang.</div>
+    <div class="author">Ting Tian, <strong><span style="color: orange;">Jianbin Tan (joint first authorship)</span></strong>, Wenxiang Luo, Yukang Jiang, Minqiong Chen, Songpan Yang, Canhong Wen, Wenliang Pan, and Xueqin Wang.</div>
     <div class="periodical"><em> Journal of the American Statistical Association, 2021.</em></div>
   </div>
 </div>
@@ -142,7 +142,7 @@
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://jds-online.org/journal/JDS/article/664/info">Evaluate the risk of resumption of business for the states of New York, New Jersey and Connecticut via a pre-symptomatic and asymptomatic transmission model of COVID-19</a></div>
-    <div class="author">Ting Tian, <strong><span style="color: orange;">Jianbin Tan</span></strong> (joint first authorship), Yukang Jiang, Xueqin Wang, and Heping Zhang.</div>
+    <div class="author">Ting Tian, <strong><span style="color: orange;">Jianbin Tan (joint first authorship)</span></strong>, Yukang Jiang, Xueqin Wang, and Heping Zhang.</div>
     <div class="periodical"><em> Journal of Data Science, 2021.</em></div>
   </div>
 </div>
