@@ -28,7 +28,7 @@
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href=" ">Functional clustering for longitudinal associations between social determinants of health and stroke mortality in the US</a></div>
-    <div class="author"> Fangzhi Luo, <strong> Jianbin Tan (joint first authorship) </strong>, Donglan Zhang, Hui Huang, and Ye Shen.</div>
+    <div class="author"> Fangzhi Luo, <Jianbin Tan style="color: orange;"> (joint first authorship), Donglan Zhang, Hui Huang, and Ye Shen.</div>
     <div class="periodical"><em> Journal of the American Statistical Association, submitted.</em></div>
   </div>
 </div>
