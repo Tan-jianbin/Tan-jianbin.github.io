@@ -92,7 +92,7 @@
     <abbr class="badge">BIOM</abbr>
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://doi.org/10.1111/biom.13814">Age-related Model for Estimating the Symptomatic and Asymptomatic Transmissibility of COVID-19 Patients</a></div>
+    <div class="title"><a href="https://doi.org/10.1111/biom.13814">Age-related model for estimating the symptomatic and asymptomatic transmissibility of COVID-19 patients</a></div>
     <div class="author"> <strong><span style="color: orange;">Jianbin Tan</span></strong>, Ye Shen, Yang Ge, Leonardo Martinez, and Hui Huang.</div>
     <div class="periodical"><em> Biometrics, 2023.</em></div>
   </div>
@@ -125,7 +125,7 @@
     <abbr class="badge">JASA</abbr>
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://doi.org/10.1080/01621459.2021.1897015">The Effects of Stringent and Mild Interventions for Coronavirus Pandemic</a></div>
+    <div class="title"><a href="https://doi.org/10.1080/01621459.2021.1897015">The effects of stringent and mild interventions for coronavirus pandemic</a></div>
     <div class="author">Ting Tian, <strong><span style="color: orange;">Jianbin Tan</span></strong>, Wenxiang Luo, Yukang Jiang, Minqiong Chen, Songpan Yang, Canhong Wen, Wenliang Pan, and Xueqin Wang.</div>
     <div class="periodical"><em> Journal of the American Statistical Association, 2021.</em></div>
   </div>
