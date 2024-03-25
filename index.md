@@ -8,6 +8,6 @@ I am currently a [Postdoctoral Associate](https://biostat.duke.edu/profile/jianb
 
 My research interest lies in statistical modelling and algorithms for data with complex mechanisms, dependencies, heterogeneity, and intricate functional structures. Specifically, I have focused on statistical inference of dynamic, spatiotemporal, and high-dimensional longitudinal/functional data, with applications to ***biological, health, epidemiological, and environmental sciences***. 
 
-To encode complex data features in scientific discovery, it would be beneficial to develop more flexible and data-driven frameworks rather than analyzing data with specific model assumptions. To this end, new theories and algorithms should be established and tailored to these frameworks, ensuring theoretical validity,  computation tractability, and statistical efficiency for data analysis.
+{% To encode complex data features in scientific discovery, it would be beneficial to develop more flexible and data-driven frameworks rather than analyzing data with specific model assumptions. To this end, new theories and algorithms should be established and tailored to these frameworks, ensuring theoretical validity,  computation tractability, and statistical efficiency for data analysis.%}
 
 {% include_relative _includes/publications.md %}
