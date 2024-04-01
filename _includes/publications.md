@@ -24,7 +24,7 @@
 
    <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;max-width: 150px;max-height: 150px">
     <img src="assets/img/clusterres8.png" style="width: auto; height: auto">
-    <abbr class="badge">JASA</abbr>
+    <abbr class="badge"> </abbr>
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href=" ">Functional clustering for longitudinal associations between social determinants of health and stroke mortality in the US</a></div>
