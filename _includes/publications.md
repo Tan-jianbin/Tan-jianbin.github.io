@@ -60,7 +60,7 @@
     <abbr class="badge">JASA</abbr>
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://www.tandfonline.com/doi/full/10.1080/01621459.2024.2302198">Grphical principal component analysis of multivariate functional time series</a></div>
+    <div class="title"><a href="https://www.tandfonline.com/doi/full/10.1080/01621459.2024.2302198">Graphical principal component analysis of multivariate functional time series</a></div>
     <div class="author"> <strong><span style="color: orange;">Jianbin Tan</span></strong>, Decai Liang, Yongtao Guan, and Hui Huang.</div>
     <div class="periodical"><em> Journal of the American Statistical Association, 2024.</em></div>
   </div>
