@@ -46,6 +46,10 @@
     <div class="title"><a href="https://doi.org/10.1093/jrsssb/qkae031">Green’s matching: an efficient approach to parameter estimation in complex dynamic systems</a></div>
     <div class="author"> <strong><span style="color: orange;">Jianbin Tan</span></strong>, Guoyu Zhang, Xueqin Wang, Hui Huang, and Fang Yao.</div>
     <div class="periodical"><em> Journal of the Royal Statistical Society, Series B (Statistical Methodology), 2024.</em></div>
+    <!-- Code -->
+    <div class="github-link">
+      <a href="https://github.com/Tan-jianbin/Statistical-Inference-in-General-order-Dynamic-Systems"> Code </a>
+    </div>
   </div>
 </div>
 </li>
@@ -64,7 +68,7 @@
     <div class="periodical"><em> Journal of the American Statistical Association, 2024.</em></div>
     <!-- Code -->
     <div class="github-link">
-      <a href="https://github.com/Jianbin-Tan/GFPCA">View on GitHub</a>
+      <a href="https://github.com/Jianbin-Tan/GFPCA"> Code </a>
     </div>
   </div>
 </div>
