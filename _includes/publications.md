@@ -135,6 +135,10 @@
     <div class="title"><a href="https://doi.org/10.1080/01621459.2021.1897015">The effects of stringent and mild interventions for coronavirus pandemic</a></div>
     <div class="author">Ting Tian, <strong><span style="color: orange;">Jianbin Tan (joint first authorship)</span></strong>, Wenxiang Luo, Yukang Jiang, Minqiong Chen, Songpan Yang, Canhong Wen, Wenliang Pan, and Xueqin Wang.</div>
     <div class="periodical"><em> Journal of the American Statistical Association, 2021.</em></div>
+     <!-- Code -->
+    <div class="github-link">
+      <a href="https://github.com/tingT0929/The-Effects-of-Stringent-and-Mild-Interventions"> Code </a>
+    </div>
   </div>
 </div>
 </li>
