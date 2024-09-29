@@ -155,11 +155,16 @@
     <div class="title"><a href="https://jds-online.org/journal/JDS/article/664/info">Evaluate the risk of resumption of business for the states of New York, New Jersey and Connecticut via a pre-symptomatic and asymptomatic transmission model of COVID-19</a></div>
     <div class="author">Ting Tian, <strong><span style="color: orange;">Jianbin Tan (joint first authorship)</span></strong>, Yukang Jiang, Xueqin Wang, and Heping Zhang.</div>
     <div class="periodical"><em> Journal of Data Science, 2021.</em></div>
+    <!-- Code -->
+    <div class="github-link">
+      <a href="https://github.com/tingT0929/Resumption-of-business"> Code </a>
+    </div>
   </div>
 </div>
 </li>
 
 <br>
+
 
 
   
