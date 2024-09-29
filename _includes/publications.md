@@ -102,6 +102,10 @@
     <div class="title"><a href="https://doi.org/10.1111/biom.13814">Age-related model for estimating the symptomatic and asymptomatic transmissibility of COVID-19 patients</a></div>
     <div class="author"> <strong><span style="color: orange;">Jianbin Tan</span></strong>, Ye Shen, Yang Ge, Leonardo Martinez, and Hui Huang.</div>
     <div class="periodical"><em> Biometrics, 2023.</em></div>
+       <!-- Code -->
+    <div class="github-link">
+      <a href="https://github.com/Jianbin-Tan/Age-related-Model-for-COVID-19-Epidemic"> View on GitHub </a>
+    </div>
   </div>
 </div>
 </li>
