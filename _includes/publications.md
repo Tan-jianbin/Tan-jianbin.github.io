@@ -54,7 +54,6 @@
 
 <li>
 <div class="pub-row">
-
    <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;max-width: 150px;max-height: 150px">
     <img src="assets/img/fit_fda.jpeg" style="width: auto; height: auto">
     <abbr class="badge">JASA</abbr>
@@ -62,7 +61,11 @@
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://www.tandfonline.com/doi/full/10.1080/01621459.2024.2302198">Graphical principal component analysis of multivariate functional time series</a></div>
     <div class="author"> <strong><span style="color: orange;">Jianbin Tan</span></strong>, Decai Liang, Yongtao Guan, and Hui Huang.</div>
-    <div class="periodical"><em> Journal of the American Statistical Association, 2024 [Code](https://github.com/Jianbin-Tan/GFPCA?tab=readme-ov-file).</em></div>
+    <div class="periodical"><em> Journal of the American Statistical Association, 2024.</em></div>
+    <!-- Code -->
+    <div class="github-link">
+      <a href="https://github.com/Jianbin-Tan/GFPCA">View on GitHub</a>
+    </div>
   </div>
 </div>
 </li>
