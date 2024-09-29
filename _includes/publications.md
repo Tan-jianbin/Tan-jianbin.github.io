@@ -48,7 +48,7 @@
     <div class="periodical"><em> Journal of the Royal Statistical Society, Series B (Statistical Methodology), 2024.</em></div>
     <!-- Code -->
     <div class="github-link">
-      <a href="https://github.com/Tan-jianbin/Statistical-Inference-in-General-order-Dynamic-Systems"> Code </a>
+      <a href="https://github.com/Tan-jianbin/Statistical-Inference-in-General-order-Dynamic-Systems">  View on GitHub </a>
     </div>
   </div>
 </div>
@@ -68,7 +68,7 @@
     <div class="periodical"><em> Journal of the American Statistical Association, 2024.</em></div>
     <!-- Code -->
     <div class="github-link">
-      <a href="https://github.com/Jianbin-Tan/GFPCA"> Code </a>
+      <a href="https://github.com/Jianbin-Tan/GFPCA">  View on GitHub </a>
     </div>
   </div>
 </div>
@@ -137,7 +137,7 @@
     <div class="periodical"><em> Journal of the American Statistical Association, 2021.</em></div>
      <!-- Code -->
     <div class="github-link">
-      <a href="https://github.com/tingT0929/The-Effects-of-Stringent-and-Mild-Interventions"> Code </a>
+      <a href="https://github.com/tingT0929/The-Effects-of-Stringent-and-Mild-Interventions"> View on GitHub </a>
     </div>
   </div>
 </div>
@@ -157,7 +157,7 @@
     <div class="periodical"><em> Journal of Data Science, 2021.</em></div>
     <!-- Code -->
     <div class="github-link">
-      <a href="https://github.com/tingT0929/Resumption-of-business"> Code </a>
+      <a href="https://github.com/tingT0929/Resumption-of-business"> View on GitHub </a>
     </div>
   </div>
 </div>
