@@ -23,7 +23,7 @@
 <div class="pub-row">
 
    <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;max-width: 150px;max-height: 150px">
-    <img src="assets/img/fsvd_tasks.pdf" style="width: auto; height: auto">
+    <img src="assets/img/fsvd.pdf" style="width: auto; height: auto">
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href=" ">Functional Singular Value Decomposition</a></div>
