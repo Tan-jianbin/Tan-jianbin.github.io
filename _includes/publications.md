@@ -26,9 +26,9 @@
     <img src="assets/img/fsvd.jpg" style="width: auto; height: 110 px">
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href=" ">Functional Singular Value Decomposition</a></div>
+    <div class="title"><a href="https://arxiv.org/pdf/2410.03619">Functional Singular Value Decomposition</a></div>
     <div class="author"> <strong><span style="color: orange;">Jianbin Tan</span></strong>, Pixu Shi, and Anru R. Zhang.</div>
-    <div class="periodical"><em>  </em></div>
+    <div class="periodical"><em>  Arxiv.</em></div>
     <!-- Code -->
     <div class="github-link">
       <a href="https://github.com/Jianbin-Tan/Functional-Singular-Value-Decompostion">  View on GitHub </a>
