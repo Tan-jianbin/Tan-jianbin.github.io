@@ -24,6 +24,7 @@
 
    <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;max-width: 150px;max-height: 150px">
     <img src="assets/img/fsvd.jpg" style="width: auto; height: auto">
+     <abbr class="badge">  Arxiv </abbr>
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://arxiv.org/pdf/2410.03619">Functional Singular Value Decomposition</a></div>
