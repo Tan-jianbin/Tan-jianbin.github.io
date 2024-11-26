@@ -21,7 +21,6 @@
 
 <li>
 <div class="pub-row">
-
    <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;max-width: 150px;max-height: 150px">
     <img src="assets/img/fsvd.jpg" style="width: auto; height: auto">
      <abbr class="badge">  Preprint </abbr>
@@ -41,7 +40,6 @@
 
 <li>
 <div class="pub-row">
-
    <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;max-width: 150px;max-height: 150px">
     <img src="assets/img/UFPCA.jpg" style="width: auto; height: auto">
      <abbr class="badge">  Preprint </abbr>
@@ -61,7 +59,6 @@
 
 <li>
 <div class="pub-row">
-
    <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;max-width: 150px;max-height: 150px">
     <img src="assets/img/clusterres8.png" style="width: auto; height: auto">
     <abbr class="badge">  AOAS </abbr>
@@ -81,7 +78,6 @@
 
 <li>
 <div class="pub-row">
-
    <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;max-width: 150px;max-height: 150px">
     <img src="assets/img/Local.jpeg" style="width: auto; height: auto">
     <abbr class="badge">JRSSB</abbr>
