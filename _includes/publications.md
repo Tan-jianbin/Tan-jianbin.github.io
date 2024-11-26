@@ -38,6 +38,7 @@
 </div>
 </li>
 
+
 <li>
 <div class="pub-row">
 
@@ -49,6 +50,10 @@
     <div class="title"><a href="https://arxiv.org/abs/2408.02343">Unified Principal Components Analysis of Functional Time Series</a></div>
      <div class="author"> Zerui Guo, <strong><span style="color: orange;">Jianbin Tan (joint first authorship)</span></strong>, and Hui Huang.</div>
     <div class="periodical"><em>  Preprint.</em></div>
+      <!-- Code -->
+    <div class="github-link">
+      <a href="">  View on GitHub </a>
+    </div>
   </div>
 </div>
 </li>
