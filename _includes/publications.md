@@ -38,6 +38,21 @@
 </div>
 </li>
 
+<li>
+<div class="pub-row">
+
+   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;max-width: 150px;max-height: 150px">
+    <img src="assets/img/UFPCA.jpg" style="width: auto; height: auto">
+     <abbr class="badge">  Preprint </abbr>
+  </div>
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://arxiv.org/abs/2408.02343">Unified Principal Components Analysis of Functional Time Series</a></div>
+     <div class="author"> Zerui Guo, <strong><span style="color: orange;">Jianbin Tan (joint first authorship)</span></strong>, and Hui Huang.</div>
+    <div class="periodical"><em>  Preprint.</em></div>
+  </div>
+</div>
+</li>
+
 
 <li>
 <div class="pub-row">
