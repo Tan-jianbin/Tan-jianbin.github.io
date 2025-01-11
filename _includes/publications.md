@@ -112,7 +112,8 @@
     <div class="periodical"><em> Journal of the American Statistical Association, 2024.</em></div>
     <!-- Code -->
     <div class="github-link">
-      <a href="https://github.com/Jianbin-Tan/GFPCA">  View on GitHub </a>
+      <a href="https://github.com/Jianbin-Tan/GFPCA">  View on GitHub </a>&nbsp;&nbsp;
+      <a href="https://arxiv.org/abs/2401.06990"> View on Arxiv </a>
     </div>
   </div>
 </div>
