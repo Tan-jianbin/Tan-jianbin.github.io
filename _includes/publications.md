@@ -52,7 +52,7 @@
       <!-- Code -->
     <div class="github-link">
       <a href="">  View on GitHub </a>
-      <a href="https://arxiv.org/abs/2408.02343> View on Arxiv </a>
+      <a href="https://arxiv.org/abs/2408.02343"> View on Arxiv </a>
     </div>
   </div>
 </div>
@@ -72,6 +72,7 @@
     <!-- Code -->
     <div class="github-link">
       <a href="https://github.com/fl81224/Functional-Clustering-of-Longitudinal-Associations?tab=readme-ov-file">  View on GitHub </a>
+      <a href="https://arxiv.org/abs/2406.10499"> View on Arxiv </a>
     </div>
   </div>
 </div>
