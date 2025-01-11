@@ -175,6 +175,7 @@
     <div class="github-link">
       <a href="https://www.medrxiv.org/content/10.1101/2021.05.11.21257060v3"> View on medRxiv </a>
   </div>
+      </div>
 </div>
 </li>
 
