@@ -170,7 +170,8 @@
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://doi.org/10.1017/S0950268822001467">Transmission roles of symptomatic and asymptomatic COVID-19 cases: a modelling study</a></div>
     <div class="author"> <strong><span style="color: orange;">Jianbin Tan</span></strong>, Yang Ge, Leonardo Martinez, Jimin Sun, Changwei Li, Adrianna Westbrook, Enfu Chen, Jinren Pan, Yang Li, Wei Cheng, Feng Ling, Zhiping Chen, Ye Shen, and Hui Huang.</div>
-    <div class="periodical"><em> Epidemiology & Infection, 2022.</em></div>
+    <div class="periodical"><em> Epidemiology & Infection, 2022.</em></div>&nbsp;&nbsp;
+      <a href="https://www.medrxiv.org/content/10.1101/2021.05.11.21257060v3"> View on medRxiv </a>
   </div>
 </div>
 </li>
