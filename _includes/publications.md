@@ -32,6 +32,7 @@
     <!-- Code -->
     <div class="github-link">
       <a href="https://github.com/Jianbin-Tan/Functional-Singular-Value-Decompostion">  View on GitHub </a>
+      <a href="https://example.com/more-info"> View on Arxiv </a>
     </div>
   </div>
 </div>
