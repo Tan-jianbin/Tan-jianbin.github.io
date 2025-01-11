@@ -210,7 +210,8 @@
     <div class="periodical"><em> Journal of Data Science, 2021.</em></div>
     <!-- Code -->
     <div class="github-link">
-      <a href="https://github.com/tingT0929/Resumption-of-business"> View on GitHub </a>
+      <a href="https://github.com/tingT0929/Resumption-of-business"> View on GitHub </a>&nbsp;&nbsp;
+      <a href="https://www.medrxiv.org/content/10.1101/2020.05.16.20103747v5"> View on medRxiv </a>
     </div>
   </div>
 </div>
