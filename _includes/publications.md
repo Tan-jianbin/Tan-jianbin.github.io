@@ -51,7 +51,6 @@
     <div class="periodical"><em>  Preprint.</em></div>
       <!-- Code -->
     <div class="github-link">
-      <a href="">  View on GitHub </a>&nbsp;&nbsp;
       <a href="https://arxiv.org/abs/2408.02343"> View on Arxiv </a>
     </div>
   </div>
