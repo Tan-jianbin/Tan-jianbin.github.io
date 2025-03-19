@@ -67,7 +67,7 @@
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://doi.org/10.1214/24-AOAS1989">Functional clustering for longitudinal associations between social determinants of health and stroke mortality in the U.S.</a></div>
     <div class="author"> Fangzhi Luo, <strong><span style="color: orange;">Jianbin Tan (joint first authorship)</span></strong>, Donglan Zhang, Hui Huang, and Ye Shen.</div>
-    <div class="periodical"><em> Annals of Applied Statistics, accepted.</em></div>
+    <div class="periodical"><em> Annals of Applied Statistics, 2025.</em></div>
     <!-- Code -->
     <div class="github-link">
       <a href="https://github.com/fl81224/Functional-Clustering-of-Longitudinal-Associations?tab=readme-ov-file">  View on GitHub </a>&nbsp;&nbsp;
