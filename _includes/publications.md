@@ -46,7 +46,7 @@
      <abbr class="badge">  Preprint </abbr>
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://arxiv.org/abs/2408.02343">Unified principal components analysis of stationary functional time series</a></div>
+    <div class="title"><a href="https://arxiv.org/abs/2408.02343">A unified principal components analysis of stationary functional time series</a></div>
      <div class="author"> Zerui Guo, <strong><span style="color: orange;">Jianbin Tan (joint first authorship)</span></strong>, and Hui Huang.</div>
     <div class="periodical"><em>  Preprint.</em></div>
       <!-- Code -->
