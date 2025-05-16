@@ -72,7 +72,6 @@
     <div class="github-link">
       <a href="https://github.com/fl81224/Functional-Clustering-of-Longitudinal-Associations?tab=readme-ov-file">  View on GitHub </a>&nbsp;&nbsp;
       <a href="https://arxiv.org/abs/2406.10499"> View on Arxiv </a>
-      <a src="assets/files/GFPCA_Slides.pdf"> Slice </a>
     </div>
   </div>
 </div>
@@ -114,6 +113,7 @@
     <div class="github-link">
       <a href="https://github.com/Jianbin-Tan/GFPCA">  View on GitHub </a>&nbsp;&nbsp;
       <a href="https://arxiv.org/abs/2401.06990"> View on Arxiv </a>
+      <a src="assets/files/GFPCA_Slides.pdf"> Slice </a>
     </div>
   </div>
 </div>
