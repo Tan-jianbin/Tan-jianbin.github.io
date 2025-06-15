@@ -22,25 +22,6 @@
 <li>
 <div class="pub-row">
    <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;max-width: 150px;max-height: 150px">
-    <img src="assets/img/MACCOM.jpg" style="width: auto; height: auto">
-     <abbr class="badge">  Preprint </abbr>
-  </div>
-  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://arxiv.org/abs/2506.09208">Integrated analysis for electronic health records with structured and sporadic missingness</a></div>
-    <div class="author"> <strong><span style="color: orange;">Jianbin Tan</span></strong>, Yan Zhang, Chuan Hong, T. Tony Cai, Tianxi Cai, Anru R. Zhang.</div>
-    <div class="periodical"><em>  Preprint.</em></div>
-    <!-- Code -->
-    <div class="github-link">
-      <a href="https://github.com/Tan-jianbin/Macomss">  View on GitHub </a>&nbsp;&nbsp;
-      <a href="https://arxiv.org/abs/2506.09208"> View on Arxiv </a>
-    </div>
-  </div>
-</div>
-</li>
-
-<li>
-<div class="pub-row">
-   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;max-width: 150px;max-height: 150px">
     <img src="assets/img/fsvd.jpg" style="width: auto; height: auto">
      <abbr class="badge">  Preprint </abbr>
   </div>
@@ -52,6 +33,25 @@
     <div class="github-link">
       <a href="https://github.com/Jianbin-Tan/Functional-Singular-Value-Decompostion">  View on GitHub </a>&nbsp;&nbsp;
       <a href="https://arxiv.org/abs/2410.03619"> View on Arxiv </a>
+    </div>
+  </div>
+</div>
+</li>
+
+<li>
+<div class="pub-row">
+   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;max-width: 150px;max-height: 150px">
+    <img src="assets/img/MACCOM.jpg" style="width: auto; height: auto">
+     <abbr class="badge">  Preprint </abbr>
+  </div>
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://arxiv.org/abs/2506.09208">Integrated analysis for electronic health records with structured and sporadic missingness</a></div>
+    <div class="author"> <strong><span style="color: orange;">Jianbin Tan</span></strong>, Yan Zhang, Chuan Hong, T. Tony Cai, Tianxi Cai, Anru R. Zhang.</div>
+    <div class="periodical"><em>  Preprint.</em></div>
+    <!-- Code -->
+    <div class="github-link">
+      <a href="https://github.com/Tan-jianbin/Macomss">  View on GitHub </a>&nbsp;&nbsp;
+      <a href="https://arxiv.org/abs/2506.09208"> View on Arxiv </a>
     </div>
   </div>
 </div>
