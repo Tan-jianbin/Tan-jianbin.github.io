@@ -46,7 +46,7 @@
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://arxiv.org/abs/2507.20072">Sparse equation matching: a derivative-free learning for general-order dynamical systems</a></div>
-    <div class="author"> JIaqiang Li,  <strong><span style="color: orange;">Jianbin Tan</span></strong>, and Xueqin Wang.</div>
+    <div class="author"> JIaqiang Li, <strong><span style="color: orange;">Jianbin Tan</span></strong>, and Xueqin Wang.</div>
     <div class="periodical"><em>  Preprint.</em></div>
     <!-- Code -->
     <div class="github-link">
