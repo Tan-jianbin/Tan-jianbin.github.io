@@ -30,12 +30,6 @@
     <div class="title"><a href="">Smooth flow matching</a></div>
     <div class="author"> <strong><span style="color: orange;">Jianbin Tan</span></strong>, and Anru R. Zhang.</div>
     <div class="periodical"><em>  Preprint.</em></div>
-    <!-- Code -->
-    <div class="github-link">
-      <a href="">  View on GitHub </a>&nbsp;&nbsp;
-      <a href=""> View on Arxiv </a>
-    </div>
-  </div>
 </div>
 </li>
 
