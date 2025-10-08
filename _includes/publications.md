@@ -97,7 +97,7 @@
 <div class="pub-row">
    <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;max-width: 150px;max-height: 150px">
     <img src="assets/img/MACCOM.jpg" style="width: auto; height: auto">
-     <abbr class="badge">  Preprint </abbr>
+     <abbr class="badge">  JBI </abbr>
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://arxiv.org/abs/2506.09208">Integrated analysis for electronic health records with structured and sporadic missingness</a></div>
