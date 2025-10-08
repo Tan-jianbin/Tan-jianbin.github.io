@@ -84,7 +84,7 @@
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://arxiv.org/abs/2506.09208">Integrated analysis for electronic health records with structured and sporadic missingness</a></div>
     <div class="author"> <strong><span style="color: orange;">Jianbin Tan</span></strong>, Yan Zhang, Chuan Hong, T. Tony Cai, Tianxi Cai, and Anru R. Zhang.</div>
-    <div class="periodical"><em>  Preprint.</em></div>
+    <div class="periodical"><em>  Journal of Biomedical Informatics, accepted.</em></div>
     <!-- Code -->
     <div class="github-link">
       <a href="https://github.com/Tan-jianbin/Macomss">  View on GitHub </a>&nbsp;&nbsp;
