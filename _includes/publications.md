@@ -93,6 +93,7 @@
 </div>
 </li>
 
+
 <li>
 <div class="pub-row">
    <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;max-width: 150px;max-height: 150px">
@@ -177,6 +178,25 @@
 <div class="pub-row">
 
    <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;max-width: 150px;max-height: 150px">
+    <img src="assets/img/comps.jpeg" style="width: auto; height: auto">
+    <abbr class="badge">BIOM</abbr>
+  </div>
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://doi.org/10.1111/biom.13814">Age-related model for estimating the symptomatic and asymptomatic transmissibility of COVID-19 patients</a></div>
+    <div class="author"> <strong><span style="color: orange;">Jianbin Tan</span></strong>, Ye Shen, Yang Ge, Leonardo Martinez, and Hui Huang.</div>
+    <div class="periodical"><em> Biometrics, 2023.</em></div>
+       <!-- Code -->
+    <div class="github-link">
+      <a href="https://github.com/Jianbin-Tan/Age-related-Model-for-COVID-19-Epidemic"> View on GitHub </a>
+    </div>
+  </div>
+</div>
+</li>
+
+<li>
+<div class="pub-row">
+
+   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;max-width: 150px;max-height: 150px">
     <img src="assets/img/network.jpeg" style="width: auto; height: auto">
     <abbr class="badge">I&E</abbr>
   </div>
@@ -194,24 +214,7 @@
 
 
 
-<li>
-<div class="pub-row">
 
-   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;max-width: 150px;max-height: 150px">
-    <img src="assets/img/comps.jpeg" style="width: auto; height: auto">
-    <abbr class="badge">BIOM</abbr>
-  </div>
-  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://doi.org/10.1111/biom.13814">Age-related model for estimating the symptomatic and asymptomatic transmissibility of COVID-19 patients</a></div>
-    <div class="author"> <strong><span style="color: orange;">Jianbin Tan</span></strong>, Ye Shen, Yang Ge, Leonardo Martinez, and Hui Huang.</div>
-    <div class="periodical"><em> Biometrics, 2023.</em></div>
-       <!-- Code -->
-    <div class="github-link">
-      <a href="https://github.com/Jianbin-Tan/Age-related-Model-for-COVID-19-Epidemic"> View on GitHub </a>
-    </div>
-  </div>
-</div>
-</li>
 
 
 <li>
