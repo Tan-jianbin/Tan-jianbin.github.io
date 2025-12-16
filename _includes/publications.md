@@ -81,7 +81,7 @@
      <abbr class="badge"> JASA </abbr>
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href=""> A Singular Value Decomposition Framework for Learning with Heterogeneous Functional Data </a></div>
+    <div class="title"><a href=""> A singular value decomposition framework for learning with heterogeneous functional data </a></div>
     <div class="author"> <strong><span style="color: orange;">Jianbin Tan</span></strong>, Pixu Shi, and Anru Zhang.</div>
     <div class="periodical"><em>  under minor revision at Journal of the American Statistical Association.</em></div>
     <!-- Code -->
