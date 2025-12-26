@@ -77,20 +77,6 @@
 <li>
 <div class="pub-row">
    <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;max-width: 150px;max-height: 150px">
-    <img src="assets/img/functional_filter.jpg" style="width: auto; height: auto">
-     <abbr class="badge">   </abbr>
-  </div>
-  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="">A frequency-domain approach for integrating multiple functional time series</a></div>
-    <div class="author"> Zerui Guo, <strong><span style="color: orange;">Jianbin Tan</span></strong>, and Hui Huang.</div>
-    <div class="periodical"><em>   </em></div>
-  </div>
-</div>
-</li>
-
-<li>
-<div class="pub-row">
-   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;max-width: 150px;max-height: 150px">
     <img src="assets/img/fsvd.jpg" style="width: auto; height: auto">
      <abbr class="badge"> JASA </abbr>
   </div>
@@ -143,6 +129,20 @@
       <a href="https://github.com/fl81224/Functional-Clustering-of-Longitudinal-Associations?tab=readme-ov-file">  View on GitHub </a>&nbsp;&nbsp;
       <a href="https://arxiv.org/abs/2406.10499"> View on Arxiv </a>
     </div>
+  </div>
+</div>
+</li>
+
+<li>
+<div class="pub-row">
+   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;max-width: 150px;max-height: 150px">
+    <img src="assets/img/functional_filter.jpg" style="width: auto; height: auto">
+     <abbr class="badge"> STAT  </abbr>
+  </div>
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="">A frequency-domain approach for integrating multiple functional time series</a></div>
+    <div class="author"> Zerui Guo, <strong><span style="color: orange;">Jianbin Tan</span></strong>, and Hui Huang.</div>
+    <div class="periodical"><em>  STAT, 2025. </em></div>
   </div>
 </div>
 </li>
