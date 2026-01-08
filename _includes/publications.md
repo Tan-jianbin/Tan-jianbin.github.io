@@ -32,6 +32,7 @@
     <div class="periodical"><em>  Preprint.</em></div>
     <!-- Code -->
     <div class="github-link">
+      <a href="https://github.com/Jianbin-Tan/Smooth-Flow-Matching">  View on GitHub </a>&nbsp;&nbsp;
       <a href="https://arxiv.org/abs/2508.13831"> View on Arxiv </a>
     </div>
   </div>
