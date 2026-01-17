@@ -141,7 +141,7 @@
       </div>
 
       <div class="pub-row">
-        <span class="pub-title">Integrated analysis for electronic health records with structured and sporadic missingness</span>
+        <span class="pub-title">Integrated Analysis for Electronic Health Records with Structured and Sporadic Missingness</span>
         <a class="pub-badge-link" href="https://doi.org/10.1016/j.jbi.2025.104933">JBI</a>
       </div>
     </div>
