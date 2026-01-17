@@ -58,13 +58,13 @@
 }
 .project-meta a{ margin-right: 10px; }
 
-/* Label style: bold + italic */
+/* Label style: bold ONLY (no italic) */
 .project-label{
   font-weight: 800;
-  font-style: italic;
+  font-style: normal;
 }
 
-/* Publication rows: article name (normal color, NOT a link) then journal badge (blue, clickable) */
+/* Publication rows: article title (CLICKABLE) then journal badge (blue, NOT clickable) */
 .pub-list{
   margin-top: 6px;
   text-align: left !important;
@@ -77,13 +77,16 @@
   margin: 6px 0;
 }
 
-/* Article name: use default text color (no forced color) */
-.pub-title{
-  /* no color here on purpose */
+/* Article title link (use theme default color; no forced color) */
+.pub-title a{
+  text-decoration: none;
+}
+.pub-title a:hover{
+  text-decoration: underline;
 }
 
-/* Journal badge link (blue) */
-.pub-badge-link{
+/* Journal badge (blue, not a link) */
+.pub-badge{
   display: inline-block;
   padding: 3px 10px;
   border-radius: 999px;
@@ -98,11 +101,6 @@
   white-space: nowrap;
   min-width: 0;
   text-align: left;
-  text-decoration: none;
-}
-.pub-badge-link:hover{
-  text-decoration: underline;
-  border-color: rgba(31,111,235,.85);
 }
 </style>
 
@@ -136,18 +134,24 @@
 
     <div class="pub-list">
       <div class="pub-row">
-        <span class="pub-title">Smooth Flow Matching</span>
-        <a class="pub-badge-link" href="https://arxiv.org/abs/2508.13831">Preprint</a>
+        <span class="pub-title">
+          <a href="https://arxiv.org/abs/2508.13831">Smooth Flow Matching</a>
+        </span>
+        <span class="pub-badge">Preprint</span>
       </div>
 
       <div class="pub-row">
-        <span class="pub-title">Functional-SVD for Heterogeneous Trajectories: Case Studies in Health</span>
-        <a class="pub-badge-link" href="https://arxiv.org/abs/2410.03619">Preprint</a>
+        <span class="pub-title">
+          <a href="https://arxiv.org/abs/2410.03619">Functional-SVD for Heterogeneous Trajectories: Case Studies in Health</a>
+        </span>
+        <span class="pub-badge">Preprint</span>
       </div>
 
       <div class="pub-row">
-        <span class="pub-title">Integrated Analysis for Electronic Health Records with Structured and Sporadic Missingness</span>
-        <a class="pub-badge-link" href="https://doi.org/10.1016/j.jbi.2025.104933">JBI</a>
+        <span class="pub-title">
+          <a href="https://doi.org/10.1016/j.jbi.2025.104933">Integrated Analysis for Electronic Health Records with Structured and Sporadic Missingness</a>
+        </span>
+        <span class="pub-badge">JBI</span>
       </div>
     </div>
   </div>
@@ -193,8 +197,10 @@
 
     <div class="pub-list">
       <div class="pub-row">
-        <span class="pub-title">Paper Title 2</span>
-        <a class="pub-badge-link" href="PAPER_URL_2">Journal</a>
+        <span class="pub-title">
+          <a href="PAPER_URL_2">Paper Title 2</a>
+        </span>
+        <span class="pub-badge">Journal</span>
       </div>
     </div>
   </div>
