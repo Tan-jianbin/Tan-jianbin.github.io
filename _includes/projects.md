@@ -112,7 +112,7 @@
 <!-- ===================== -->
 <div class="project-group">Application</div>
 <p class="project-group-note">
-  Projects organized by application domains and problem settings.
+  Projects organized by application domains.
 </p>
 
 <!-- Project 1 -->
