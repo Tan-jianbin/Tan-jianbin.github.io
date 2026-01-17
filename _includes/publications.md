@@ -103,7 +103,7 @@
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://doi.org/10.1002/sta4.70140">A frequency-domain approach for integrating multiple functional time series</a></div>
     <div class="author"> Zerui Guo, <strong><span style="color: orange;">Jianbin Tan</span></strong>, and Hui Huang.</div>
-    <div class="periodical"><em>  Stat, 2025. </em></div>
+    <div class="periodical"><em>  Stat, 2026. </em></div>
     <!-- Code -->
     <div class="github-link">
       <a href=""> View on Arxiv </a>
