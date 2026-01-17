@@ -9,7 +9,7 @@ I am currently a [Postdoctoral Associate](https://biostat.duke.edu/profile/jianb
 My research interests lie in statistical learning for data with <span style="color: orange;">dynamic, longitudinal, or functional structures</span>. Such data often exhibit complicated intrinsic mechanisms, dependencies, and heterogeneity, as well as challenges from noise, irregular sampling, and from high- or infinite-dimensionality. To address these, I focus on developing new methodologies for statistical learning of  <span style="color: orange;"> functions, opearators, and differential equations</span>, supporting effective analysis in health, epidemiology, and environmental science.
 <!-- Tabs -->
 <div class="rp-tabs" style="margin: 18px 0;">
-  <button type="button" class="rp-tab active" data-target="tab-projects">Research Projects</button>
+  <button type="button" class="rp-tab active" data-target="tab-projects">Research Project</button>
   <button type="button" class="rp-tab" data-target="tab-papers">Research Paper</button>
 </div>
 
