@@ -54,12 +54,12 @@
 .project-meta{
   margin: 0 0 6px 0;
   line-height: 1.45;
-  text-align: left !important;   /* force left */
+  text-align: left !important;
 }
 .project-meta strong{ font-weight: 800; }
 .project-meta a{ margin-right: 10px; }
 
-/* Publication rows: LEFT, title first then journal */
+/* Publication rows: LEFT, article name (white, NOT a link) then journal badge (blue, clickable) */
 .pub-list{
   margin-top: 6px;
   text-align: left !important;
@@ -72,17 +72,13 @@
   margin: 6px 0;
 }
 
-/* Title in white */
-.pub-title a{
-  color: #ffffff !important;
-  text-decoration: none;
-}
-.pub-title a:hover{
-  text-decoration: underline;
+/* Article name: white, not clickable */
+.pub-title{
+  color: #ffffff;
 }
 
-/* Journal indicator after title, also white */
-.pub-badge{
+/* Journal badge: blue and clickable */
+.pub-badge-link{
   display: inline-block;
   padding: 3px 10px;
   border-radius: 999px;
@@ -90,13 +86,18 @@
   font-weight: 800;
   line-height: 1.2;
 
-  color: #ffffff;
-  border: 1px solid rgba(255,255,255,.35);
+  color: #1f6feb;                         /* blue text */
+  border: 1px solid rgba(31,111,235,.55); /* blue border */
   background: transparent;
 
   white-space: nowrap;
-  min-width: 0;          /* IMPORTANT: no fixed width -> left aligned */
+  min-width: 0;
   text-align: left;
+  text-decoration: none;
+}
+.pub-badge-link:hover{
+  text-decoration: underline;
+  border-color: rgba(31,111,235,.85);
 }
 </style>
 
@@ -124,32 +125,24 @@
     <img src="assets/img/PROJECT1_FIG.png" alt="Project figure">
   </div>
 
-  <!-- Representative publications: WHITE, left, title first then journal -->
+  <!-- Representative publications: article name first (white, not link), then journal badge (blue, link) -->
   <div class="project-meta">
     <strong>Representative publications:</strong>
 
     <div class="pub-list">
       <div class="pub-row">
-        <span class="pub-title">
-          <a href="https://arxiv.org/abs/2508.13831">Smooth Flow Matching</a>
-        </span>
-        <span class="pub-badge">Preprint</span>
+        <span class="pub-title">Smooth Flow Matching</span>
+        <a class="pub-badge-link" href="https://arxiv.org/abs/2508.13831">Preprint</a>
       </div>
 
       <div class="pub-row">
-        <span class="pub-title">
-          <a href="https://arxiv.org/abs/2410.03619">Functional-SVD for Heterogeneous Trajectories: Case Studies in Health</a>
-        </span>
-        <span class="pub-badge">Preprint</span>
+        <span class="pub-title">Functional-SVD for Heterogeneous Trajectories: Case Studies in Health</span>
+        <a class="pub-badge-link" href="https://arxiv.org/abs/2410.03619">Preprint</a>
       </div>
 
       <div class="pub-row">
-        <span class="pub-title">
-          <a href="https://doi.org/10.1016/j.jbi.2025.104933">
-            Integrated analysis for electronic health records with structured and sporadic missingness
-          </a>
-        </span>
-        <span class="pub-badge">JBI</span>
+        <span class="pub-title">Integrated analysis for electronic health records with structured and sporadic missingness</span>
+        <a class="pub-badge-link" href="https://doi.org/10.1016/j.jbi.2025.104933">JBI</a>
       </div>
     </div>
   </div>
@@ -196,12 +189,10 @@
 
     <div class="pub-list">
       <div class="pub-row">
-        <span class="pub-title">
-          <a href="PAPER_URL_2">Paper Title 2</a>
-        </span>
-        <span class="pub-badge">Journal</span>
+        <span class="pub-title">Paper Title 2</span>
+        <a class="pub-badge-link" href="PAPER_URL_2">Journal</a>
       </div>
-      <!-- Add more publication rows if needed -->
+      <!-- Add more rows if needed -->
     </div>
   </div>
 
