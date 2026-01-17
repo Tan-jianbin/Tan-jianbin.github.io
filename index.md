@@ -23,17 +23,28 @@ My research interests lie in statistical learning for data with <span style="col
 
 <style>
   .rp-tab{
-    border: 1px solid rgba(255,255,255,.15);
-    background: transparent;
-    color: inherit;
-    padding: 8px 12px;
+    background: transparent;                 /* 底色跟网页一样 */
+    color: #1f6feb;                          /* 蓝色字 */
+    border: 2px solid rgba(31,111,235,.55);  /* 蓝色边框 */
+
+    padding: 14px 22px;
+    font-size: 18px;
+    line-height: 1.1;
     border-radius: 999px;
-    font-weight: 600;
+    font-weight: 700;
     cursor: pointer;
-    margin-right: 10px;
+    margin-right: 14px;
   }
+
+  .rp-tab:hover{
+    border-color: rgba(31,111,235,.85);
+  }
+
   .rp-tab.active{
-    background: rgba(255,255,255,.10);
+    background: transparent;                 /* 仍然不填充 */
+    color: #1f6feb;
+    border-color: #1f6feb;
+    box-shadow: 0 0 0 3px rgba(31,111,235,.18); /* 选中更明显 */
   }
 </style>
 
