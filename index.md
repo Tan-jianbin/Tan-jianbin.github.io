@@ -24,8 +24,8 @@ My research interests lie in statistical learning for data with <span style="col
 <style>
   .rp-tab{
     background: transparent;
-    color: #1f6feb;
-    border: 1.5px solid rgba(31,111,235,.55);
+    color: inherit;                 /* 继承当前文字/链接颜色 */
+    border: 1.5px solid currentColor; /* 边框跟文字同色 */
 
     padding: 9px 14px;
     font-size: 15px;
@@ -34,17 +34,17 @@ My research interests lie in statistical learning for data with <span style="col
     font-weight: 700;
     cursor: pointer;
     margin-right: 10px;
+    opacity: .95;
   }
 
+  .rp-tabs { color: var(--link-color, #4aa3ff); } /* 若主题有 link-color 就用，否则用一个默认蓝 */
+
   .rp-tab:hover{
-    border-color: rgba(31,111,235,.85);
+    opacity: 1;
   }
 
   .rp-tab.active{
-    background: transparent;
-    color: #1f6feb;
-    border-color: #1f6feb;
-    box-shadow: 0 0 0 2px rgba(31,111,235,.16);
+    box-shadow: 0 0 0 2px color-mix(in srgb, currentColor 20%, transparent);
   }
 </style>
 
