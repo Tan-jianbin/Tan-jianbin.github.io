@@ -64,7 +64,7 @@
   font-style: normal;
 }
 
-/* Publication rows: article title (CLICKABLE) then journal badge (blue, NOT clickable) */
+/* Publication rows: article title (clickable) then journal text (plain, no special color) */
 .pub-list{
   margin-top: 6px;
   text-align: left !important;
@@ -79,21 +79,9 @@
 .pub-title a{ text-decoration: none; }
 .pub-title a:hover{ text-decoration: underline; }
 
-.pub-badge{
-  display: inline-block;
-  padding: 3px 10px;
-  border-radius: 999px;
-  font-size: 12px;
-  font-weight: 800;
-  line-height: 1.2;
-
-  color: #1f6feb;
-  border: 1px solid rgba(31,111,235,.55);
-  background: transparent;
-
-  white-space: nowrap;
-  min-width: 0;
-  text-align: left;
+/* Journal plain text (no special format) */
+.pub-journal{
+  /* intentionally empty: inherits theme default */
 }
 
 /* Related code format: Name (Link) where only "Link" is clickable */
@@ -142,21 +130,21 @@
         <span class="pub-title">
           <a href="https://arxiv.org/abs/2508.13831">Smooth Flow Matching</a>
         </span>
-        <span class="pub-badge">Preprint</span>
+        <span class="pub-journal">Preprint</span>
       </div>
 
       <div class="pub-row">
         <span class="pub-title">
           <a href="https://arxiv.org/abs/2410.03619">Functional-SVD for Heterogeneous Trajectories: Case Studies in Health</a>
         </span>
-        <span class="pub-badge">Preprint</span>
+        <span class="pub-journal">Preprint</span>
       </div>
 
       <div class="pub-row">
         <span class="pub-title">
           <a href="https://doi.org/10.1016/j.jbi.2025.104933">Integrated Analysis for Electronic Health Records with Structured and Sporadic Missingness</a>
         </span>
-        <span class="pub-badge">JBI</span>
+        <span class="pub-journal">JBI</span>
       </div>
     </div>
   </div>
@@ -212,8 +200,9 @@
         <span class="pub-title">
           <a href="PAPER_URL_2">Paper Title 2</a>
         </span>
-        <span class="pub-badge">Journal</span>
+        <span class="pub-journal">Journal</span>
       </div>
+      <!-- Add more rows if needed -->
     </div>
   </div>
 
