@@ -182,6 +182,73 @@
   </p>
 </div>
 
+<!-- Project 2 (Group 1) -->
+<div class="project-item">
+  <div class="project-title">
+    <a href="">Epidemic Data Analysis</a>
+  </div>
+
+  <p class="project-summary">
+    This project develops statistical methods for dynamic epidemic and public health data, including causal inference,
+transmission modeling, and longitudinal association discovery, to characterize time-varying effects and enable reliable
+inference and scientific evaluation.
+  </p>
+
+  <div class="project-figure">
+    <img src="assets/img/PROJECT2_FIG.png" alt="Project figure">
+  </div>
+
+  <div class="project-meta">
+    <span class="project-label">Representative publications:</span>
+
+    <div class="pub-list">
+      <div class="pub-row">
+        <span class="pub-title">
+          <a href="https://doi.org/10.1080/01621459.2021.1897015">The Effects of Stringent and Mild Interventions for Coronavirus Pandemic</a>
+        </span>
+        <span class="pub-badge">JASA</span>
+      </div>
+
+      <div class="pub-row">
+        <span class="pub-title">
+          <a href="https://doi.org/10.1017/S0950268822001467">Transmission Roles of Symptomatic and Asymptomatic COVID-19 Cases: A Modelling Study</a>
+        </span>
+        <span class="pub-badge">I&amp;E</span>
+      </div>
+
+      <div class="pub-row">
+        <span class="pub-title">
+          <a href="https://doi.org/10.1214/24-AOAS1989">Functional Clustering for Longitudinal Associations between Social Determinants of Health and Stroke Mortality in the U.S.</a>
+        </span>
+        <span class="pub-badge">AOAS</span>
+      </div>
+
+      <div class="pub-row">
+        <span class="pub-title">
+          <a href="https://doi.org/10.1111/biom.13814">Age-Related Model for Estimating the Symptomatic and Asymptomatic Transmissibility of COVID-19 Patients</a>
+        </span>
+        <span class="pub-badge">BIOM</span>
+      </div>
+    </div>
+  </div>
+
+  <p class="project-meta">
+    <span class="project-label">Related code:</span>
+
+    <span class="code-item">
+      <a href="https://github.com/tingT0929/The-Effects-of-Stringent-and-Mild-Interventions">Causal Inference for Epidemic Interventions</a>
+    </span>
+
+    <span class="code-item">
+      <a href="https://github.com/fl81224/Functional-Clustering-of-Longitudinal-Associations?tab=readme-ov-file">Functional Clustering of Longitudinal Associations</a>
+    </span>
+
+    <span class="code-item">
+      <a href="https://github.com/Jianbin-Tan/Age-related-Model-for-COVID-19-Epidemic">Age-Stratified Epidemic Model</a>
+    </span>
+  </p>
+</div>
+
 <hr class="project-divider">
 
 
