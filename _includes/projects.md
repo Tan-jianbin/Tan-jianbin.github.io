@@ -19,7 +19,7 @@
   margin: 22px 0 22px 0;
 }
 
-/* Title */
+/* Project title (orange). If you don't want it clickable, remove <a> in HTML. */
 .project-title{
   font-size: 1.35rem;
   font-weight: 800;
@@ -56,10 +56,15 @@
   line-height: 1.45;
   text-align: left !important;
 }
-.project-meta strong{ font-weight: 800; }
 .project-meta a{ margin-right: 10px; }
 
-/* Publication rows: LEFT, article name (white, NOT a link) then journal badge (blue, clickable) */
+/* Label style: bold + italic (for "Representative publications" and "Related code") */
+.project-label{
+  font-weight: 800;
+  font-style: italic;
+}
+
+/* Publication rows: article name (white, NOT a link) then journal badge (blue, clickable) */
 .pub-list{
   margin-top: 6px;
   text-align: left !important;
@@ -72,12 +77,12 @@
   margin: 6px 0;
 }
 
-/* Article name: white, not clickable */
+/* Article name */
 .pub-title{
   color: #ffffff;
 }
 
-/* Journal badge: blue and clickable */
+/* Journal badge link */
 .pub-badge-link{
   display: inline-block;
   padding: 3px 10px;
@@ -86,8 +91,8 @@
   font-weight: 800;
   line-height: 1.2;
 
-  color: #1f6feb;                         /* blue text */
-  border: 1px solid rgba(31,111,235,.55); /* blue border */
+  color: #1f6feb;
+  border: 1px solid rgba(31,111,235,.55);
   background: transparent;
 
   white-space: nowrap;
@@ -113,7 +118,7 @@
 <!-- Project 1 -->
 <div class="project-item">
   <div class="project-title">
-    <a href="PROJECT_URL">Health Data Analysis</a>
+    <a href="">Health Data Analysis</a>
   </div>
 
   <p class="project-summary">
@@ -125,9 +130,9 @@
     <img src="assets/img/PROJECT1_FIG.png" alt="Project figure">
   </div>
 
-  <!-- Representative publications: article name first (white, not link), then journal badge (blue, link) -->
+  <!-- Representative publications -->
   <div class="project-meta">
-    <strong>Representative publications:</strong>
+    <span class="project-label">Representative publications:</span>
 
     <div class="pub-list">
       <div class="pub-row">
@@ -149,7 +154,7 @@
 
   <!-- Related code -->
   <p class="project-meta">
-    <strong>Related code:</strong>
+    <span class="project-label">Related code:</span>
     <a href="https://github.com/Jianbin-Tan/Smooth-Flow-Matching">Smooth Flow Matching</a>
     &nbsp;|&nbsp;
     <a href="https://github.com/Jianbin-Tan/Functional-Singular-Value-Decompostion">Functional Singular Value Decomposition</a>
@@ -158,7 +163,6 @@
   </p>
 </div>
 
-<!-- ===== ONLY divider between the two big categories ===== -->
 <hr class="project-divider">
 
 
@@ -185,19 +189,18 @@
   </div>
 
   <div class="project-meta">
-    <strong>Representative publications:</strong>
+    <span class="project-label">Representative publications:</span>
 
     <div class="pub-list">
       <div class="pub-row">
         <span class="pub-title">Paper Title 2</span>
         <a class="pub-badge-link" href="PAPER_URL_2">Journal</a>
       </div>
-      <!-- Add more rows if needed -->
     </div>
   </div>
 
   <p class="project-meta">
-    <strong>Related code:</strong>
+    <span class="project-label">Related code:</span>
     <a href="CODE_URL_2">GitHub repository</a>
   </p>
 </div>
