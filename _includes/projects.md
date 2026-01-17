@@ -249,6 +249,56 @@ inference and scientific evaluation.
   </p>
 </div>
 
+<!-- Project 3 (Group 2) -->
+<div class="project-item">
+  <div class="project-title">
+    <a href="">Environmental Curve Analysis</a>
+  </div>
+
+  <p class="project-summary">
+   This project develops statistical methods for environmental daily curve data, commonly modeled as functional time series, that exhibit complex multi-way dependencies. We focus on dependence-adaptive dimension reduction and frequency-domain approaches for dependence-aware inference, enabling tasks such as prediction, network inference, and data integration.
+  </p>
+
+  <div class="project-figure">
+    <img src="assets/img/PROJECT3_FIG.png" alt="Project figure">
+  </div>
+
+  <div class="project-meta">
+    <span class="project-label">Representative publications:</span>
+
+    <div class="pub-list">
+      <div class="pub-row">
+        <span class="pub-title">
+          <a href="https://www.tandfonline.com/doi/full/10.1080/01621459.2024.2302198">Graphical Principal Component Analysis of Multivariate Functional Time Series</a>
+        </span>
+        <span class="pub-badge">JASA</span>
+      </div>
+
+      <div class="pub-row">
+        <span class="pub-title">
+          <a href="https://arxiv.org/abs/2408.02343">A Unified Principal Components Analysis of Stationary Functional Time Series</a>
+        </span>
+        <span class="pub-badge">Preprint</span>
+      </div>
+
+      <div class="pub-row">
+        <span class="pub-title">
+          <a href="https://doi.org/10.1002/sta4.70140">A Frequency-Domain Approach for Integrating Multiple Functional Time Series</a>
+        </span>
+        <span class="pub-badge">STAT</span>
+      </div>
+    </div>
+  </div>
+
+  <p class="project-meta">
+    <span class="project-label">Related code:</span>
+
+    <span class="code-item">
+      <a href="https://github.com/Jianbin-Tan/GFPCA">Graphical Functional Principal Component Analysis</a>
+    </span>
+  </p>
+</div>
+
 <hr class="project-divider">
 
 
