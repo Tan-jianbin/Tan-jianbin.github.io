@@ -5,7 +5,7 @@ affiliation: Duke University
 email: jianbin.tan@duke.edu
 
 # disable automatic dark mode
-auto_dark_mode: ture
+auto_dark_mode: false
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
