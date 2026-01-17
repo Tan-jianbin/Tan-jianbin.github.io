@@ -58,13 +58,13 @@
 }
 .project-meta a{ margin-right: 10px; }
 
-/* Label style: bold + italic (for "Representative publications" and "Related code") */
+/* Label style: bold + italic */
 .project-label{
   font-weight: 800;
   font-style: italic;
 }
 
-/* Publication rows: article name (white, NOT a link) then journal badge (blue, clickable) */
+/* Publication rows: article name (normal color, NOT a link) then journal badge (blue, clickable) */
 .pub-list{
   margin-top: 6px;
   text-align: left !important;
@@ -77,12 +77,12 @@
   margin: 6px 0;
 }
 
-/* Article name */
+/* Article name: use default text color (no forced color) */
 .pub-title{
-  color: #ffffff;
+  /* no color here on purpose */
 }
 
-/* Journal badge link */
+/* Journal badge link (blue) */
 .pub-badge-link{
   display: inline-block;
   padding: 3px 10px;
@@ -112,7 +112,7 @@
 <!-- ===================== -->
 <div class="project-group">Application</div>
 <p class="project-group-note">
-  Projects organized by application domains.
+  Projects organized by application domains and problem settings.
 </p>
 
 <!-- Project 1 -->
