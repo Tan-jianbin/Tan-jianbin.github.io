@@ -257,7 +257,7 @@ inference and scientific evaluation.
 <!-- ===================== -->
 <div class="project-group">Statistical Method</div>
 <p class="project-group-note">
-  Projects organized by methodological themes (e.g., generative modeling, imputation, representation learning).
+  Projects organized by methodological themes.
 </p>
 
 <!-- Project 2 -->
