@@ -96,16 +96,19 @@
   text-align: left;
 }
 
-/* Related code: clickable name with underline to indicate link */
+/* Related code: underlined, but NOT blue */
 .code-item{
   margin-right: 14px;
   white-space: nowrap;
 }
-.code-item a{
-  text-decoration: underline;   /* always show underline */
+.code-item a,
+.code-item a:visited{
+  color: inherit;              /* keep same color as normal text */
+  text-decoration: underline;  /* show underline to indicate link */
 }
 .code-item a:hover{
-  text-decoration: underline;   /* keep underline on hover */
+  color: inherit;
+  text-decoration: underline;
 }
 </style>
 
@@ -161,7 +164,7 @@
     </div>
   </div>
 
-  <!-- Related code: name itself is linked and underlined -->
+  <!-- Related code: underlined but same color as normal text -->
   <p class="project-meta">
     <span class="project-label">Related code:</span>
 
