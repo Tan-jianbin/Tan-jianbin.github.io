@@ -64,7 +64,7 @@
   font-style: normal;
 }
 
-/* Publication rows: article title (clickable) then journal text (plain, no special color) */
+/* Publication rows: article title (clickable) then journal badge (boxed, but NOT blue) */
 .pub-list{
   margin-top: 6px;
   text-align: left !important;
@@ -76,12 +76,27 @@
   gap: 12px;
   margin: 6px 0;
 }
+
+/* Article title link (no forced color) */
 .pub-title a{ text-decoration: none; }
 .pub-title a:hover{ text-decoration: underline; }
 
-/* Journal plain text (no special format) */
-.pub-journal{
-  /* intentionally empty: inherits theme default */
+/* Journal badge: keep the "box", but inherit text color (no special blue) */
+.pub-badge{
+  display: inline-block;
+  padding: 3px 10px;
+  border-radius: 999px;
+  font-size: 12px;
+  font-weight: 800;
+  line-height: 1.2;
+
+  color: inherit;                          /* NOT blue */
+  border: 1px solid rgba(255,255,255,.35); /* subtle box */
+  background: transparent;
+
+  white-space: nowrap;
+  min-width: 0;
+  text-align: left;
 }
 
 /* Related code format: Name (Link) where only "Link" is clickable */
@@ -130,26 +145,26 @@
         <span class="pub-title">
           <a href="https://arxiv.org/abs/2508.13831">Smooth Flow Matching</a>
         </span>
-        <span class="pub-journal">Preprint</span>
+        <span class="pub-badge">Preprint</span>
       </div>
 
       <div class="pub-row">
         <span class="pub-title">
           <a href="https://arxiv.org/abs/2410.03619">Functional-SVD for Heterogeneous Trajectories: Case Studies in Health</a>
         </span>
-        <span class="pub-journal">Preprint</span>
+        <span class="pub-badge">Preprint</span>
       </div>
 
       <div class="pub-row">
         <span class="pub-title">
           <a href="https://doi.org/10.1016/j.jbi.2025.104933">Integrated Analysis for Electronic Health Records with Structured and Sporadic Missingness</a>
         </span>
-        <span class="pub-journal">JBI</span>
+        <span class="pub-badge">JBI</span>
       </div>
     </div>
   </div>
 
-  <!-- Related code: Name (Link) and only "Link" clickable -->
+  <!-- Related code: Name (Link) -->
   <p class="project-meta">
     <span class="project-label">Related code:</span>
 
@@ -200,7 +215,7 @@
         <span class="pub-title">
           <a href="PAPER_URL_2">Paper Title 2</a>
         </span>
-        <span class="pub-journal">Journal</span>
+        <span class="pub-badge">Journal</span>
       </div>
       <!-- Add more rows if needed -->
     </div>
