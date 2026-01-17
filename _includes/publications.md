@@ -9,7 +9,7 @@
 }
 </style>
 
-<h2 id="publications" style="margin: 2px 0px -15px;">Research Paper</h2>
+<div id="publications"></div>
 
 <div class="publications">
 <ol class="bibliography">

@@ -23,17 +23,17 @@ My research interests lie in statistical learning for data with <span style="col
 
 <style>
   .rp-tab{
-    background: transparent;                 /* 底色跟网页一样 */
-    color: #1f6feb;                          /* 蓝色字 */
-    border: 2px solid rgba(31,111,235,.55);  /* 蓝色边框 */
+    background: transparent;
+    color: #1f6feb;
+    border: 1.5px solid rgba(31,111,235,.55);
 
-    padding: 14px 22px;
-    font-size: 18px;
+    padding: 9px 14px;
+    font-size: 15px;
     line-height: 1.1;
     border-radius: 999px;
     font-weight: 700;
     cursor: pointer;
-    margin-right: 14px;
+    margin-right: 10px;
   }
 
   .rp-tab:hover{
@@ -41,10 +41,10 @@ My research interests lie in statistical learning for data with <span style="col
   }
 
   .rp-tab.active{
-    background: transparent;                 /* 仍然不填充 */
+    background: transparent;
     color: #1f6feb;
     border-color: #1f6feb;
-    box-shadow: 0 0 0 3px rgba(31,111,235,.18); /* 选中更明显 */
+    box-shadow: 0 0 0 2px rgba(31,111,235,.16);
   }
 </style>
 
