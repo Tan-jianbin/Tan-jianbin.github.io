@@ -27,7 +27,7 @@
 }
 .project-title a{
   text-decoration: none;
-  color: orange;                 /* make title orange */
+  color: orange;
 }
 .project-title a:hover{
   color: orange;
@@ -40,7 +40,7 @@
   line-height: 1.55;
 }
 
-/* Figure (same width as summary/text block) */
+/* Figure */
 .project-figure{ margin: 0 0 10px 0; }
 .project-figure img{
   display: block;
@@ -57,6 +57,31 @@
 }
 .project-meta strong{ font-weight: 800; }
 .project-meta a{ margin-right: 10px; }
+
+/* Publication rows */
+.pub-list{ margin-top: 6px; }
+.pub-row{
+  display: flex;
+  align-items: baseline;
+  gap: 10px;
+  margin: 6px 0;
+}
+.pub-badge{
+  display: inline-block;
+  padding: 3px 9px;
+  border-radius: 999px;
+  font-size: 12px;
+  font-weight: 800;
+  line-height: 1.2;
+  border: 1px solid rgba(31,111,235,.45);
+  color: #1f6feb;
+  background: transparent;
+  white-space: nowrap;
+  min-width: 72px;
+  text-align: center;
+}
+.pub-title a{ text-decoration: none; }
+.pub-title a:hover{ text-decoration: underline; }
 </style>
 
 
@@ -76,22 +101,44 @@
 
   <p class="project-summary">
     This project develops statistical methods for electronic health records with complex missingness and irregular sampling,
-with an emphasis on generative modeling, representation learning, structure-aware imputation, and reliable downstream tasks for prediction and inference.
+    with an emphasis on generative modeling, representation learning, structure-aware imputation, and reliable downstream tasks for prediction and inference.
   </p>
 
   <div class="project-figure">
     <img src="assets/img/PROJECT1_FIG.png" alt="Project figure">
   </div>
 
-  <p class="project-meta">
+  <!-- 4) Representative publications (rows + journal indicator) -->
+  <div class="project-meta">
     <strong>Representative publications:</strong>
-    <a href="https://arxiv.org/abs/2508.13831">Smooth Flow Matching</a>
-    &nbsp;|&nbsp;
-    <a href="https://arxiv.org/abs/2410.03619">Functional-SVD for Heterogeneous Trajectories: Case Studies in Health</a>
-    &nbsp;|&nbsp;
-    <a href="https://doi.org/10.1016/j.jbi.2025.104933">Integrated analysis for electronic health records with structured and sporadic missingness</a>
-  </p>
 
+    <div class="pub-list">
+      <div class="pub-row">
+        <span class="pub-badge">Preprint</span>
+        <span class="pub-title">
+          <a href="https://arxiv.org/abs/2508.13831">Smooth Flow Matching</a>
+        </span>
+      </div>
+
+      <div class="pub-row">
+        <span class="pub-badge">Preprint</span>
+        <span class="pub-title">
+          <a href="https://arxiv.org/abs/2410.03619">Functional-SVD for Heterogeneous Trajectories: Case Studies in Health</a>
+        </span>
+      </div>
+
+      <div class="pub-row">
+        <span class="pub-badge">JBI</span>
+        <span class="pub-title">
+          <a href="https://doi.org/10.1016/j.jbi.2025.104933">
+            Integrated analysis for electronic health records with structured and sporadic missingness
+          </a>
+        </span>
+      </div>
+    </div>
+  </div>
+
+  <!-- 5) Related code -->
   <p class="project-meta">
     <strong>Related code:</strong>
     <a href="https://github.com/Jianbin-Tan/Smooth-Flow-Matching">Smooth Flow Matching</a>
@@ -132,10 +179,26 @@ with an emphasis on generative modeling, representation learning, structure-awar
     <img src="assets/img/PROJECT2_FIG.png" alt="Project figure">
   </div>
 
-  <p class="project-meta">
-    <strong>Representative publication:</strong>
-    <a href="PAPER_URL_2">Paper Title 2</a>
-  </p>
+  <!-- Representative publications (rows + badge) -->
+  <div class="project-meta">
+    <strong>Representative publications:</strong>
+
+    <div class="pub-list">
+      <div class="pub-row">
+        <span class="pub-badge">Journal</span>
+        <span class="pub-title">
+          <a href="PAPER_URL_2">Paper Title 2</a>
+        </span>
+      </div>
+      <!-- Add more rows if needed -->
+      <!--
+      <div class="pub-row">
+        <span class="pub-badge">Preprint</span>
+        <span class="pub-title"><a href="...">Another paper</a></span>
+      </div>
+      -->
+    </div>
+  </div>
 
   <p class="project-meta">
     <strong>Related code:</strong>
