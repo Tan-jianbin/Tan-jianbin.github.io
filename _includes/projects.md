@@ -137,7 +137,7 @@
     <div class="pub-list">
       <div class="pub-row">
         <span class="pub-title">Smooth Flow Matching</span>
-        <a class="pub-badge-link" href="https://arxiv.org/abs/2508.13831">Preprint</span>
+        <a class="pub-badge-link" href="https://arxiv.org/abs/2508.13831">Preprint</a>
       </div>
 
       <div class="pub-row">
