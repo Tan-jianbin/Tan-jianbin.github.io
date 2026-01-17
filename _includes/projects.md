@@ -20,20 +20,41 @@
 }
 
 /* Title */
-.project-title{ font-size: 1.35rem; font-weight: 800; margin: 0 0 6px 0; }
-.project-title a{ text-decoration: none; }
+.project-title{
+  font-size: 1.35rem;
+  font-weight: 800;
+  margin: 0 0 6px 0;
+}
+.project-title a{
+  text-decoration: none;
+  color: orange;                 /* make title orange */
+}
+.project-title a:hover{
+  color: orange;
+  text-decoration: underline;
+}
 
 /* Summary */
-.project-summary{ margin: 0 0 10px 0; line-height: 1.55; }
+.project-summary{
+  margin: 0 0 10px 0;
+  line-height: 1.55;
+}
 
-/* Figure */
+/* Figure (same width as summary/text block) */
 .project-figure{ margin: 0 0 10px 0; }
 .project-figure img{
-  display:block; width:100%; max-width:100%; height:auto; border-radius:10px;
+  display: block;
+  width: 100%;
+  max-width: 100%;
+  height: auto;
+  border-radius: 10px;
 }
 
 /* Meta lines */
-.project-meta{ margin: 0 0 6px 0; line-height: 1.45; }
+.project-meta{
+  margin: 0 0 6px 0;
+  line-height: 1.45;
+}
 .project-meta strong{ font-weight: 800; }
 .project-meta a{ margin-right: 10px; }
 </style>
@@ -55,7 +76,7 @@
 
   <p class="project-summary">
     This project develops statistical methods for electronic health records with complex missingness and irregular sampling,
-    enabling reliable downstream representation learning for prediction and inference.
+with an emphasis on generative modeling, representation learning, structure-aware imputation, and reliable downstream tasks for prediction and inference.
   </p>
 
   <div class="project-figure">
