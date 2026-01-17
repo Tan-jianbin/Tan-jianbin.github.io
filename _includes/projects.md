@@ -58,7 +58,7 @@
 }
 .project-meta a{ margin-right: 10px; }
 
-/* Label style: bold ONLY (no italic) */
+/* Label style: bold ONLY */
 .project-label{
   font-weight: 800;
   font-style: normal;
@@ -76,16 +76,9 @@
   gap: 12px;
   margin: 6px 0;
 }
+.pub-title a{ text-decoration: none; }
+.pub-title a:hover{ text-decoration: underline; }
 
-/* Article title link (use theme default color; no forced color) */
-.pub-title a{
-  text-decoration: none;
-}
-.pub-title a:hover{
-  text-decoration: underline;
-}
-
-/* Journal badge (blue, not a link) */
 .pub-badge{
   display: inline-block;
   padding: 3px 10px;
@@ -101,6 +94,18 @@
   white-space: nowrap;
   min-width: 0;
   text-align: left;
+}
+
+/* Related code format: Name (Link) where only "Link" is clickable */
+.code-item{
+  margin-right: 14px;
+  white-space: nowrap;
+}
+.code-item a{
+  text-decoration: none;
+}
+.code-item a:hover{
+  text-decoration: underline;
 }
 </style>
 
@@ -156,14 +161,21 @@
     </div>
   </div>
 
-  <!-- Related code -->
+  <!-- Related code: Name (Link) and only "Link" clickable -->
   <p class="project-meta">
     <span class="project-label">Related code:</span>
-    <a href="https://github.com/Jianbin-Tan/Smooth-Flow-Matching">Smooth Flow Matching</a>
-    &nbsp;|&nbsp;
-    <a href="https://github.com/Jianbin-Tan/Functional-Singular-Value-Decompostion">Functional Singular Value Decomposition</a>
-    &nbsp;|&nbsp;
-    <a href="https://github.com/Tan-jianbin/Macomss">Matrix Completion with Structured and Sporadic Missingness</a>
+
+    <span class="code-item">
+      Smooth Flow Matching (<a href="https://github.com/Jianbin-Tan/Smooth-Flow-Matching">Link</a>)
+    </span>
+
+    <span class="code-item">
+      Functional Singular Value Decomposition (<a href="https://github.com/Jianbin-Tan/Functional-Singular-Value-Decompostion">Link</a>)
+    </span>
+
+    <span class="code-item">
+      Matrix Completion with Structured and Sporadic Missingness (<a href="https://github.com/Tan-jianbin/Macomss">Link</a>)
+    </span>
   </p>
 </div>
 
@@ -175,7 +187,7 @@
 <!-- ===================== -->
 <div class="project-group">Statistical Method</div>
 <p class="project-group-note">
-  Projects organized by methodological themes.
+  Projects organized by methodological themes (e.g., generative modeling, imputation, representation learning).
 </p>
 
 <!-- Project 2 -->
@@ -207,6 +219,8 @@
 
   <p class="project-meta">
     <span class="project-label">Related code:</span>
-    <a href="CODE_URL_2">GitHub repository</a>
+    <span class="code-item">
+      GitHub repository (<a href="CODE_URL_2">Link</a>)
+    </span>
   </p>
 </div>
