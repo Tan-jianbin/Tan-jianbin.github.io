@@ -54,34 +54,50 @@
 .project-meta{
   margin: 0 0 6px 0;
   line-height: 1.45;
+  text-align: left !important;   /* force left */
 }
 .project-meta strong{ font-weight: 800; }
 .project-meta a{ margin-right: 10px; }
 
-/* Publication rows */
-.pub-list{ margin-top: 6px; }
+/* Publication rows: LEFT, title first then journal */
+.pub-list{
+  margin-top: 6px;
+  text-align: left !important;
+}
 .pub-row{
   display: flex;
   align-items: baseline;
-  gap: 10px;
+  justify-content: flex-start;
+  gap: 12px;
   margin: 6px 0;
 }
+
+/* Title in white */
+.pub-title a{
+  color: #ffffff !important;
+  text-decoration: none;
+}
+.pub-title a:hover{
+  text-decoration: underline;
+}
+
+/* Journal indicator after title, also white */
 .pub-badge{
   display: inline-block;
-  padding: 3px 9px;
+  padding: 3px 10px;
   border-radius: 999px;
   font-size: 12px;
   font-weight: 800;
   line-height: 1.2;
-  border: 1px solid rgba(31,111,235,.45);
-  color: #1f6feb;
+
+  color: #ffffff;
+  border: 1px solid rgba(255,255,255,.35);
   background: transparent;
+
   white-space: nowrap;
-  min-width: 72px;
-  text-align: center;
+  min-width: 0;          /* IMPORTANT: no fixed width -> left aligned */
+  text-align: left;
 }
-.pub-title a{ text-decoration: none; }
-.pub-title a:hover{ text-decoration: underline; }
 </style>
 
 
@@ -108,37 +124,37 @@
     <img src="assets/img/PROJECT1_FIG.png" alt="Project figure">
   </div>
 
-  <!-- 4) Representative publications (rows + journal indicator) -->
+  <!-- Representative publications: WHITE, left, title first then journal -->
   <div class="project-meta">
     <strong>Representative publications:</strong>
 
     <div class="pub-list">
       <div class="pub-row">
-        <span class="pub-badge">Preprint</span>
         <span class="pub-title">
           <a href="https://arxiv.org/abs/2508.13831">Smooth Flow Matching</a>
         </span>
+        <span class="pub-badge">Preprint</span>
       </div>
 
       <div class="pub-row">
-        <span class="pub-badge">Preprint</span>
         <span class="pub-title">
           <a href="https://arxiv.org/abs/2410.03619">Functional-SVD for Heterogeneous Trajectories: Case Studies in Health</a>
         </span>
+        <span class="pub-badge">Preprint</span>
       </div>
 
       <div class="pub-row">
-        <span class="pub-badge">JBI</span>
         <span class="pub-title">
           <a href="https://doi.org/10.1016/j.jbi.2025.104933">
             Integrated analysis for electronic health records with structured and sporadic missingness
           </a>
         </span>
+        <span class="pub-badge">JBI</span>
       </div>
     </div>
   </div>
 
-  <!-- 5) Related code -->
+  <!-- Related code -->
   <p class="project-meta">
     <strong>Related code:</strong>
     <a href="https://github.com/Jianbin-Tan/Smooth-Flow-Matching">Smooth Flow Matching</a>
@@ -148,10 +164,6 @@
     <a href="https://github.com/Tan-jianbin/Macomss">Matrix Completion with Structured and Sporadic Missingness</a>
   </p>
 </div>
-
-<!-- Add more projects in the SAME group here (no separators needed) -->
-<!-- <div class="project-item"> ... </div> -->
-
 
 <!-- ===== ONLY divider between the two big categories ===== -->
 <hr class="project-divider">
@@ -179,24 +191,17 @@
     <img src="assets/img/PROJECT2_FIG.png" alt="Project figure">
   </div>
 
-  <!-- Representative publications (rows + badge) -->
   <div class="project-meta">
     <strong>Representative publications:</strong>
 
     <div class="pub-list">
       <div class="pub-row">
-        <span class="pub-badge">Journal</span>
         <span class="pub-title">
           <a href="PAPER_URL_2">Paper Title 2</a>
         </span>
+        <span class="pub-badge">Journal</span>
       </div>
-      <!-- Add more rows if needed -->
-      <!--
-      <div class="pub-row">
-        <span class="pub-badge">Preprint</span>
-        <span class="pub-title"><a href="...">Another paper</a></span>
-      </div>
-      -->
+      <!-- Add more publication rows if needed -->
     </div>
   </div>
 
