@@ -1,19 +1,14 @@
- <head>
-    <style>
-     
-.pub-row {
-  display: flex;
-  justify-content: space-between;
-  align-items: flex-start; /* 将元素顶部对齐 */
-  margin-bottom: 1px;
-  border-bottom: none;
-  padding-bottom: 1px;
+ <style>
+.pub-row{
+  display:flex;
+  justify-content:space-between;
+  align-items:flex-start;
+  margin-bottom:1px;
+  border-bottom:none;
+  padding-bottom:1px;
 }
-    </style>
-  </head>
-  
-  
- 
+</style>
+
 <h2 id="publications" style="margin: 2px 0px -15px;">Research Paper</h2>
 
 <div class="publications">
