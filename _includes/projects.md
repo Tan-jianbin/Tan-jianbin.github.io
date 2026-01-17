@@ -56,7 +56,6 @@
   line-height: 1.45;
   text-align: left !important;
 }
-.project-meta a{ margin-right: 10px; }
 
 /* Label style: bold ONLY */
 .project-label{
@@ -64,7 +63,7 @@
   font-style: normal;
 }
 
-/* Publication rows: article title (clickable) then journal badge (boxed, but NOT blue) */
+/* Publication rows */
 .pub-list{
   margin-top: 6px;
   text-align: left !important;
@@ -76,12 +75,10 @@
   gap: 12px;
   margin: 6px 0;
 }
-
-/* Article title link (no forced color) */
 .pub-title a{ text-decoration: none; }
 .pub-title a:hover{ text-decoration: underline; }
 
-/* Journal badge: keep the "box", but inherit text color (no special blue) */
+/* Journal badge: boxed, no special color */
 .pub-badge{
   display: inline-block;
   padding: 3px 10px;
@@ -90,8 +87,8 @@
   font-weight: 800;
   line-height: 1.2;
 
-  color: inherit;                          /* NOT blue */
-  border: 1px solid rgba(255,255,255,.35); /* subtle box */
+  color: inherit;
+  border: 1px solid rgba(255,255,255,.35);
   background: transparent;
 
   white-space: nowrap;
@@ -99,16 +96,16 @@
   text-align: left;
 }
 
-/* Related code format: Name (Link) where only "Link" is clickable */
+/* Related code: clickable name with underline to indicate link */
 .code-item{
   margin-right: 14px;
   white-space: nowrap;
 }
 .code-item a{
-  text-decoration: none;
+  text-decoration: underline;   /* always show underline */
 }
 .code-item a:hover{
-  text-decoration: underline;
+  text-decoration: underline;   /* keep underline on hover */
 }
 </style>
 
@@ -164,20 +161,20 @@
     </div>
   </div>
 
-  <!-- Related code: Name (Link) -->
+  <!-- Related code: name itself is linked and underlined -->
   <p class="project-meta">
     <span class="project-label">Related code:</span>
 
     <span class="code-item">
-      Smooth Flow Matching (<a href="https://github.com/Jianbin-Tan/Smooth-Flow-Matching">Link</a>)
+      <a href="https://github.com/Jianbin-Tan/Smooth-Flow-Matching">Smooth Flow Matching</a>
     </span>
 
     <span class="code-item">
-      Functional Singular Value Decomposition (<a href="https://github.com/Jianbin-Tan/Functional-Singular-Value-Decompostion">Link</a>)
+      <a href="https://github.com/Jianbin-Tan/Functional-Singular-Value-Decompostion">Functional Singular Value Decomposition</a>
     </span>
 
     <span class="code-item">
-      Matrix Completion with Structured and Sporadic Missingness (<a href="https://github.com/Tan-jianbin/Macomss">Link</a>)
+      <a href="https://github.com/Tan-jianbin/Macomss">Matrix Completion with Structured and Sporadic Missingness</a>
     </span>
   </p>
 </div>
@@ -217,14 +214,13 @@
         </span>
         <span class="pub-badge">Journal</span>
       </div>
-      <!-- Add more rows if needed -->
     </div>
   </div>
 
   <p class="project-meta">
     <span class="project-label">Related code:</span>
     <span class="code-item">
-      GitHub repository (<a href="CODE_URL_2">Link</a>)
+      <a href="CODE_URL_2">GitHub repository</a>
     </span>
   </p>
 </div>
