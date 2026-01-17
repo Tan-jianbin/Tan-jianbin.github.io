@@ -1,129 +1,122 @@
-<!-- No <head> here (this is an include) -->
 <style>
-/* Match your publications layout */
-.proj-row{
-  display:flex;
-  justify-content:space-between;
-  align-items:flex-start;
-  margin-bottom: 6px;
-  border-bottom: none;
-  padding-bottom: 6px;
+.project-item{
+  margin: 18px 0 28px 0;
 }
 
-.proj-figure{
-  position: relative;
-  padding-right: 15px;
-  padding-left: 15px;
-  max-width: 150px;
-  max-height: 150px;
+/* 1) Title */
+.project-title{
+  font-size: 1.35rem;
+  font-weight: 800;
+  margin: 0 0 6px 0;
+}
+.project-title a{ text-decoration: none; }
+
+/* 2) Summary */
+.project-summary{
+  margin: 0 0 10px 0;
+  line-height: 1.55;
 }
 
-.proj-figure img{
-  width: auto;
+/* 3) Figure (same width as summary/text block) */
+.project-figure{
+  margin: 0 0 10px 0;
+}
+.project-figure img{
+  display: block;
+  width: 100%;
+  max-width: 100%;
   height: auto;
-  max-width: 150px;
-  max-height: 150px;
-  display:block;
+  border-radius: 10px;
 }
 
-.proj-badge{
-  position:absolute;
-  top: 6px;
-  left: 18px;
-  padding: 4px 10px;
-  border-radius: 6px;
-  font-weight: 700;
-  font-size: 12px;
-  background: rgba(31,111,235,.90);
-  color: #fff;
+/* 4/5) Links */
+.project-meta{
+  margin: 0 0 6px 0;
+  line-height: 1.45;
 }
+.project-meta strong{ font-weight: 800; }
+.project-meta a{ margin-right: 10px; }
 
-.proj-summary{
-  margin-top: 6px;
-}
-
-.proj-links a{
-  margin-right: 14px;
+/* Optional subtle separator */
+.project-sep{
+  border: none;
+  border-top: 1px solid rgba(255,255,255,.12);
+  margin: 16px 0 0 0;
 }
 </style>
 
-<!-- Optional: remove this header if you already show "Research Projects" elsewhere -->
-<h2 id="projects" style="margin: 2px 0px -15px;">Research Projects</h2>
 
-<div class="projects">
-  <ol class="bibliography">
+<!-- ===================== -->
+<!-- Project 1 (template)  -->
+<!-- ===================== -->
+<div class="project-item">
 
-    <!-- ===================== -->
-    <!-- Project 1 (template)  -->
-    <!-- ===================== -->
-    <li>
-      <div class="proj-row">
-        <!-- Left: figure + badge -->
-        <div class="col-sm-3 abbr proj-figure">
-          <img src="assets/img/PROJECT1.png" alt="Project figure">
-          <span class="proj-badge">Project</span>
-        </div>
+  <!-- 1) Title -->
+  <div class="project-title">
+    <a href="PROJECT_URL">Project Title</a>
+  </div>
 
-        <!-- Right: title + summary + related paper -->
-        <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-          <div class="title">
-            <a href="PROJECT_PAGE_OR_GITHUB_URL">Project Title (clickable)</a>
-          </div>
+  <!-- 2) Summary -->
+  <p class="project-summary">
+    One–two sentences describing the problem, key idea, and outcome.
+  </p>
 
-          <div class="proj-summary">
-            <em>Summary:</em>
-            One–two sentences describing the problem, your key idea/method, and the main outcome.
-          </div>
+  <!-- 3) Big figure -->
+  <div class="project-figure">
+    <img src="assets/img/PROJECT1_FIG.png" alt="Project figure">
+  </div>
 
-          <div class="periodical">
-            <em>Related paper:</em>
-            <a href="RELATED_PAPER_URL">Paper title / venue / year</a>
-          </div>
+  <!-- 4) Representative publication -->
+  <p class="project-meta">
+    <strong>Representative publication:</strong>
+    <a href="PAPER_URL">Paper Title</a>
+    <em>(Venue / status, Year)</em>
+    &nbsp;|&nbsp;
+    <a href="PAPER_URL">Paper</a>
+    <a href="ARXIV_OR_DOI_URL">ArXiv/DOI</a>
+  </p>
 
-          <div class="proj-links">
-            <a href="PROJECT_PAGE_OR_GITHUB_URL">View Project</a>
-            <a href="RELATED_PAPER_URL">View Paper</a>
-            <!-- Optional extras -->
-            <!-- <a href="DEMO_URL">Demo</a> -->
-            <!-- <a href="SLIDES_URL">Slides</a> -->
-          </div>
-        </div>
-      </div>
-    </li>
+  <!-- 5) Related code -->
+  <p class="project-meta">
+    <strong>Related code:</strong>
+    <a href="CODE_URL">GitHub repository</a>
+    <!-- optional -->
+    <!-- &nbsp;|&nbsp; <a href="DEMO_URL">Demo</a> -->
+    <!-- &nbsp;|&nbsp; <a href="DOC_URL">Docs</a> -->
+  </p>
+
+  <hr class="project-sep">
+</div>
 
 
-    <!-- ===================== -->
-    <!-- Project 2 (template)  -->
-    <!-- ===================== -->
-    <li>
-      <div class="proj-row">
-        <div class="col-sm-3 abbr proj-figure">
-          <img src="assets/img/PROJECT2.png" alt="Project figure">
-          <span class="proj-badge">Project</span>
-        </div>
+<!-- ===================== -->
+<!-- Project 2 (template)  -->
+<!-- ===================== -->
+<div class="project-item">
 
-        <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-          <div class="title">
-            <a href="PROJECT_PAGE_OR_GITHUB_URL_2">Project Title 2</a>
-          </div>
+  <div class="project-title">
+    <a href="PROJECT_URL_2">Project Title 2</a>
+  </div>
 
-          <div class="proj-summary">
-            <em>Summary:</em>
-            One–two sentences summarizing the contribution and what users can do with it.
-          </div>
+  <p class="project-summary">
+    Summary line for project 2.
+  </p>
 
-          <div class="periodical">
-            <em>Related paper:</em>
-            <a href="RELATED_PAPER_URL_2">Paper title / venue / year</a>
-          </div>
+  <div class="project-figure">
+    <img src="assets/img/PROJECT2_FIG.png" alt="Project figure">
+  </div>
 
-          <div class="proj-links">
-            <a href="PROJECT_PAGE_OR_GITHUB_URL_2">View Project</a>
-            <a href="RELATED_PAPER_URL_2">View Paper</a>
-          </div>
-        </div>
-      </div>
-    </li>
+  <p class="project-meta">
+    <strong>Representative publication:</strong>
+    <a href="PAPER_URL_2">Paper Title 2</a>
+    <em>(Venue / status, Year)</em>
+    &nbsp;|&nbsp;
+    <a href="PAPER_URL_2">Paper</a>
+  </p>
 
-  </ol>
+  <p class="project-meta">
+    <strong>Related code:</strong>
+    <a href="CODE_URL_2">GitHub repository</a>
+  </p>
+
 </div>
