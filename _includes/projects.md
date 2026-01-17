@@ -54,9 +54,12 @@
 .project-meta{
   margin: 0 0 6px 0;
   line-height: 1.45;
-  text-align: left !important;   /* force left */
+  text-align: left !important;
 }
-.project-meta strong{ font-weight: 800; }
+.project-meta strong{
+  font-weight: 800;
+  color: orange;                /* make labels orange */
+}
 .project-meta a{ margin-right: 10px; }
 
 /* Publication rows: LEFT, title first then journal */
@@ -72,16 +75,16 @@
   margin: 6px 0;
 }
 
-/* Title in white */
+/* Publication title links in orange */
 .pub-title a{
-  color: #ffffff !important;
+  color: orange !important;     /* orange titles */
   text-decoration: none;
 }
 .pub-title a:hover{
   text-decoration: underline;
 }
 
-/* Journal indicator after title, also white */
+/* Journal indicator after title, also orange */
 .pub-badge{
   display: inline-block;
   padding: 3px 10px;
@@ -90,13 +93,22 @@
   font-weight: 800;
   line-height: 1.2;
 
-  color: #ffffff;
-  border: 1px solid rgba(255,255,255,.35);
+  color: orange;                             /* orange badge text */
+  border: 1px solid rgba(255,165,0,.45);     /* orange-ish border */
   background: transparent;
 
   white-space: nowrap;
-  min-width: 0;          /* IMPORTANT: no fixed width -> left aligned */
+  min-width: 0;
   text-align: left;
+}
+
+/* Related code links orange too (inherits from a), ensure orange */
+.project-meta a{
+  color: orange !important;
+  text-decoration: none;
+}
+.project-meta a:hover{
+  text-decoration: underline;
 }
 </style>
 
@@ -124,7 +136,7 @@
     <img src="assets/img/PROJECT1_FIG.png" alt="Project figure">
   </div>
 
-  <!-- Representative publications: WHITE, left, title first then journal -->
+  <!-- Representative publications: orange, left, title first then journal -->
   <div class="project-meta">
     <strong>Representative publications:</strong>
 
@@ -165,7 +177,6 @@
   </p>
 </div>
 
-<!-- ===== ONLY divider between the two big categories ===== -->
 <hr class="project-divider">
 
 
@@ -201,7 +212,6 @@
         </span>
         <span class="pub-badge">Journal</span>
       </div>
-      <!-- Add more publication rows if needed -->
     </div>
   </div>
 
