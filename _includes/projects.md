@@ -133,7 +133,7 @@
   </p>
 
   <div class="project-figure">
-    <img src="assets/img/PROJECT1_FIG.png" alt="Project figure">
+    <img src="assets/img/ehr.jpg" alt="Project figure">
   </div>
 
   <!-- Representative publications -->
