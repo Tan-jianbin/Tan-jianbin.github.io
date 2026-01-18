@@ -1,4 +1,29 @@
 ---
 ---
 
-@import "minimal-light";
+@import "{{ site.theme }}";
+
+/* =========================
+   Force light / white theme
+   ========================= */
+
+/* Tell browser we are light */
+:root { color-scheme: light; }
+
+/* White background + dark text */
+html, body {
+  background: #ffffff !important;
+  color: #000000 !important;
+}
+
+/* Lock theme variables (minimal-light uses these) */
+:root {
+  --global-bg-color: #ffffff !important;
+  --global-text-color: #000000 !important;
+  --global-text-color-light: #666666 !important;
+}
+
+/* (Optional) If some containers still look gray/dark */
+.page, .wrapper, .container, .content {
+  background: #ffffff !important;
+}
