@@ -322,6 +322,10 @@
     This research develops statistical learning methods for functional data, treating each observation as a random function for statistical analysis.
     We emphasize model-free approaches that provide structural adaptivity and accommodate irregular sampling—key challenges in modern functional data analysis.
   </p>
+  
+  <div class="project-figure">
+    <img src="assets/img/fda.jpg" alt="Project figure">
+  </div>
 
   <div class="project-meta">
     <span class="project-label">Representative publications:</span>
