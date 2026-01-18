@@ -256,7 +256,7 @@ inference and scientific evaluation.
   </div>
 
   <p class="project-summary">
-   This project develops statistical methods for environmental daily curve data, commonly modeled as functional time series that exhibit complex multi-way dependencies. We focus on dependence-adaptive dimension reduction and frequency-domain approaches for dependence-aware inference, enabling tasks such as prediction, graph/network inference, and data integration.
+   This project develops statistical methods for environmental daily curve data, commonly modeled as functional time series, exhibit complex multi-way dependencies due to complicated environmental measurement processes. We focus on dependence-adaptive dimension reduction and frequency-domain approaches for dependence-aware inference, enabling tasks such as prediction, graph/network inference, and data integration.
   </p>
 
   <div class="project-figure">
