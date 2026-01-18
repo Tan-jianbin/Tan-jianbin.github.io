@@ -252,7 +252,7 @@ inference and scientific evaluation.
 <!-- Project 3 (Group 2) -->
 <div class="project-item">
   <div class="project-title">
-    <a href="">Environmental Curve Analysis</a>
+    <a href="">Environmental Daily Curve Analysis</a>
   </div>
 
   <p class="project-summary">
@@ -313,11 +313,11 @@ inference and scientific evaluation.
 <!-- Project 1 (Group 2) -->
 <div class="project-item">
   <div class="project-title">
-    <a href="">Functional/Longitudinal Data Analysis</a>
+    <a href="">Functional Data Analysis</a>
   </div>
 
   <p class="project-summary">
-    
+   This research develops statistical learning methods for functional data, treating each observation as a random function for statistical analysis. We emphasize novel, model-free approaches that provide structural adaptivity and accommodate irregular sampling—key challenges in modern functional data analysis.
   </p>
 
   <div class="project-figure">
