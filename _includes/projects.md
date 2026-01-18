@@ -310,18 +310,18 @@ inference and scientific evaluation.
   Projects organized by methodological themes.
 </p>
 
-<!-- Project 2 -->
+<!-- Project 1 (Group 2) -->
 <div class="project-item">
   <div class="project-title">
-    <a href="PROJECT_URL_2">Project Title 2</a>
+    <a href="">Statistical Modeling/Learning of Differential Equations</a>
   </div>
 
   <p class="project-summary">
-    Summary line for project 2 (method-focused).
+    This research focuses on developing statistical methods for differential equation modeling and learning, including parameter estimation and equation discovery, as well as differential-equation–based generative modeling.
   </p>
 
   <div class="project-figure">
-    <img src="assets/img/PROJECT2_FIG.png" alt="Project figure">
+    <img src="assets/img/PROJECT_METHOD_DE_FIG.png" alt="Project figure">
   </div>
 
   <div class="project-meta">
@@ -330,17 +330,44 @@ inference and scientific evaluation.
     <div class="pub-list">
       <div class="pub-row">
         <span class="pub-title">
-          <a href="PAPER_URL_2">Paper Title 2</a>
+          <a href="https://doi.org/10.1093/jrsssb/qkae031">Green’s Matching: an Efficient Approach to Parameter Estimation in Complex Dynamic Systems</a>
         </span>
-        <span class="pub-badge">Journal</span>
+        <span class="pub-badge">JRSSB</span>
+      </div>
+
+      <div class="pub-row">
+        <span class="pub-title">
+          <a href="https://arxiv.org/abs/2508.13831">Smooth Flow Matching</a>
+        </span>
+        <span class="pub-badge">Preprint</span>
+      </div>
+
+      <div class="pub-row">
+        <span class="pub-title">
+          <a href="https://arxiv.org/abs/2507.20072">Sparse Equation Matching: a Derivative-Free Learning for General-Order Dynamical Systems</a>
+        </span>
+        <span class="pub-badge">Preprint</span>
+      </div>
+
+      <div class="pub-row">
+        <span class="pub-title">
+          <a href="https://doi.org/10.1111/biom.13814">Age-Related Model for Estimating the Symptomatic and Asymptomatic Transmissibility of COVID-19 Patients</a>
+        </span>
+        <span class="pub-badge">BIOM</span>
       </div>
     </div>
   </div>
 
   <p class="project-meta">
     <span class="project-label">Related code:</span>
+
     <span class="code-item">
-      <a href="CODE_URL_2">GitHub repository</a>
+      <a href="https://github.com/Jianbin-Tan/Statistical-Inference-in-General-order-Dynamic-Systems">Green's Matching</a>
     </span>
+
+    <span class="code-item">
+      <a href="https://github.com/Jianbin-Tan/Smooth-Flow-Matching">Smooth Flow Matching</a>
+    </span>
+    
   </p>
 </div>
