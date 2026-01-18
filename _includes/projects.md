@@ -185,11 +185,11 @@
 <!-- Project 2 (Group 1) -->
 <div class="project-item">
   <div class="project-title">
-    <a href="">Epidemic Data Analysis</a>
+    <a href="">Epidemiologic Data Analysis</a>
   </div>
 
   <p class="project-summary">
-    This project develops statistical methods for dynamic epidemic and public health data, including causal inference,
+    This project develops statistical methods for dynamic epidemiologic and public health data, including causal inference,
 transmission modeling, and longitudinal association discovery, to characterize time-varying effects and enable reliable
 inference and scientific evaluation.
   </p>
