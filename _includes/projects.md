@@ -191,11 +191,11 @@
   <p class="project-summary">
     This project develops statistical methods for dynamic epidemiologic and public health data, including causal inference,
 transmission modeling, and longitudinal association discovery, to characterize time-varying effects and enable reliable
-inference and scientific evaluation.
+inference and public health evaluation.
   </p>
 
   <div class="project-figure">
-    <img src="assets/img/PROJECT2_FIG.png" alt="Project figure">
+    <img src="assets/img/epi.jpg" alt="Project figure">
   </div>
 
   <div class="project-meta">
