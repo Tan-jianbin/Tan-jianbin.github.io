@@ -7,7 +7,7 @@
    Force light / white theme
    ========================= */
 
-/* Tell browser we are light */
+/* Tell the browser we want light UI (scrollbars/forms, etc.) */
 :root { color-scheme: light; }
 
 /* White background + dark text */
@@ -16,14 +16,32 @@ html, body {
   color: #000000 !important;
 }
 
-/* Lock theme variables (minimal-light uses these) */
-:root {
+/* Lock theme variables to light */
+:root{
   --global-bg-color: #ffffff !important;
   --global-text-color: #000000 !important;
-  --global-text-color-light: #666666 !important;
+  --global-text-color-light: #666666 !important; /* slightly lighter gray */
 }
 
-/* (Optional) If some containers still look gray/dark */
-.page, .wrapper, .container, .content {
+/* If some containers still look non-white */
+.page, .wrapper, .container, .content{
   background: #ffffff !important;
+}
+
+/* =========================
+   Fix affiliation line style
+   (e.g., "Duke University")
+   ========================= */
+
+/* Most themes use this class */
+.affiliation,
+.affiliation a{
+  color: #000000 !important;
+  opacity: 1 !important;
+}
+
+/* Fallback: if theme uses a different structure */
+.sidebar,
+.sidebar *{
+  opacity: 1;
 }
