@@ -75,8 +75,10 @@
   gap: 12px;
   margin: 6px 0;
 }
-.pub-title a{ text-decoration: none; }
-.pub-title a:hover{ text-decoration: underline; }
+
+/* IMPORTANT: avoid conflict with theme's .pub-title by using proj-pub-title */
+.proj-pub-title a{ text-decoration: none; }
+.proj-pub-title a:hover{ text-decoration: underline; }
 
 /* Journal badge: boxed, no special color */
 .pub-badge{
@@ -103,8 +105,8 @@
 }
 .code-item a,
 .code-item a:visited{
-  color: inherit;              /* keep same color as normal text */
-  text-decoration: underline;  /* show underline to indicate link */
+  color: inherit;
+  text-decoration: underline;
 }
 .code-item a:hover{
   color: inherit;
@@ -136,27 +138,26 @@
     <img src="assets/img/ehr.jpg" alt="Project figure">
   </div>
 
-  <!-- Representative publications -->
   <div class="project-meta">
     <span class="project-label">Representative publications:</span>
 
     <div class="pub-list">
       <div class="pub-row">
-        <span class="pub-title">
+        <span class="proj-pub-title">
           <a href="https://arxiv.org/abs/2508.13831">Smooth Flow Matching</a>
         </span>
         <span class="pub-badge">Preprint</span>
       </div>
 
       <div class="pub-row">
-        <span class="pub-title">
+        <span class="proj-pub-title">
           <a href="https://arxiv.org/abs/2410.03619">Functional-SVD for Heterogeneous Trajectories: Case Studies in Health</a>
         </span>
         <span class="pub-badge">Preprint</span>
       </div>
 
       <div class="pub-row">
-        <span class="pub-title">
+        <span class="proj-pub-title">
           <a href="https://doi.org/10.1016/j.jbi.2025.104933">Integrated Analysis for Electronic Health Records with Structured and Sporadic Missingness</a>
         </span>
         <span class="pub-badge">JBI</span>
@@ -164,7 +165,6 @@
     </div>
   </div>
 
-  <!-- Related code: underlined but same color as normal text -->
   <p class="project-meta">
     <span class="project-label">Related code:</span>
 
@@ -190,8 +190,8 @@
 
   <p class="project-summary">
     This project develops statistical methods for dynamic epidemiologic and public health data, including causal inference,
-transmission modeling, and longitudinal association discovery, to characterize time-varying effects and enable reliable
-inference and public health evaluation.
+    transmission modeling, and longitudinal association discovery, to characterize time-varying effects and enable reliable
+    inference and public health evaluation.
   </p>
 
   <div class="project-figure">
@@ -203,28 +203,28 @@ inference and public health evaluation.
 
     <div class="pub-list">
       <div class="pub-row">
-        <span class="pub-title">
+        <span class="proj-pub-title">
           <a href="https://doi.org/10.1080/01621459.2021.1897015">The Effects of Stringent and Mild Interventions for Coronavirus Pandemic</a>
         </span>
         <span class="pub-badge">JASA</span>
       </div>
 
       <div class="pub-row">
-        <span class="pub-title">
+        <span class="proj-pub-title">
           <a href="https://doi.org/10.1017/S0950268822001467">Transmission Roles of Symptomatic and Asymptomatic COVID-19 Cases: A Modelling Study</a>
         </span>
         <span class="pub-badge">I&amp;E</span>
       </div>
 
       <div class="pub-row">
-        <span class="pub-title">
+        <span class="proj-pub-title">
           <a href="https://doi.org/10.1214/24-AOAS1989">Functional Clustering for Longitudinal Associations between Social Determinants of Health and Stroke Mortality in the U.S.</a>
         </span>
         <span class="pub-badge">AOAS</span>
       </div>
 
       <div class="pub-row">
-        <span class="pub-title">
+        <span class="proj-pub-title">
           <a href="https://doi.org/10.1111/biom.13814">Age-Related Model for Estimating the Symptomatic and Asymptomatic Transmissibility of COVID-19 Patients</a>
         </span>
         <span class="pub-badge">BIOM</span>
@@ -249,14 +249,16 @@ inference and public health evaluation.
   </p>
 </div>
 
-<!-- Project 3 (Group 2) -->
+<!-- Project 3 (Group 1) -->
 <div class="project-item">
   <div class="project-title">
     <a href="">Environmental Daily Curve Analysis</a>
   </div>
 
   <p class="project-summary">
-   This project develops statistical methods for environmental daily curve data, commonly modeled as functional time series, exhibit complex multi-way dependencies due to complicated environmental measurement processes. We focus on dependence-adaptive dimension reduction and frequency-domain approaches for dependence-aware inference, enabling tasks such as prediction, graph/network inference, and data integration.
+    This project develops statistical methods for environmental daily curve data, commonly modeled as functional time series, which exhibit complex multi-way
+    dependencies due to complicated environmental measurement processes. We focus on dependence-adaptive dimension reduction and frequency-domain approaches
+    for dependence-aware inference, enabling tasks such as prediction, graph/network inference, and data integration.
   </p>
 
   <div class="project-figure">
@@ -268,21 +270,21 @@ inference and public health evaluation.
 
     <div class="pub-list">
       <div class="pub-row">
-        <span class="pub-title">
+        <span class="proj-pub-title">
           <a href="https://www.tandfonline.com/doi/full/10.1080/01621459.2024.2302198">Graphical Principal Component Analysis of Multivariate Functional Time Series</a>
         </span>
         <span class="pub-badge">JASA</span>
       </div>
 
       <div class="pub-row">
-        <span class="pub-title">
-          <a href="https://arxiv.org/abs/2408.02343">A Unified Principal Components Analysis of Functional Time Series</a>
+        <span class="proj-pub-title">
+          <a href="https://arxiv.org/abs/2408.02343">A Unified Principal Components Analysis of Stationary Functional Time Series</a>
         </span>
         <span class="pub-badge">Preprint</span>
       </div>
 
       <div class="pub-row">
-        <span class="pub-title">
+        <span class="proj-pub-title">
           <a href="https://doi.org/10.1002/sta4.70140">A Frequency-Domain Approach for Integrating Multiple Functional Time Series</a>
         </span>
         <span class="pub-badge">STAT</span>
@@ -317,53 +319,48 @@ inference and public health evaluation.
   </div>
 
   <p class="project-summary">
-   This research develops statistical learning methods for functional data, treating each observation as a random function for statistical analysis. We emphasize model-free approaches that provide structural adaptivity and accommodate irregular sampling—key challenges in modern functional data analysis.
+    This research develops statistical learning methods for functional data, treating each observation as a random function for statistical analysis.
+    We emphasize model-free approaches that provide structural adaptivity and accommodate irregular sampling—key challenges in modern functional data analysis.
   </p>
-
- <!-- <div class="project-figure">
-    <img src="assets/img/PROJECT_METHOD_DE_FIG.png" alt="Project figure">
-  </div>-->
 
   <div class="project-meta">
     <span class="project-label">Representative publications:</span>
 
     <div class="pub-list">
       <div class="pub-row">
-        <span class="pub-title">
+        <span class="proj-pub-title">
           <a href="https://arxiv.org/abs/2508.13831">Smooth Flow Matching</a>
         </span>
         <span class="pub-badge">Preprint</span>
       </div>
-      
+
       <div class="pub-row">
-        <span class="pub-title">
+        <span class="proj-pub-title">
           <a href="https://arxiv.org/abs/2410.03619">Functional-SVD for Heterogeneous Trajectories: Case Studies in Health</a>
         </span>
         <span class="pub-badge">Preprint</span>
       </div>
-      
+
       <div class="pub-row">
-        <span class="pub-title">
+        <span class="proj-pub-title">
           <a href="https://doi.org/10.1214/24-AOAS1989">Functional Clustering for Longitudinal Associations between Social Determinants of Health and Stroke Mortality in the U.S.</a>
         </span>
         <span class="pub-badge">AOAS</span>
       </div>
-      
-       <div class="pub-row">
-        <span class="pub-title">
+
+      <div class="pub-row">
+        <span class="proj-pub-title">
           <a href="https://www.tandfonline.com/doi/full/10.1080/01621459.2024.2302198">Graphical Principal Component Analysis of Multivariate Functional Time Series</a>
         </span>
         <span class="pub-badge">JASA</span>
       </div>
 
       <div class="pub-row">
-        <span class="pub-title">
-          <a href="https://arxiv.org/abs/2408.02343">A Unified Principal Components Analysis of Functional Time Series</a>
+        <span class="proj-pub-title">
+          <a href="https://arxiv.org/abs/2408.02343">A Unified Principal Components Analysis of Stationary Functional Time Series</a>
         </span>
         <span class="pub-badge">Preprint</span>
       </div>
-
-      
     </div>
   </div>
 
@@ -377,15 +374,14 @@ inference and public health evaluation.
     <span class="code-item">
       <a href="https://github.com/Jianbin-Tan/Functional-Singular-Value-Decompostion">Functional Singular Value Decomposition</a>
     </span>
-    
+
     <span class="code-item">
       <a href="https://github.com/fl81224/Functional-Clustering-of-Longitudinal-Associations?tab=readme-ov-file">Functional Clustering of Longitudinal Associations</a>
     </span>
-    
-     <span class="code-item">
+
+    <span class="code-item">
       <a href="https://github.com/Jianbin-Tan/GFPCA">Graphical Functional Principal Component Analysis</a>
     </span>
-    
   </p>
 </div>
 
@@ -396,40 +392,37 @@ inference and public health evaluation.
   </div>
 
   <p class="project-summary">
-    This research focuses on developing statistical methods for differential equation modeling and learning, including parameter estimation and equation discovery, as well as differential-equation–based generative modeling.
+    This research focuses on developing statistical methods for differential equation modeling and learning, including parameter estimation and equation discovery,
+    as well as differential-equation–based generative modeling.
   </p>
-
- <!-- <div class="project-figure">
-    <img src="assets/img/PROJECT_METHOD_DE_FIG.png" alt="Project figure">
-  </div>-->
 
   <div class="project-meta">
     <span class="project-label">Representative publications:</span>
 
     <div class="pub-list">
       <div class="pub-row">
-        <span class="pub-title">
+        <span class="proj-pub-title">
           <a href="https://doi.org/10.1093/jrsssb/qkae031">Green’s Matching: an Efficient Approach to Parameter Estimation in Complex Dynamic Systems</a>
         </span>
         <span class="pub-badge">JRSSB</span>
       </div>
 
       <div class="pub-row">
-        <span class="pub-title">
+        <span class="proj-pub-title">
           <a href="https://arxiv.org/abs/2508.13831">Smooth Flow Matching</a>
         </span>
         <span class="pub-badge">Preprint</span>
       </div>
 
       <div class="pub-row">
-        <span class="pub-title">
+        <span class="proj-pub-title">
           <a href="https://arxiv.org/abs/2507.20072">Sparse Equation Matching: a Derivative-Free Learning for General-Order Dynamical Systems</a>
         </span>
         <span class="pub-badge">Preprint</span>
       </div>
 
       <div class="pub-row">
-        <span class="pub-title">
+        <span class="proj-pub-title">
           <a href="https://doi.org/10.1111/biom.13814">Age-Related Model for Estimating the Symptomatic and Asymptomatic Transmissibility of COVID-19 Patients</a>
         </span>
         <span class="pub-badge">BIOM</span>
@@ -447,10 +440,9 @@ inference and public health evaluation.
     <span class="code-item">
       <a href="https://github.com/Jianbin-Tan/Smooth-Flow-Matching">Smooth Flow Matching</a>
     </span>
-    
+
     <span class="code-item">
       <a href="https://github.com/Jianbin-Tan/Age-related-Model-for-COVID-19-Epidemic">Age-Stratified Epidemic Model</a>
     </span>
-    
   </p>
 </div>
