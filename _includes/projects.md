@@ -313,6 +313,92 @@ inference and scientific evaluation.
 <!-- Project 1 (Group 2) -->
 <div class="project-item">
   <div class="project-title">
+    <a href="">Functional/Longitudinal Data Analysis</a>
+  </div>
+
+  <p class="project-summary">
+    
+  </p>
+
+  <div class="project-figure">
+    <img src="assets/img/PROJECT_METHOD_DE_FIG.png" alt="Project figure">
+  </div>
+
+  <div class="project-meta">
+    <span class="project-label">Representative publications:</span>
+
+    <div class="pub-list">
+      <div class="pub-row">
+        <span class="pub-title">
+          <a href="https://arxiv.org/abs/2508.13831">Smooth Flow Matching</a>
+        </span>
+        <span class="pub-badge">Preprint</span>
+      </div>
+      
+      <div class="pub-row">
+        <span class="pub-title">
+          <a href="https://arxiv.org/abs/2410.03619">Functional-SVD for Heterogeneous Trajectories: Case Studies in Health</a>
+        </span>
+        <span class="pub-badge">Preprint</span>
+      </div>
+      
+      <div class="pub-row">
+        <span class="pub-title">
+          <a href="https://doi.org/10.1214/24-AOAS1989">Functional Clustering for Longitudinal Associations between Social Determinants of Health and Stroke Mortality in the U.S.</a>
+        </span>
+        <span class="pub-badge">AOAS</span>
+      </div>
+      
+       <div class="pub-row">
+        <span class="pub-title">
+          <a href="https://www.tandfonline.com/doi/full/10.1080/01621459.2024.2302198">Graphical Principal Component Analysis of Multivariate Functional Time Series</a>
+        </span>
+        <span class="pub-badge">JASA</span>
+      </div>
+
+      <div class="pub-row">
+        <span class="pub-title">
+          <a href="https://arxiv.org/abs/2408.02343">A Unified Principal Components Analysis of Stationary Functional Time Series</a>
+        </span>
+        <span class="pub-badge">Preprint</span>
+      </div>
+
+      <div class="pub-row">
+        <span class="pub-title">
+          <a href="https://doi.org/10.1002/sta4.70140">A Frequency-Domain Approach for Integrating Multiple Functional Time Series</a>
+        </span>
+        <span class="pub-badge">STAT</span>
+      </div>
+
+      
+    </div>
+  </div>
+
+  <p class="project-meta">
+    <span class="project-label">Related code:</span>
+
+    <span class="code-item">
+      <a href="https://github.com/Jianbin-Tan/Smooth-Flow-Matching">Smooth Flow Matching</a>
+    </span>
+
+    <span class="code-item">
+      <a href="https://github.com/Jianbin-Tan/Functional-Singular-Value-Decompostion">Functional Singular Value Decomposition</a>
+    </span>
+    
+    <span class="code-item">
+      <a href="https://github.com/fl81224/Functional-Clustering-of-Longitudinal-Associations?tab=readme-ov-file">Functional Clustering of Longitudinal Associations</a>
+    </span>
+    
+     <span class="code-item">
+      <a href="https://github.com/Jianbin-Tan/GFPCA">Graphical Functional Principal Component Analysis</a>
+    </span>
+    
+  </p>
+</div>
+
+<!-- Project 2 (Group 2) -->
+<div class="project-item">
+  <div class="project-title">
     <a href="">Statistical Modeling/Learning of Differential Equations</a>
   </div>
 
@@ -367,6 +453,10 @@ inference and scientific evaluation.
 
     <span class="code-item">
       <a href="https://github.com/Jianbin-Tan/Smooth-Flow-Matching">Smooth Flow Matching</a>
+    </span>
+    
+    <span class="code-item">
+      <a href="https://github.com/Jianbin-Tan/Age-related-Model-for-COVID-19-Epidemic">Age-Stratified Epidemic Model</a>
     </span>
     
   </p>
