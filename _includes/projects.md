@@ -260,7 +260,7 @@ inference and public health evaluation.
   </p>
 
   <div class="project-figure">
-    <img src="assets/img/PROJECT3_FIG.png" alt="Project figure">
+    <img src="assets/img/PM25.jpg" alt="Project figure">
   </div>
 
   <div class="project-meta">
