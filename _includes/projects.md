@@ -363,13 +363,6 @@ inference and scientific evaluation.
         <span class="pub-badge">Preprint</span>
       </div>
 
-      <div class="pub-row">
-        <span class="pub-title">
-          <a href="https://doi.org/10.1002/sta4.70140">A Frequency-Domain Approach for Integrating Multiple Functional Time Series</a>
-        </span>
-        <span class="pub-badge">STAT</span>
-      </div>
-
       
     </div>
   </div>
