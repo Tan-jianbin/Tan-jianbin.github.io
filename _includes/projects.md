@@ -278,7 +278,7 @@
 
       <div class="pub-row">
         <span class="proj-pub-title">
-          <a href="https://arxiv.org/abs/2408.02343">A Unified Principal Components Analysis of Stationary Functional Time Series</a>
+          <a href="https://arxiv.org/abs/2408.02343">A Unified Principal Components Analysis of Functional Time Series</a>
         </span>
         <span class="pub-badge">Preprint</span>
       </div>
@@ -361,7 +361,7 @@
 
       <div class="pub-row">
         <span class="proj-pub-title">
-          <a href="https://arxiv.org/abs/2408.02343">A Unified Principal Components Analysis of Stationary Functional Time Series</a>
+          <a href="https://arxiv.org/abs/2408.02343">A Unified Principal Components Analysis of Functional Time Series</a>
         </span>
         <span class="pub-badge">Preprint</span>
       </div>
