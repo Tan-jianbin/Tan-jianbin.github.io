@@ -101,7 +101,7 @@
     <div class="periodical"><em>  Stat, 2026. </em></div>
     <!-- Code -->
     <div class="github-link">
-      <a href=""> View on Arxiv </a>
+      <a href="https://www.researchgate.net/publication/399840134_A_Frequency-Domain_Approach_for_Integrating_Multiple_Functional_Time_Series"> View on Arxiv </a>
     </div>
   </div>
 </div>
