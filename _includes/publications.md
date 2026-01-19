@@ -37,6 +37,25 @@
 <li>
 <div class="pub-row">
    <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;max-width: 150px;max-height: 150px">
+    <img src="assets/img/fsvd.jpg" style="width: auto; height: auto">
+     <abbr class="badge">  </abbr>
+  </div>
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href=""> Associating High-Dimensional Longitudinal Datasets through an Efficient Cross-Covariance Decomposition </a></div>
+    <div class="author"> <strong><span style="color: orange;">Jianbin Tan</span></strong>, and Pixu Shi.</div>
+    <div class="periodical"><em>  Preprint.</em></div>
+    <!-- Code -->
+    <div class="github-link">
+      <!--<a href="https://github.com/Jianbin-Tan/Functional-Singular-Value-Decompostion">  View on GitHub </a>&nbsp;&nbsp;-->
+      <a href=""> View on Arxiv </a>
+    </div>
+  </div>
+</div>
+</li>
+
+<li>
+<div class="pub-row">
+   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;max-width: 150px;max-height: 150px">
     <img src="assets/img/dynamic.jpg" style="width: auto; height: auto">
      <abbr class="badge">  Preprint </abbr>
   </div>
