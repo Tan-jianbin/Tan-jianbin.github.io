@@ -347,16 +347,16 @@
 
       <div class="pub-row">
         <span class="proj-pub-title">
-          <a href="https://doi.org/10.1214/24-AOAS1989">Functional Clustering for Longitudinal Associations between Social Determinants of Health and Stroke Mortality in the U.S.</a>
+          <a href="https://www.tandfonline.com/doi/full/10.1080/01621459.2024.2302198">Graphical Principal Component Analysis of Multivariate Functional Time Series</a>
         </span>
-        <span class="pub-badge">AOAS</span>
+        <span class="pub-badge">JASA</span>
       </div>
 
       <div class="pub-row">
         <span class="proj-pub-title">
-          <a href="https://www.tandfonline.com/doi/full/10.1080/01621459.2024.2302198">Graphical Principal Component Analysis of Multivariate Functional Time Series</a>
+          <a href="https://doi.org/10.1214/24-AOAS1989">Functional Clustering for Longitudinal Associations between Social Determinants of Health and Stroke Mortality in the U.S.</a>
         </span>
-        <span class="pub-badge">JASA</span>
+        <span class="pub-badge">AOAS</span>
       </div>
 
       <div class="pub-row">
@@ -378,13 +378,13 @@
     <span class="code-item">
       <a href="https://github.com/Jianbin-Tan/Functional-Singular-Value-Decompostion">Functional Singular Value Decomposition</a>
     </span>
-
-    <span class="code-item">
-      <a href="https://github.com/fl81224/Functional-Clustering-of-Longitudinal-Associations?tab=readme-ov-file">Functional Clustering of Longitudinal Associations</a>
+    
+     <span class="code-item">
+      <a href="https://github.com/Jianbin-Tan/GFPCA">Graphical Functional Principal Component Analysis</a>
     </span>
 
     <span class="code-item">
-      <a href="https://github.com/Jianbin-Tan/GFPCA">Graphical Functional Principal Component Analysis</a>
+      <a href="https://github.com/fl81224/Functional-Clustering-of-Longitudinal-Associations?tab=readme-ov-file">Functional Clustering of Longitudinal Associations</a>
     </span>
   </p>
 </div>
