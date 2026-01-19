@@ -396,8 +396,8 @@
   </div>
 
   <p class="project-summary">
-    This research focuses on developing statistical methods for differential equation modeling and learning, including parameter estimation and equation discovery,
-    as well as differential-equation–based generative modeling.
+    This research focuses on developing statistical methods for differential equation modeling and learning, including parameter estimation and vector field inference,
+    as well as differential-equation–based generative modeling and other related tasks.
   </p>
   
   <div class="project-figure">
