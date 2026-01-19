@@ -40,8 +40,9 @@
         <br>
         {% endif %}
         {% if site.affiliation %}
-        <a href="{{ site.affiliation_link }}" rel="noopener"><autocolor>{{ site.affiliation }}</autocolor></a>
-        <br>
+        <p>
+            <autocolor>{{ site.affiliation }}</autocolor>
+        </p>
         {% endif %}
         {% if site.email %}
         <email>{{ site.email }}</email>
