@@ -37,7 +37,7 @@
 <li>
 <div class="pub-row">
    <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;max-width: 150px;max-height: 150px">
-    <img src="assets/img/fsvd.jpg" style="width: auto; height: auto">
+    <img src="assets/img/association.pdf" style="width: auto; height: auto">
      <abbr class="badge">  </abbr>
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
