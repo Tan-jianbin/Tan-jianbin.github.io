@@ -399,6 +399,10 @@
     This research focuses on developing statistical methods for differential equation modeling and learning, including parameter estimation and equation discovery,
     as well as differential-equation–based generative modeling.
   </p>
+  
+  <div class="project-figure">
+    <img src="assets/img/ode.jpg" alt="Project figure">
+  </div>
 
   <div class="project-meta">
     <span class="project-label">Representative publications:</span>
