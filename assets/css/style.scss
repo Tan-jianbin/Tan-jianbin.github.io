@@ -6,42 +6,46 @@
 /* =========================
    Force light / white theme
    ========================= */
-
-/* Tell the browser we want light UI (scrollbars/forms, etc.) */
 :root { color-scheme: light; }
 
-/* White background + dark text */
 html, body {
   background: #ffffff !important;
   color: #000000 !important;
 }
 
-/* Lock theme variables to light */
+/* Lock minimal-light variables to light */
 :root{
   --global-bg-color: #ffffff !important;
   --global-text-color: #000000 !important;
-  --global-text-color-light: #666666 !important; /* slightly lighter gray */
+  --global-text-color-light: #666666 !important;
 }
 
-/* If some containers still look non-white */
-.page, .wrapper, .container, .content{
+/* Some containers (safe fallback) */
+.wrapper, header, section, footer {
   background: #ffffff !important;
 }
 
 /* =========================
-   Fix affiliation line style
-   (e.g., "Duke University")
+   Fix "Duke University" line
+   (site.affiliation rendered via <autocolor>)
    ========================= */
 
-/* Most themes use this class */
-.affiliation,
-.affiliation a{
+/* Make affiliation look like normal text */
+header a autocolor,
+header autocolor {
   color: #000000 !important;
   opacity: 1 !important;
 }
 
-/* Fallback: if theme uses a different structure */
-.sidebar,
-.sidebar *{
-  opacity: 1;
+/* Also ensure the affiliation link itself isn't forced to light/gray */
+header a[href]{
+  opacity: 1 !important;
+}
+
+/* Optional: keep it clean (no weird underline) */
+header a[href] autocolor {
+  text-decoration: none !important;
+}
+header a[href]:hover autocolor{
+  text-decoration: underline !important; /* if you want hover underline; remove if not */
 }
