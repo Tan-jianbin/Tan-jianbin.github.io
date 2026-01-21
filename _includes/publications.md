@@ -41,13 +41,13 @@
      <abbr class="badge"> Preprint </abbr>
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href=""> Associating High-Dimensional Longitudinal Datasets through an Efficient Cross-Covariance Decomposition </a></div>
+    <div class="title"><a href="https://arxiv.org/abs/2601.13405"> Associating High-Dimensional Longitudinal Datasets through an Efficient Cross-Covariance Decomposition </a></div>
     <div class="author"> <strong><span style="color: orange;">Jianbin Tan</span></strong>, and Pixu Shi.</div>
     <div class="periodical"><em>  Preprint.</em></div>
     <!-- Code -->
     <div class="github-link">
       <!--<a href="https://github.com/Jianbin-Tan/Functional-Singular-Value-Decompostion">  View on GitHub </a>&nbsp;&nbsp;-->
-      <a href=""> View on Arxiv </a>
+      <a href="https://arxiv.org/abs/2601.13405"> View on Arxiv </a>
     </div>
   </div>
 </div>
