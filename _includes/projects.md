@@ -252,11 +252,11 @@
 <!-- Project 3 (Group 1) -->
 <div class="project-item">
   <div class="project-title">
-    <a href="">Environmental Daily Curve Analysis</a>
+    <a href="">Environmental Data Analysis</a>
   </div>
 
   <p class="project-summary">
-    This project develops statistical methods for environmental daily curve, commonly modeled as functional time series, which exhibit complex multi-way
+    This project develops statistical methods for environmental daily curves, commonly modeled as functional time series, which exhibit complex multi-way
     dependencies due to complicated environmental measurement processes. We focus on dependence-adaptive dimension reduction and frequency-domain approaches
     for dependence-aware inference, enabling tasks such as prediction, graph/network inference, and data integration in environmental applications.
   </p>
