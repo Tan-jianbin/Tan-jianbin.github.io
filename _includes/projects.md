@@ -315,12 +315,12 @@
 <!-- Project 1 (Group 2) -->
 <div class="project-item">
   <div class="project-title">
-    <a href="">Functional Data Analysis</a>
+    <a href="">Functional/Longitudinal Data Analysis</a>
   </div>
 
   <p class="project-summary">
-    This research develops statistical learning methods for functional data, treating each observation as a random function for statistical analysis.
-    We emphasize model-free approaches that provide structural adaptivity and accommodate irregular sampling—key challenges in modern functional data analysis.
+    This research develops statistical learning methods for functional/longitudinal data under complicated settings.
+    We emphasize model-free approaches that provide structural adaptivity and accommodate irregular sampling—key challenges in modern functional/longitudinal data analysis.
   </p>
   
   <div class="project-figure">
