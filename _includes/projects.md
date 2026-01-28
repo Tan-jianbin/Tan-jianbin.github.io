@@ -428,6 +428,20 @@
         </span>
         <span class="pub-badge">Preprint</span>
       </div>
+      
+      <div class="pub-row">
+        <span class="proj-pub-title">
+          <a href="https://doi.org/10.1080/01621459.2021.1897015">The Effects of Stringent and Mild Interventions for Coronavirus Pandemic</a>
+        </span>
+        <span class="pub-badge">JASA</span>
+      </div>
+      
+       <div class="pub-row">
+        <span class="proj-pub-title">
+          <a href="https://doi.org/10.1111/biom.13814">Age-Related Model for Estimating the Symptomatic and Asymptomatic Transmissibility of COVID-19 Patients</a>
+        </span>
+        <span class="pub-badge">BIOM</span>
+      </div>
 
       <div class="pub-row">
         <span class="proj-pub-title">
@@ -436,12 +450,7 @@
         <span class="pub-badge">Preprint</span>
       </div>
 
-      <div class="pub-row">
-        <span class="proj-pub-title">
-          <a href="https://doi.org/10.1111/biom.13814">Age-Related Model for Estimating the Symptomatic and Asymptomatic Transmissibility of COVID-19 Patients</a>
-        </span>
-        <span class="pub-badge">BIOM</span>
-      </div>
+  
     </div>
   </div>
 
@@ -454,10 +463,6 @@
 
     <span class="code-item">
       <a href="https://github.com/Jianbin-Tan/Smooth-Flow-Matching">Smooth Flow Matching</a>
-    </span>
-    
-    <span class="code-item">
-      <a href="https://github.com/tingT0929/The-Effects-of-Stringent-and-Mild-Interventions">Causal Inference for Epidemic Interventions</a>
     </span>
 
     <span class="code-item">
