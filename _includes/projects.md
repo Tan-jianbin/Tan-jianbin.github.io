@@ -455,6 +455,10 @@
     <span class="code-item">
       <a href="https://github.com/Jianbin-Tan/Smooth-Flow-Matching">Smooth Flow Matching</a>
     </span>
+    
+    <span class="code-item">
+      <a href="https://github.com/tingT0929/The-Effects-of-Stringent-and-Mild-Interventions">Causal Inference for Epidemic Interventions</a>
+    </span>
 
     <span class="code-item">
       <a href="https://github.com/Jianbin-Tan/Age-related-Model-for-COVID-19-Epidemic">Age-Stratified Epidemic Model</a>
