@@ -102,7 +102,7 @@
     <!-- Code -->
     <div class="github-link">
       <a href="https://github.com/Jianbin-Tan/Functional-Singular-Value-Decompostion">  View on GitHub </a>&nbsp;&nbsp;
-      <a href="https://arxiv.org/abs/2410.03619"> View on Arxiv </a>
+      <a href="https://arxiv.org/abs/2410.03619v5"> View on Arxiv </a>
     </div>
   </div>
 </div>
@@ -201,7 +201,7 @@
     <!-- Code -->
     <div class="github-link">
       <a href="https://github.com/Jianbin-Tan/GFPCA">View on GitHub</a>&nbsp;&nbsp;
-      <a href="https://arxiv.org/abs/2401.06990">View on Arxiv</a>&nbsp;&nbsp;
+      <a href="https://arxiv.org/abs/2401.06990v2">View on Arxiv</a>&nbsp;&nbsp;
     </div>
   </div>
 </div>
