@@ -96,7 +96,7 @@
      <abbr class="badge"> JASA </abbr>
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href=""> Functional-SVD for Heterogeneous Trajectories: Case Studies in Health </a></div>
+    <div class="title"><a href="https://doi.org/10.1080/01621459.2026.2625441"> Functional-SVD for Heterogeneous Trajectories: Case Studies in Health </a></div>
     <div class="author"> <strong><span style="color: orange;">Jianbin Tan</span></strong>, Pixu Shi, and Anru Zhang.</div>
     <div class="periodical"><em>  Journal of the American Statistical Association, 2026.</em></div>
     <!-- Code -->
