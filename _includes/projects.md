@@ -151,7 +151,7 @@
 
       <div class="pub-row">
         <span class="proj-pub-title">
-          <a href="https://arxiv.org/abs/2410.03619">Functional-SVD for Heterogeneous Trajectories: Case Studies in Health</a>
+          <a href="https://doi.org/10.1080/01621459.2026.2625441">Functional-SVD for Heterogeneous Trajectories: Case Studies in Health</a>
         </span>
         <span class="pub-badge">JASA</span>
       </div>
@@ -340,7 +340,7 @@
 
       <div class="pub-row">
         <span class="proj-pub-title">
-          <a href="https://arxiv.org/abs/2410.03619">Functional-SVD for Heterogeneous Trajectories: Case Studies in Health</a>
+          <a href="https://doi.org/10.1080/01621459.2026.2625441">Functional-SVD for Heterogeneous Trajectories: Case Studies in Health</a>
         </span>
         <span class="pub-badge">JASA</span>
       </div>
