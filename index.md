@@ -10,15 +10,15 @@ My research interests lie in statistical learning for data with <span style="col
 
 <!-- Tabs -->
 <div class="rp-tabs" style="margin: 18px 0;">
-  <button type="button" class="rp-tab active" data-target="tab-papers">Publications</button>
-  <button type="button" class="rp-tab" data-target="tab-projects">Research</button>
+  <button type="button" class="rp-tab active" data-target="tab-projects">Research</button>
+  <button type="button" class="rp-tab" data-target="tab-papers">Publications</button>
 </div>
 
-<div id="tab-projects" class="rp-tabcontent" style="display:none;">
+<div id="tab-projects" class="rp-tabcontent">
   {% include_relative _includes/projects.md %}
 </div>
 
-<div id="tab-papers" class="rp-tabcontent">
+<div id="tab-papers" class="rp-tabcontent" style="display:none;">
   {% include_relative _includes/publications.md %}
 </div>
 
