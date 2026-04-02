@@ -301,7 +301,7 @@ with an emphasis on generative modeling, representation learning, structure-awar
 <!-- ===================== -->
 <!-- Group 2: Methods      -->
 <!-- ===================== -->
-<div class="project-group">Statistical Method</div>
+<div class="project-group">Method</div>
 <p class="project-group-note">
   Projects organized by methodological themes.
 </p>
