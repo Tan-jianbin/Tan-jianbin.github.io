@@ -7,8 +7,6 @@ layout: homepage
 I am currently a [Postdoctoral Associate](https://biostat.duke.edu/profile/jianbin-tan) in the Department of Biostatistics & Bioinformatics, Duke University, supervised by Prof. [Anru Zhang](https://anruzhang.github.io) and Prof. [Pixu Shi](https://pixushi.github.io). I received my PhD in Statistics from Sun Yat-sen University in 2023, advised by Prof. [Hui Huang](http://cfas.ruc.edu.cn/kydw/zzyjy/hh/index.htm). I was a [visiting student](https://statlab905.github.io/author/jianbin-tan/) working with Prof. [Xueqin Wang](https://bs.ustc.edu.cn/english/profile.php?id=650) in the School of Management, USTC, in 2022. 
 I won the 2026 Institute of Mathematical Statistics (IMS) New Researcher Travel Award.
 
-My research interests lie in statistical learning for data with dynamic, longitudinal, or functional structures. Such data often exhibit complicated dependencies and heterogeneity, as well as challenges arising from irregular sampling and high/infinite-dimensionality. To address these, I focus on developing new methodologies for learning with  <span style="color: orange;"> functions, flows, and differential equations</span>, supporting effective analysis in health, epidemiology, and environmental science.
-
 <!-- Tabs -->
 <div class="rp-tabs" style="margin: 18px 0;">
   <button type="button" class="rp-tab active" data-target="tab-projects">Research</button>
