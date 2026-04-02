@@ -122,7 +122,7 @@
 <!-- Project 1 -->
 <div class="project-item">
   <div class="project-title">
-    <a href="">AI in Health</a>
+    <a href="">AI for Health</a>
   </div>
 
   <p class="project-summary">
