@@ -256,7 +256,7 @@ with an emphasis on generative modeling, representation learning, structure-awar
 <!-- Project 3 (Group 1) -->
 <div class="project-item">
   <div class="project-title">
-    <a href="">Environmental Data Modelling</a>
+    <a href="">Environmental Modelling</a>
   </div>
 
   <p class="project-summary">
