@@ -122,11 +122,11 @@
 <!-- Project 1 -->
 <div class="project-item">
   <div class="project-title">
-    <a href="">AI in Health Data</a>
+    <a href="">AI in Health</a>
   </div>
 
   <p class="project-summary">
-    This project develops AI and statistical methods for electronic health records with complex sampling schemes,
+    This project develops AI and statistical methods for health-related data with complex sampling schemes,
 with an emphasis on generative modeling, representation learning, structure-aware imputation, and reliable prediction and inference.
   </p>
 
