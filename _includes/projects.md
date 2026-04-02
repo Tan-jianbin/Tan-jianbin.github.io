@@ -122,7 +122,7 @@
 <!-- Project 1 -->
 <div class="project-item">
   <div class="project-title">
-    <a href="">AI in Health Data Analysis</a>
+    <a href="">AI in Health Data</a>
   </div>
 
   <p class="project-summary">
@@ -186,7 +186,7 @@ with an emphasis on generative modeling, representation learning, structure-awar
 
   <p class="project-summary">
     This project develops statistical methods for dynamic epidemiologic and public health data, including causal inference,
-    transmission modeling, and longitudinal association discovery, to characterize time-varying effects and enable reliable
+    transmission modeling, and association discovery, to characterize policy effects and enable reliable
     inference and public health evaluation.
   </p>
 
@@ -248,13 +248,11 @@ with an emphasis on generative modeling, representation learning, structure-awar
 <!-- Project 3 (Group 1) -->
 <div class="project-item">
   <div class="project-title">
-    <a href="">Environmental Data Analysis</a>
+    <a href="">Environmental Data Modelling</a>
   </div>
 
   <p class="project-summary">
-    This project develops statistical methods for environmental daily curves (commonly modeled to as functional time series), which exhibit multi-way
-    dependencies due to complicated environmental measurement processes. We focus on frequency-domain approaches
-    for dependence-aware inference, enabling tasks such as prediction, graph/network inference, and data integration in environmental applications.
+    This project develops statistical methods for environmental daily curves (commonly modeled as functional time series), which exhibit multi-way dependencies due to complicated environmental measurement processes. We focus on frequency-domain approaches for dependence-aware inference, enabling tasks such as prediction, graph/network inference, and data integration in environmental applications.
   </p>
 
   <div class="project-figure">
