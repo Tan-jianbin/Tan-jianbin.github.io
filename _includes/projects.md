@@ -118,20 +118,16 @@
 <!-- ===================== -->
 <!-- Group 1: Applications -->
 <!-- ===================== -->
-<div class="project-group">Application</div>
-<p class="project-group-note">
-  Projects organized by application domains.
-</p>
 
 <!-- Project 1 -->
 <div class="project-item">
   <div class="project-title">
-    <a href="">Health Data Analysis</a>
+    <a href="">AI in Health Data Analysis</a>
   </div>
 
   <p class="project-summary">
-    This project develops statistical methods for electronic health records with complex missingness and irregular sampling,
-    with an emphasis on generative modeling, representation learning, structure-aware imputation, and reliable downstream tasks for prediction and inference.
+    This project develops AI and statistical methods for electronic health records with complex sampling schemes,
+with an emphasis on generative modeling, representation learning, structure-aware imputation, and reliable prediction and inference.
   </p>
 
   <div class="project-figure">
