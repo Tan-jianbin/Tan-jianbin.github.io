@@ -309,7 +309,7 @@ with an emphasis on generative modeling, representation learning, structure-awar
 <!-- Project 1 (Group 2) -->
 <div class="project-item">
   <div class="project-title">
-    <a href="">Functional/Longitudinal Data Analysis</a>
+    <a href="">Functional/Longitudinal Data</a>
   </div>
 
   <p class="project-summary">
