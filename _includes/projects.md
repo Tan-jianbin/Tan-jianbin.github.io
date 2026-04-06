@@ -140,7 +140,7 @@ with an emphasis on generative modeling, representation learning, structure-awar
     <div class="pub-list">
       <div class="pub-row">
         <span class="proj-pub-title">
-          <a href="https://arxiv.org/abs/2508.13831">Smooth Flow Matching</a>
+          <a href="https://arxiv.org/abs/2508.13831">Smooth Flow Matching for Synthesizing Functional Data</a>
         </span>
         <span class="pub-badge">Preprint</span>
       </div>
@@ -335,7 +335,7 @@ with an emphasis on generative modeling, representation learning, structure-awar
     <div class="pub-list">
       <div class="pub-row">
         <span class="proj-pub-title">
-          <a href="https://arxiv.org/abs/2508.13831">Smooth Flow Matching</a>
+          <a href="https://arxiv.org/abs/2508.13831">Smooth Flow Matching for Synthesizing Functional Data</a>
         </span>
         <span class="pub-badge">Preprint</span>
       </div>
@@ -426,7 +426,7 @@ with an emphasis on generative modeling, representation learning, structure-awar
 
       <div class="pub-row">
         <span class="proj-pub-title">
-          <a href="https://arxiv.org/abs/2508.13831">Smooth Flow Matching</a>
+          <a href="https://arxiv.org/abs/2508.13831">Smooth Flow Matching for Synthesizing Functional Data</a>
         </span>
         <span class="pub-badge">Preprint</span>
       </div>
