@@ -253,7 +253,7 @@ with an emphasis on generative modeling, representation learning, structure-awar
   </p>
 </div>
 
-<!-- Project 3 (Group 1) -->
+<!-- 
 <div class="project-item">
   <div class="project-title">
     <a href="">Environmental Modelling</a>
@@ -304,6 +304,7 @@ with an emphasis on generative modeling, representation learning, structure-awar
 </div>
 
 <hr class="project-divider">
+-->
 
 
 <!-- Project 1 (Group 2) -->
