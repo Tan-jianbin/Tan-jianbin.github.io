@@ -211,6 +211,9 @@
     <div class="title"><a href="https://www.tandfonline.com/doi/full/10.1080/01621459.2024.2302198">Graphical Principal Component Analysis of Multivariate Functional Time Series</a></div>
     <div class="author"> <strong><span style="color: orange;">Jianbin Tan</span></strong>, Decai Liang, Yongtao Guan, and Hui Huang.</div>
     <div class="periodical"><em> Journal of the American Statistical Association, 2024.</em></div>
+     <div style="color: #b07d4f; margin-top: 4px;">
+        This paper received the 2023 Outstanding Doctoral Thesis Award from Sun Yat-sen University.
+      </div>
     <!-- Code -->
     <div class="github-link">
       <a href="https://github.com/Jianbin-Tan/GFPCA">View on GitHub</a>&nbsp;&nbsp;
