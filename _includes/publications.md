@@ -16,22 +16,28 @@
 
 
 <li>
-<div class="pub-row">
-   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;max-width: 150px;max-height: 150px">
-    <img src="assets/img/SMO.jpg" style="width: auto; height: auto">
-     <abbr class="badge">  Preprint </abbr>
-  </div>
-  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://arxiv.org/abs/2508.13831">Smooth Flow Matching for Synthesizing Functional Data</a></div>
-    <div class="author"> <strong><span style="color: orange;">Jianbin Tan</span></strong>, and Anru Zhang.</div>
-    <div class="periodical"><em>  Preprint.</em></div>
-    <!-- Code -->
-    <div class="github-link">
-      <a href="https://github.com/Jianbin-Tan/Smooth-Flow-Matching">  View on GitHub </a>&nbsp;&nbsp;
-      <a href="https://arxiv.org/abs/2508.13831"> View on Arxiv </a>
+  <div class="pub-row">
+    <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;max-width: 150px;max-height: 150px">
+      <img src="assets/img/SMO.jpg" style="width: auto; height: auto">
+      <abbr class="badge">Preprint</abbr>
+    </div>
+    <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+      <div class="title">
+        <a href="https://arxiv.org/abs/2508.13831">Smooth Flow Matching for Synthesizing Functional Data</a>
+      </div>
+      <div class="author">
+        <strong><span style="color: orange;">Jianbin Tan</span></strong>, and Anru Zhang.
+      </div>
+      <div class="periodical"><em>Preprint.</em></div>
+      <div style="color: #b07d4f; margin-top: 4px;">
+        This paper received the 2026 New Researcher Travel Award from the Institute of Mathematical Statistics (IMS).
+      </div>
+      <div class="github-link">
+        <a href="https://github.com/Jianbin-Tan/Smooth-Flow-Matching">View on GitHub</a>&nbsp;&nbsp;
+        <a href="https://arxiv.org/abs/2508.13831">View on Arxiv</a>
+      </div>
     </div>
   </div>
-</div>
 </li>
 
 <li>
