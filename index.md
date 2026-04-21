@@ -8,7 +8,7 @@ I am currently a [Postdoctoral Associate](https://biostat.duke.edu/profile/jianb
 
 <!-- I was a [visiting student](https://statlab905.github.io/author/jianbin-tan/) working with Prof. [Xueqin Wang](https://bs.ustc.edu.cn/english/profile.php?id=650) in the School of Management, USTC, in 2022.
 My research interests lie in statistical learning for data with dynamic, longitudinal, or functional structures. Such data often exhibit complicated dependencies and heterogeneity, as well as challenges arising from irregular sampling and high/infinite-dimensionality. To address these, I focus on developing new methodologies for learning with  <span style="color: orange;"> functions, flows, and differential equations</span>, supporting effective analysis in health, epidemiology, and environmental science.-->
-My research interests lie in statistical learning of <span style="color: orange;"> functions, flows, and differential equations</span>, supporting effective analysis in health, epidemiology, and environmental science..
+My research interests lie in statistical learning of <span style="color: orange;"> functions, flows, and differential equations</span>, supporting effective analysis in health, epidemiology, and environmental science.
 
 <!-- Tabs -->
 <div class="rp-tabs" style="margin: 18px 0;">
