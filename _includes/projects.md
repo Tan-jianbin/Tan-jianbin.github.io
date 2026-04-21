@@ -306,14 +306,6 @@ with an emphasis on generative modeling, representation learning, structure-awar
 <hr class="project-divider">
 
 
-<!-- ===================== -->
-<!-- Group 2: Methods      -->
-<!-- ===================== -->
-<div class="project-group">Method</div>
-<p class="project-group-note">
-  Projects organized by methodological themes.
-</p>
-
 <!-- Project 1 (Group 2) -->
 <div class="project-item">
   <div class="project-title">
@@ -370,7 +362,7 @@ with an emphasis on generative modeling, representation learning, structure-awar
 
       <div class="pub-row">
         <span class="proj-pub-title">
-          <a href="https://arxiv.org/abs/2408.02343">A Unified Principal Components Analysis of Functional Time Series</a>
+          <a href="https://arxiv.org/abs/2408.02343">Dependence-Adaptive Modelling for Functional Time Series</a>
         </span>
         <span class="pub-badge">Preprint</span>
       </div>
@@ -401,7 +393,7 @@ with an emphasis on generative modeling, representation learning, structure-awar
 <!-- Project 2 (Group 2) -->
 <div class="project-item">
   <div class="project-title">
-    <a href="">Statistical Modeling/Learning of Differential Equations</a>
+    <a href="">Statistical Learning of Differential Equations and Flows</a>
   </div>
 
   <p class="project-summary">
