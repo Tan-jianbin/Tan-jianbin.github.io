@@ -424,13 +424,6 @@ with an emphasis on generative modeling, representation learning, structure-awar
         <span class="pub-badge">Preprint</span>
       </div>
       
-      <div class="pub-row">
-        <span class="proj-pub-title">
-          <a href="https://doi.org/10.1080/01621459.2021.1897015">The Effects of Stringent and Mild Interventions for Coronavirus Pandemic</a>
-        </span>
-        <span class="pub-badge">JASA</span>
-      </div>
-      
        <div class="pub-row">
         <span class="proj-pub-title">
           <a href="https://doi.org/10.1111/biom.13814">Age-Related Model for Estimating the Symptomatic and Asymptomatic Transmissibility of COVID-19 Patients</a>
