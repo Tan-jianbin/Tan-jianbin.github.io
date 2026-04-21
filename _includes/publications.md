@@ -69,6 +69,9 @@
     <div class="title"><a href="https://arxiv.org/abs/2408.02343">Dependence-Adaptive Modelling for Functional Time Series</a></div>
      <div class="author"> Zerui Guo, <strong><span style="color: orange;">Jianbin Tan (joint first authorship)</span></strong>, and Hui Huang.</div>
     <div class="periodical"><em>  Preprint.</em></div>
+     <div style="color: #b07d4f; margin-top: 4px;">
+        This paper received the 2025 Best Paper Award from Renmin University of China.
+      </div>
       <!-- Code -->
     <div class="github-link">
       <a href="https://arxiv.org/abs/2408.02343"> View on Arxiv </a>
