@@ -150,6 +150,7 @@
     <div class="github-link">
       <a href="https://github.com/Tan-jianbin/Macomss">  View on GitHub </a>&nbsp;&nbsp;
       <a href="https://arxiv.org/abs/2506.09208"> View on Arxiv </a>
+      <a href="https://github.com/Tan-jianbin/FSVD"> R Package </a>
     </div>
   </div>
 </div>
