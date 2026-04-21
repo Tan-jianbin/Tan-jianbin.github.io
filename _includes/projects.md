@@ -446,7 +446,7 @@ with an emphasis on generative modeling, representation learning, structure-awar
     <span class="project-label">Related code:</span>
 
     <span class="code-item">
-      <a href="https://github.com/Jianbin-Tan/Statistical-Inference-in-General-order-Dynamic-Systems">Green's Matching</a>
+      <a href="https://github.com/Tan-jianbin/Statistical-Inference-in-General-order-Dynamic-Systems">Green's Matching</a>
     </span>
 
     <span class="code-item">
