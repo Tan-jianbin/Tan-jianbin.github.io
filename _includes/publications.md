@@ -92,9 +92,10 @@
     <div class="periodical"><em>  Journal of the American Statistical Association, 2026.</em></div>
     <!-- Code -->
     <div class="github-link">
-      <a href="https://github.com/Jianbin-Tan/Functional-Singular-Value-Decompostion">  View on GitHub </a>&nbsp;&nbsp;
-      <a href="https://arxiv.org/abs/2410.03619v5"> View on Arxiv </a>
-    </div>
+      <a href="https://github.com/Jianbin-Tan/Functional-Singular-Value-Decompostion">View on GitHub</a>&nbsp;&nbsp;
+      <a href="https://arxiv.org/abs/2410.03619v5">View on Arxiv</a>&nbsp;&nbsp;
+      <a href="https://github.com/Tan-jianbin/FSVD">R Package</a>
+   </div>
   </div>
 </div>
 </li>
@@ -150,7 +151,6 @@
     <div class="github-link">
       <a href="https://github.com/Tan-jianbin/Macomss">  View on GitHub </a>&nbsp;&nbsp;
       <a href="https://arxiv.org/abs/2506.09208"> View on Arxiv </a>
-      <a href="https://github.com/Tan-jianbin/FSVD"> R Package </a>
     </div>
   </div>
 </div>
