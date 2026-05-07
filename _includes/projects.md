@@ -126,7 +126,7 @@
   </div>
 
   <p class="project-summary">
-    This project develops AI and statistical methods for health-related data with complex sampling schemes,
+    We develop AI and statistical methods for health-related data with complex sampling schemes,
 with an emphasis on generative modeling, representation learning, structure-aware imputation, and reliable prediction and inference.
   </p>
 
@@ -193,7 +193,7 @@ with an emphasis on generative modeling, representation learning, structure-awar
   </div>
 
   <p class="project-summary">
-    This project develops statistical methods for dynamic epidemiologic and public health data, including causal inference,
+    We develops statistical methods for dynamic epidemiologic and public health data, including causal inference,
     transmission modeling, and association discovery, to characterize policy effects and enable reliable
     inference and public health evaluation.
   </p>
@@ -315,7 +315,7 @@ with an emphasis on generative modeling, representation learning, structure-awar
 
   <p class="project-summary">
     This research develops statistical learning methods for functional/longitudinal data under complicated settings.
-    We emphasize model-free approaches that provide structural adaptivity and accommodate irregular sampling—key challenges in modern functional/longitudinal data analysis.
+    We emphasize model-free approaches that provide structural adaptivity and accommodate complex sampling schemes, which are key challenges in modern functional and longitudinal data analysis.
   </p>
   
   <div class="project-figure">
@@ -394,7 +394,7 @@ with an emphasis on generative modeling, representation learning, structure-awar
 <!-- Project 2 (Group 2) -->
 <div class="project-item">
   <div class="project-title">
-    <a href="">Statistical Learning of Differential Equations and Flows</a>
+    <a href="">Statistical Learning of Differential Equations</a>
   </div>
 
   <p class="project-summary">
