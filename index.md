@@ -6,7 +6,7 @@ layout: homepage
 
 I am currently a [Postdoctoral Associate](https://biostat.duke.edu/profile/jianbin-tan) in the Department of Biostatistics & Bioinformatics at Duke University, working with Prof. [Anru Zhang](https://anruzhang.github.io) and Prof. [Pixu Shi](https://pixushi.github.io). I received my Ph.D. in Statistics from Sun Yat-sen University in 2023 under the supervision of Prof. [Hui Huang](http://cfas.ruc.edu.cn/kydw/zzyjy/hh/index.htm). 
 
-I won the [Outstanding Doctoral Thesis Award](https://mp.weixin.qq.com/s/p0YuztNT93S-eUhu0AwBYg) from Sun Yat-sen University, the [2026 New Researcher Travel Award](https://imstat.org/ims-awards/ims-awards-recipients/) from the Institute of Mathematical Statistics (IMS), and the [2026 NSF Travel Award](https://symposium2026.icsa.org/nsf-travel-award-for-icsa/) from the International Chinese Statistical Association (ICSA).
+I won the [2023 Outstanding Doctoral Thesis Award](https://mp.weixin.qq.com/s/p0YuztNT93S-eUhu0AwBYg) from Sun Yat-sen University, the [2026 New Researcher Travel Award](https://imstat.org/ims-awards/ims-awards-recipients/) from the Institute of Mathematical Statistics (IMS), and the [2026 NSF Travel Award](https://symposium2026.icsa.org/nsf-travel-award-for-icsa/) from the International Chinese Statistical Association (ICSA).
 
 I am interested in developing <span style="color: orange;">statistical and generative AI methods</span> for dynamic, longitudinal, and spatiotemporal data, supporting effective analysis in health, environmental, and epidemiological sciences.
 
