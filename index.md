@@ -8,7 +8,7 @@ I am currently a [Postdoctoral Associate](https://biostat.duke.edu/profile/jianb
 
 I won the [Outstanding Doctoral Thesis Award](https://mp.weixin.qq.com/s/p0YuztNT93S-eUhu0AwBYg) from Sun Yat-sen University, the [2026 New Researcher Travel Award](https://imstat.org/ims-awards/ims-awards-recipients/) from the Institute of Mathematical Statistics (IMS), and the [2026 NSF Travel Award](https://symposium2026.icsa.org/nsf-travel-award-for-icsa/) from the International Chinese Statistical Association (ICSA).
 
-My research interests lie in developing  <span style="color: orange;">statistical and generative AI methods</span>  for dynamic, longitudinal, and spatiotemporal data, supporting effective analysis in health, environmental, and epidemiological sciences.
+I am interested in developing <span style="color: orange;">statistical and generative AI methods</span> for dynamic, longitudinal, and spatiotemporal data, supporting effective analysis in health, environmental, and epidemiological sciences.
 
 <!-- I was a [visiting student](https://statlab905.github.io/author/jianbin-tan/) working with Prof. [Xueqin Wang](https://bs.ustc.edu.cn/english/profile.php?id=650) in the School of Management, USTC, in 2022.
 My research interests lie in statistical learning for data with dynamic, longitudinal, or functional structures. Such data often exhibit complicated dependencies and heterogeneity, as well as challenges arising from irregular sampling and high/infinite-dimensionality. To address these, I focus on developing new methodologies for learning with  <span style="color: orange;"> functions, flows, and differential equations</span>, supporting effective analysis in health, epidemiology, and environmental science.-->
