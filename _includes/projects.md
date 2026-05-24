@@ -126,7 +126,7 @@
   </div>
 
   <p class="project-summary">
-    We develop AI and statistical methods for health-related data with complex sampling schemes,
+    We develop generative AI and statistical methods for health-related data with complex sampling schemes,
 with an emphasis on generative modeling, representation learning, structure-aware imputation, and reliable prediction and inference.
   </p>
 
