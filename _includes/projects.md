@@ -126,8 +126,8 @@
   </div>
 
   <p class="project-summary">
-    We develop generative AI and statistical methods for health data with complex sampling schemes,
-with an emphasis on generative modeling, representation learning, structure-aware imputation, and reliable prediction and inference.
+    We develop AI and statistical methods for health data with complex sampling schemes,
+with an emphasis on generative modeling, structure-aware imputation, and reliable prediction and inference.
   </p>
 
   <div class="project-figure">
@@ -315,7 +315,7 @@ with an emphasis on generative modeling, representation learning, structure-awar
 
   <p class="project-summary">
     This research develops statistical learning methods for functional/longitudinal data under complicated settings.
-    We emphasize model-free approaches that provide structural adaptivity and accommodate complex sampling schemes, which are key challenges in modern functional and longitudinal data analysis.
+    We emphasize model-free approaches that provide structural adaptivity and accommodate complex sampling schemes, which are key challenges in modern functional/longitudinal data analysis.
   </p>
   
   <div class="project-figure">
@@ -398,7 +398,7 @@ with an emphasis on generative modeling, representation learning, structure-awar
   </div>
 
   <p class="project-summary">
-    This research focuses on developing statistical methods for differential equation modeling and learning, including parameter estimation and vector field inference,
+    This research focuses on developing statistical methods for differential equation modeling/learning, including parameter estimation and vector field inference,
     as well as differential-equation–based generative modeling and other related tasks.
   </p>
   
