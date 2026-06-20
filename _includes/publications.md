@@ -30,7 +30,8 @@
       </div>
       <div class="periodical"><em>Preprint.</em></div>
       <div style="color: #b07d4f; margin-top: 4px;">
-        This paper received the 2026 New Researcher Travel Award from the Institute of Mathematical Statistics (IMS).
+        This paper received the 2026 New Researcher Travel Award from the Institute of Mathematical Statistics (IMS) and the 2026 NSF Travel Award from the International Chinese
+Statistical Association (ICSA).
       </div>
       <div class="github-link">
         <a href="https://github.com/Jianbin-Tan/Smooth-Flow-Matching">View on GitHub</a>&nbsp;&nbsp;
@@ -167,10 +168,10 @@
     <div class="title"><a href="https://doi.org/10.1214/24-AOAS1989">Functional Clustering for Longitudinal Associations between Social Determinants of Health and Stroke Mortality in the U.S.</a></div>
     <div class="author"> Fangzhi Luo, <strong><span style="color: orange;">Jianbin Tan (joint first authorship)</span></strong>, Donglan Zhang, Hui Huang, and Ye Shen.</div>
     <div class="periodical"><em> Annals of Applied Statistics, 2025.</em></div>
-  <!--   <div style="color: #b07d4f; margin-top: 4px;">
+    <div style="color: #b07d4f; margin-top: 4px;">
         This paper received the 2024 Poster Award from International Chinese Statistical Association
 (ICSA). 
-      </div>-->
+      </div>
     <!-- Code -->
     <div class="github-link">
       <a href="https://github.com/fl81224/Functional-Clustering-of-Longitudinal-Associations?tab=readme-ov-file">  View on GitHub </a>&nbsp;&nbsp;
