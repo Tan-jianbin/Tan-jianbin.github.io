@@ -126,7 +126,7 @@
   </div>
 
   <p class="project-summary">
-    We develop AI and statistical methods for health data with complex sampling schemes,
+    We develop statistical and AI methods for health data with complex missingness,
 with an emphasis on generative modeling, structure-aware imputation, and reliable prediction and inference.
   </p>
 
