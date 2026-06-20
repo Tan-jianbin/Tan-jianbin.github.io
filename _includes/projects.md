@@ -314,7 +314,7 @@ with an emphasis on generative modeling, structure-aware imputation, and reliabl
   </div>
 
   <p class="project-summary">
-   This research develops statistical learning methods for functional and longitudinal data. We emphasize model-free approaches that provide structural adaptivity and accommodate complex settings.
+   This research develops statistical learning methods for functional and longitudinal data, emphasizing model-free approaches that provide structural adaptivity and accommodate complex settings.
   </p>
   
   <div class="project-figure">
