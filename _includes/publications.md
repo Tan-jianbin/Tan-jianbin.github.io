@@ -71,7 +71,7 @@ Statistical Association (ICSA).
      <div class="author"> Zerui Guo, <strong><span style="color: orange;">Jianbin Tan (joint first authorship)</span></strong>, and Hui Huang.</div>
     <div class="periodical"><em>  Preprint.</em></div>
      <div style="color: #b07d4f; margin-top: 4px;">
-        This paper received the 2025 Best Paper Award from Renmin University of China.
+        This paper received the 2025 Best Paper Award from the National Forum on Graduate Statistics at Renmin University of China.
       </div>
       <!-- Code -->
     <div class="github-link">
