@@ -314,8 +314,7 @@ with an emphasis on generative modeling, structure-aware imputation, and reliabl
   </div>
 
   <p class="project-summary">
-    This research develops statistical learning methods for functional/longitudinal data under complicated settings.
-    We emphasize model-free approaches that provide structural adaptivity and accommodate complex sampling schemes, which are key challenges in modern functional/longitudinal data analysis.
+   This research develops statistical learning methods for functional and longitudinal data. We emphasize model-free approaches that provide structural adaptivity and accommodate complex settings.
   </p>
   
   <div class="project-figure">
@@ -398,7 +397,7 @@ with an emphasis on generative modeling, structure-aware imputation, and reliabl
   </div>
 
   <p class="project-summary">
-    This research focuses on developing statistical methods for differential equation modeling/learning, including parameter estimation and vector field inference,
+    This research focuses on developing statistical methods for differential equation inference, including parameter estimation and vector field inference,
     as well as differential-equation–based generative modeling and other related tasks.
   </p>
   
