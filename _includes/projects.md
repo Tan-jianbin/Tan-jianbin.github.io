@@ -314,12 +314,12 @@ with an emphasis on generative modeling, structure-aware imputation, and reliabl
   </div>
 
   <p class="project-summary">
-   This research develops statistical learning methods for functional, longitudinal, dynamic data, emphasizing model-free approaches that provide structural adaptivity and accommodate complex settings.
+   This research develops statistical learning methods for functional, longitudinal, and dynamic data, emphasizing model-free approaches that provide structural adaptivity and accommodate complex settings.
   </p>
   
-  <div class="project-figure">
+ <!--  <div class="project-figure">
     <img src="assets/img/fda.jpg" alt="Project figure">
-  </div>
+  </div> -->
 
   <div class="project-meta">
     <span class="project-label">Representative publications:</span>
