@@ -310,11 +310,11 @@ with an emphasis on generative modeling, structure-aware imputation, and reliabl
 <!-- Project 1 (Group 2) -->
 <div class="project-item">
   <div class="project-title">
-    <a href="">Functional/Longitudinal Data</a>
+    <a href="">Statistical Methods for Functional/Longitudinal/Dynamic Data</a>
   </div>
 
   <p class="project-summary">
-   This research develops statistical learning methods for functional and longitudinal data, emphasizing model-free approaches that provide structural adaptivity and accommodate complex settings.
+   This research develops statistical learning methods for functional, longitudinal, dynamic data, emphasizing model-free approaches that provide structural adaptivity and accommodate complex settings.
   </p>
   
   <div class="project-figure">
