@@ -1,5 +1,5 @@
 <style>
-.project-item{ margin: 26px 0 34px 0; }
+.project-item{ margin: 26px 0 45px 0; }
 
 /* Group headings */
 .project-group{
