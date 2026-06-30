@@ -138,6 +138,14 @@ with an emphasis on generative modeling, structure-aware imputation, and reliabl
     <span class="project-label">Representative publications:</span>
 
     <div class="pub-list">
+    
+    <div class="pub-row">
+        <span class="proj-pub-title">
+          <a href="https://arxiv.org/abs/2606.29105">Panel Flow Matching: A Generative Approach to Learning Distributions of Longitudinal Data</a>
+        </span>
+        <span class="pub-badge">Preprint</span>
+      </div>
+      
       <div class="pub-row">
         <span class="proj-pub-title">
           <a href="https://arxiv.org/abs/2508.13831">Smooth Flow Matching for Synthesizing Functional Data</a>
@@ -325,12 +333,21 @@ with an emphasis on generative modeling, structure-aware imputation, and reliabl
     <span class="project-label">Representative publications:</span>
 
     <div class="pub-list">
+    
+     <div class="pub-row">
+        <span class="proj-pub-title">
+          <a href="https://arxiv.org/abs/2606.29105">Panel Flow Matching: A Generative Approach to Learning Distributions of Longitudinal Data</a>
+        </span>
+        <span class="pub-badge">Preprint</span>
+      </div>
+      
       <div class="pub-row">
         <span class="proj-pub-title">
           <a href="https://arxiv.org/abs/2508.13831">Smooth Flow Matching for Synthesizing Functional Data</a>
         </span>
         <span class="pub-badge">Preprint</span>
       </div>
+      
 
       <div class="pub-row">
         <span class="proj-pub-title">
