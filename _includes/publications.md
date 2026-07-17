@@ -1,11 +1,16 @@
  <style>
-.pub-row{
+.publications .pub-row{
   display:flex;
   justify-content:space-between;
   align-items:flex-start;
-  margin-bottom:1px;
+  gap: 18px;
+  margin-bottom:0;
   border-bottom:none;
-  padding-bottom:1px;
+  padding: 20px;
+}
+
+@media (max-width: 600px) {
+  .publications .pub-row { display: block; padding: 18px; }
 }
 </style>
 
@@ -47,7 +52,7 @@
         <a href="https://arxiv.org/abs/2508.13831">Smooth Flow Matching for Synthesizing Functional Data</a>
       </div>
       <div class="author">
-        <strong><span style="color: orange;">Jianbin Tan</span></strong>, and Anru Zhang.
+        <strong><span style="color: orange;">Jianbin Tan</span></strong> and Anru Zhang.
       </div>
       <div class="periodical"><em>Preprint.</em></div>
       <div style="color: #b07d4f; margin-top: 4px;">
@@ -70,7 +75,7 @@ Statistical Association (ICSA).
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://arxiv.org/abs/2601.13405"> Associating High-Dimensional Longitudinal Datasets through an Efficient Cross-Covariance Decomposition </a></div>
-    <div class="author"> <strong><span style="color: orange;">Jianbin Tan</span></strong>, and Pixu Shi.</div>
+    <div class="author"> <strong><span style="color: orange;">Jianbin Tan</span></strong> and Pixu Shi.</div>
     <div class="periodical"><em>  Preprint.</em></div>
     <!-- Code -->
     <div class="github-link">

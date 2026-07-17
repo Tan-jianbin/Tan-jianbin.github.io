@@ -2,6 +2,7 @@
 title: Jianbin Tan
 position: Postdoctoral Associate
 affiliation: Duke University
+affiliation_link: https://www.duke.edu/
 email: jianbin.tan@duke.edu
 
 # disable automatic dark mode
@@ -9,17 +10,17 @@ auto_dark_mode: false
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
-keywords: minimal light
-description: The Minimal Light is a simple and elegant jekyll theme for academic personal homepage.
-canonical: tan-jianbin.github.io
+keywords: Jianbin Tan, statistics, generative AI, longitudinal data, functional data, biostatistics, Duke University
+description: Jianbin Tan is a Postdoctoral Associate at Duke University developing statistical and generative AI methods for longitudinal, functional, and health data.
+canonical: https://tan-jianbin.github.io/
 
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
 google_scholar: https://scholar.google.com/citations?user=ez9HH8kAAAAJ&hl=en
 #cv_link: assets/files/curriculum_vitae.pdf
-github_link: https://github.com/
+github_link: https://github.com/Tan-jianbin
 linkedin: https://www.linkedin.com/in/jianbin-tan-513680349/
-twitter: https://www.researchgate.net/profile/Jianbin-Tan
+researchgate: https://www.researchgate.net/profile/Jianbin-Tan
 
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 

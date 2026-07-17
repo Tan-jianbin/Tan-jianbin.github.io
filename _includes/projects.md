@@ -1,5 +1,12 @@
 <style>
-.project-item{ margin: 26px 0 45px 0; }
+.project-item{
+  margin: 26px 0 45px 0;
+  padding: 24px;
+  background: #ffffff;
+  border: 1px solid #e5e5e5;
+  border-radius: 10px;
+  box-shadow: 0 4px 14px rgba(0,0,0,.05);
+}
 
 /* Group headings */
 .project-group{
@@ -24,6 +31,7 @@
   font-size: 1.35rem;
   font-weight: 800;
   margin: 0 0 6px 0;
+  color: orange;
 }
 .project-title a{
   text-decoration: none;
@@ -65,7 +73,7 @@
 
 /* Publication rows */
 .pub-list{
-  margin-top: 6px;
+  margin-top: 4px;
   text-align: left !important;
 }
 .pub-row{
@@ -73,7 +81,8 @@
   align-items: baseline;
   justify-content: flex-start;
   gap: 12px;
-  margin: 6px 0;
+  margin: 3px 0;
+  line-height: 1.38;
 }
 
 /* IMPORTANT: avoid conflict with theme's .pub-title by using proj-pub-title */
@@ -112,6 +121,11 @@
   color: inherit;
   text-decoration: underline;
 }
+
+@media (max-width: 600px) {
+  .project-item { padding: 18px; }
+  .code-item { white-space: normal; overflow-wrap: anywhere; }
+}
 </style>
 
 
@@ -122,7 +136,7 @@
 <!-- Project 1 -->
 <div class="project-item">
   <div class="project-title">
-    <a href="">AI and Statistics for Health</a>
+    AI and Statistics for Health
   </div>
 
   <p class="project-summary">
@@ -197,11 +211,11 @@ with an emphasis on generative modeling, structure-aware imputation, and reliabl
 <!-- Project 2 (Group 1) -->
 <div class="project-item">
   <div class="project-title">
-    <a href="">Epidemiologic Data Analysis</a>
+    Epidemiologic Data Analysis
   </div>
 
   <p class="project-summary">
-    We develops statistical methods for dynamic epidemiologic and public health data, including causal inference,
+    We develop statistical methods for dynamic epidemiologic and public health data, including causal inference,
     transmission modeling, and association discovery, to characterize policy effects and enable reliable
     inference and public health evaluation.
   </p>
@@ -318,7 +332,7 @@ with an emphasis on generative modeling, structure-aware imputation, and reliabl
 <!-- Project 1 (Group 2) -->
 <div class="project-item">
   <div class="project-title">
-    <a href="">Statistical Methods for Functional/Longitudinal/Dynamic Data</a>
+    Statistical Methods for Functional/Longitudinal/Dynamic Data
   </div>
 
   <p class="project-summary">
