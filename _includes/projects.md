@@ -79,19 +79,25 @@
 .pub-row{
   display: flex;
   align-items: baseline;
-  justify-content: flex-start;
+  justify-content: space-between;
   gap: 12px;
   margin: 3px 0;
   line-height: 1.38;
 }
 
 /* IMPORTANT: avoid conflict with theme's .pub-title by using proj-pub-title */
+.proj-pub-title{
+  flex: 1 1 auto;
+  min-width: 0;
+}
 .proj-pub-title a{ text-decoration: none; }
 .proj-pub-title a:hover{ text-decoration: underline; }
 
 /* Journal badge: boxed, no special color */
 .pub-badge{
   display: inline-block;
+  flex: 0 0 auto;
+  margin-left: auto;
   padding: 3px 10px;
   border-radius: 999px;
   font-size: 12px;
@@ -104,7 +110,7 @@
 
   white-space: nowrap;
   min-width: 0;
-  text-align: left;
+  text-align: right;
 }
 
 /* Related code: underlined, but NOT blue */
