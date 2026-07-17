@@ -16,7 +16,7 @@ My research interests lie in statistical learning for data with dynamic, longitu
 <!-- Tabs -->
 <div class="rp-tabs" role="tablist" aria-label="Homepage sections" style="margin: 18px 0;">
   <button type="button" id="tab-button-projects" class="rp-tab active" role="tab" aria-selected="true" aria-controls="tab-projects" data-target="tab-projects">Research</button>
-  <button type="button" id="tab-button-papers" class="rp-tab" role="tab" aria-selected="false" aria-controls="tab-papers" data-target="tab-papers">Publications</button>
+  <button type="button" id="tab-button-papers" class="rp-tab" role="tab" aria-selected="false" aria-controls="tab-papers" data-target="tab-papers">Publication</button>
   <button type="button" id="tab-button-teaching" class="rp-tab" role="tab" aria-selected="false" aria-controls="tab-teaching" data-target="tab-teaching">Teaching</button>
 </div>
 
