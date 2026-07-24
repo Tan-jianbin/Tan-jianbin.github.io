@@ -170,7 +170,7 @@ with an emphasis on generative modeling, structure-aware imputation, and reliabl
         <span class="proj-pub-title">
           <a href="https://arxiv.org/abs/2508.13831">Smooth Flow Matching for Synthesizing Functional Data</a>
         </span>
-        <span class="pub-badge">Preprint</span>
+        <span class="pub-badge">AOS</span>
       </div>
 
       <div class="pub-row">
@@ -365,7 +365,7 @@ with an emphasis on generative modeling, structure-aware imputation, and reliabl
         <span class="proj-pub-title">
           <a href="https://arxiv.org/abs/2508.13831">Smooth Flow Matching for Synthesizing Functional Data</a>
         </span>
-        <span class="pub-badge">Preprint</span>
+        <span class="pub-badge">AOS</span>
       </div>
       
 
