@@ -192,7 +192,7 @@ Statistical Association (ICSA).
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://doi.org/10.1214/24-AOAS1989">Functional Clustering for Longitudinal Associations between Social Determinants of Health and Stroke Mortality in the U.S.</a></div>
     <div class="author"> Fangzhi Luo, <strong><span style="color: orange;">Jianbin Tan (joint first authorship)</span></strong>, Donglan Zhang, Hui Huang, and Ye Shen.</div>
-    <div class="periodical"><em> Annals of Applied Statistics, 2025.</em></div>
+    <div class="periodical"><em> The Annals of Applied Statistics, 2025.</em></div>
     <div style="color: #b07d4f; margin-top: 4px;">
         This paper received the 2024 Poster Award from International Chinese Statistical Association
 (ICSA). 
