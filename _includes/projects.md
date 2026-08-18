@@ -354,12 +354,6 @@ with an emphasis on generative modeling, structure-aware imputation, and reliabl
 
     <div class="pub-list">
     
-     <div class="pub-row">
-        <span class="proj-pub-title">
-          <a href="https://arxiv.org/abs/2606.29105">Panel Flow Matching: A Generative Approach to Learning Distributions of Longitudinal Data</a>
-        </span>
-        <span class="pub-badge">Preprint</span>
-      </div>
       
       <div class="pub-row">
         <span class="proj-pub-title">
@@ -388,6 +382,13 @@ with an emphasis on generative modeling, structure-aware imputation, and reliabl
           <a href="https://doi.org/10.1093/jrsssb/qkae031">Green’s Matching: an Efficient Approach to Parameter Estimation in Complex Dynamic Systems</a>
         </span>
         <span class="pub-badge">JRSSB</span>
+      </div>
+      
+       <div class="pub-row">
+        <span class="proj-pub-title">
+          <a href="https://arxiv.org/abs/2606.29105">Panel Flow Matching: A Generative Approach to Learning Distributions of Longitudinal Data</a>
+        </span>
+        <span class="pub-badge">Preprint</span>
       </div>
       
       <div class="pub-row">
