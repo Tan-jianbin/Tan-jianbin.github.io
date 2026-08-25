@@ -98,6 +98,9 @@
         This paper received the 2026 New Researcher Travel Award from the Institute of Mathematical Statistics (IMS) and the 2026 NSF Travel Award from the International Chinese
 Statistical Association (ICSA).
       </div>
+      <div style="color: #b07d4f; margin-top: 4px;">
+        This paper was selected for a poster presentation at NeurIPS 2026 through the \textit{Annals of Statistics} journal-to-conference track.
+      </div>
       <div class="github-link">
         <a href="https://github.com/Jianbin-Tan/Smooth-Flow-Matching">View on GitHub</a>&nbsp;&nbsp;
         <a href="https://arxiv.org/abs/2508.13831">View on Arxiv</a>
