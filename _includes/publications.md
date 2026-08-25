@@ -95,9 +95,6 @@
       </div>
       <div class="periodical"><em>The Annals of Statistics.</em></div>
       <div style="color: #b07d4f; margin-top: 4px;">
-        This paper received the 2026 New Researcher Travel Award from the Institute of Mathematical Statistics (IMS).
-      </div>
-      <div style="color: #b07d4f; margin-top: 4px;">
         This paper was selected for a poster presentation at NeurIPS 2026 through the Annals of Statistics journal-to-conference track.
       </div>
       <div class="github-link">
