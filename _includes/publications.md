@@ -93,7 +93,7 @@
       <div class="author">
         <strong><span style="color: orange;">Jianbin Tan</span></strong> and Anru Zhang.
       </div>
-      <div class="periodical"><em>The Annals of Statistics.</em></div>
+      <div class="periodical"><em>The Annals of Statistics, 2026.</em></div>
       <div style="color: #b07d4f; margin-top: 4px;">
         This paper was selected for a poster presentation at NeurIPS 2026 through the Annals of Statistics journal-to-conference track.
       </div>
