@@ -3,16 +3,32 @@
   margin: 26px 0 45px 0;
   padding: 0;
 }
-.teaching-card ul{
+.teaching-school{
+  margin-bottom: 30px;
+}
+.teaching-school:last-child{
+  margin-bottom: 0;
+}
+.teaching-school-name{
+  margin: 0 0 4px 0;
+  font-size: 1.15rem;
+  font-weight: 700;
+}
+.teaching-school-location{
+  margin: 0 0 14px 0;
+  color: #666;
+  font-size: 0.95rem;
+}
+.teaching-school ul{
   margin: 0;
   padding-left: 22px;
 }
-.teaching-card li{
-  margin: 0 0 16px 0;
+.teaching-school li{
+  margin: 0 0 14px 0;
   padding-left: 4px;
   line-height: 1.5;
 }
-.teaching-card li:last-child{
+.teaching-school li:last-child{
   margin-bottom: 0;
 }
 .teaching-term{
@@ -24,26 +40,53 @@
 </style>
 
 <div class="teaching-card">
-  <ul>
-    <li>
-      <span class="teaching-term">Fall 2024</span> — Graduate Teaching Assistant,
-      BIOSTAT/STAT/COMPSCI <span class="teaching-course">High-Dimensional Statistics and Machine Learning</span>,
-      Duke University, Durham, North Carolina, USA.
-    </li>
-    <li>
-      <span class="teaching-term">Spring 2021</span> — Undergraduate Teaching Assistant,
-      STAT/APPLIED STAT <span class="teaching-course">Survival Analysis</span>,
-      Sun Yat-sen University, Guangzhou, Guangdong, China.
-    </li>
-    <li>
-      <span class="teaching-term">Fall 2019</span> — Undergraduate Teaching Assistant,
-      STAT/APPLIED STAT <span class="teaching-course">Multivariate Statistical Analysis</span>,
-      Sun Yat-sen University, Guangzhou, Guangdong, China.
-    </li>
-    <li>
-      <span class="teaching-term">Spring 2018 and Spring 2019</span> — Undergraduate Teaching Assistant,
-      STAT/APPLIED STAT <span class="teaching-course">Statistical Computation</span>,
-      Sun Yat-sen University, Guangzhou, Guangdong, China.
-    </li>
-  </ul>
+
+  <section class="teaching-school">
+    <h3 class="teaching-school-name">Duke University</h3>
+    <p class="teaching-school-location">
+      Durham, North Carolina, USA
+    </p>
+
+    <ul>
+      <li>
+        <span class="teaching-term">Fall 2026</span> — Graduate Teaching Assistant,
+        BIOSTAT/STAT/COMPSCI
+        <span class="teaching-course">High-Dimensional Statistics and Machine Learning</span>.
+      </li>
+
+      <li>
+        <span class="teaching-term">Fall 2024</span> — Graduate Teaching Assistant,
+        BIOSTAT/STAT/COMPSCI
+        <span class="teaching-course">High-Dimensional Statistics and Machine Learning</span>.
+      </li>
+    </ul>
+  </section>
+
+  <section class="teaching-school">
+    <h3 class="teaching-school-name">Sun Yat-sen University</h3>
+    <p class="teaching-school-location">
+      Guangzhou, Guangdong, China
+    </p>
+
+    <ul>
+      <li>
+        <span class="teaching-term">Spring 2021</span> — Undergraduate Teaching Assistant,
+        STAT/APPLIED STAT
+        <span class="teaching-course">Survival Analysis</span>.
+      </li>
+
+      <li>
+        <span class="teaching-term">Fall 2019</span> — Undergraduate Teaching Assistant,
+        STAT/APPLIED STAT
+        <span class="teaching-course">Multivariate Statistical Analysis</span>.
+      </li>
+
+      <li>
+        <span class="teaching-term">Spring 2018 and Spring 2019</span> —
+        Undergraduate Teaching Assistant, STAT/APPLIED STAT
+        <span class="teaching-course">Statistical Computation</span>.
+      </li>
+    </ul>
+  </section>
+
 </div>
