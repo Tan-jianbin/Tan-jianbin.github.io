@@ -4,7 +4,8 @@
   padding: 0;
 }
 .teaching-school{
-  margin-bottom: 18px;
+  margin: 0 0 18px 0;
+  padding: 0;
 }
 .teaching-school:last-child{
   margin-bottom: 0;
@@ -41,7 +42,7 @@
 
 <div class="teaching-card">
 
-  <section class="teaching-school">
+  <div class="teaching-school">
     <h3 class="teaching-school-name">Duke University</h3>
     <p class="teaching-school-location">
       Durham, North Carolina, USA
@@ -54,9 +55,9 @@
         <span class="teaching-course">High-Dimensional Statistics and Machine Learning</span>.
       </li>
     </ul>
-  </section>
+  </div>
 
-  <section class="teaching-school">
+  <div class="teaching-school">
     <h3 class="teaching-school-name">Sun Yat-sen University</h3>
     <p class="teaching-school-location">
       Guangzhou, Guangdong, China
@@ -81,6 +82,6 @@
         <span class="teaching-course">Statistical Computation</span>.
       </li>
     </ul>
-  </section>
+  </div>
 
 </div>
