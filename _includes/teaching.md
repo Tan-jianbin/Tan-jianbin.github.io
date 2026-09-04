@@ -1,6 +1,3 @@
-将学校分组之间的间距从 `30px` 缩小到 `18px`，学校名称与地点也稍微收紧：
-
-```html
 <style>
 .teaching-card{
   margin: 26px 0 45px 0;
@@ -52,14 +49,8 @@
 
     <ul>
       <li>
-        <span class="teaching-term">Fall 2026</span> — Graduate Teaching Assistant,
-        BIOSTAT/STAT/COMPSCI
-        <span class="teaching-course">High-Dimensional Statistics and Machine Learning</span>.
-      </li>
-
-      <li>
-        <span class="teaching-term">Fall 2024</span> — Graduate Teaching Assistant,
-        BIOSTAT/STAT/COMPSCI
+        <span class="teaching-term">Fall 2024 and Fall 2026</span> —
+        Graduate Teaching Assistant, BIOSTAT/STAT/COMPSCI
         <span class="teaching-course">High-Dimensional Statistics and Machine Learning</span>.
       </li>
     </ul>
@@ -73,14 +64,14 @@
 
     <ul>
       <li>
-        <span class="teaching-term">Spring 2021</span> — Undergraduate Teaching Assistant,
-        STAT/APPLIED STAT
+        <span class="teaching-term">Spring 2021</span> —
+        Undergraduate Teaching Assistant, STAT/APPLIED STAT
         <span class="teaching-course">Survival Analysis</span>.
       </li>
 
       <li>
-        <span class="teaching-term">Fall 2019</span> — Undergraduate Teaching Assistant,
-        STAT/APPLIED STAT
+        <span class="teaching-term">Fall 2019</span> —
+        Undergraduate Teaching Assistant, STAT/APPLIED STAT
         <span class="teaching-course">Multivariate Statistical Analysis</span>.
       </li>
 
@@ -93,4 +84,3 @@
   </section>
 
 </div>
-```
