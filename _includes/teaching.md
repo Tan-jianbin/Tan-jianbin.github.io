@@ -1,21 +1,24 @@
+将学校分组之间的间距从 `30px` 缩小到 `18px`，学校名称与地点也稍微收紧：
+
+```html
 <style>
 .teaching-card{
   margin: 26px 0 45px 0;
   padding: 0;
 }
 .teaching-school{
-  margin-bottom: 30px;
+  margin-bottom: 18px;
 }
 .teaching-school:last-child{
   margin-bottom: 0;
 }
 .teaching-school-name{
-  margin: 0 0 4px 0;
+  margin: 0 0 2px 0;
   font-size: 1.15rem;
   font-weight: 700;
 }
 .teaching-school-location{
-  margin: 0 0 14px 0;
+  margin: 0 0 10px 0;
   color: #666;
   font-size: 0.95rem;
 }
@@ -24,7 +27,7 @@
   padding-left: 22px;
 }
 .teaching-school li{
-  margin: 0 0 14px 0;
+  margin: 0 0 12px 0;
   padding-left: 4px;
   line-height: 1.5;
 }
@@ -90,3 +93,4 @@
   </section>
 
 </div>
+```
