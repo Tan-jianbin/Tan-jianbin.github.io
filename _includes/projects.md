@@ -158,13 +158,6 @@ with an emphasis on generative modeling, structure-aware imputation, and reliabl
     <span class="project-label">Representative publications:</span>
 
     <div class="pub-list">
-    
-    <div class="pub-row">
-        <span class="proj-pub-title">
-          <a href="https://arxiv.org/abs/2606.29105">Panel Flow Matching: A Generative Approach to Learning Distributions of Longitudinal Data</a>
-        </span>
-        <span class="pub-badge">Preprint</span>
-      </div>
       
       <div class="pub-row">
         <span class="proj-pub-title">
@@ -185,6 +178,13 @@ with an emphasis on generative modeling, structure-aware imputation, and reliabl
           <a href="https://doi.org/10.1016/j.jbi.2025.104933">Integrated Analysis for Electronic Health Records with Structured and Sporadic Missingness</a>
         </span>
         <span class="pub-badge">JBI</span>
+      </div>
+      
+      <div class="pub-row">
+        <span class="proj-pub-title">
+          <a href="https://arxiv.org/abs/2606.29105">Panel Flow Matching: A Generative Approach to Learning Distributions of Longitudinal Data</a>
+        </span>
+        <span class="pub-badge">Preprint</span>
       </div>
       
        <div class="pub-row">
