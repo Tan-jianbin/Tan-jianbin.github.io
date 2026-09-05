@@ -142,11 +142,11 @@
 <!-- Project 1 -->
 <div class="project-item">
   <div class="project-title">
-    AI and Statistics for Health
+   Statistics and AI for Health
   </div>
 
   <p class="project-summary">
-    We develop statistical and AI methods for health data with complex missingness,
+    We develop statistical and Generative AI methods for health data with complex missingness,
 with an emphasis on generative modeling, structure-aware imputation, and reliable prediction and inference.
   </p>
 
