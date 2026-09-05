@@ -18,6 +18,7 @@ My research interests lie in statistical learning for data with dynamic, longitu
   <button type="button" id="tab-button-projects" class="rp-tab active" role="tab" aria-selected="true" aria-controls="tab-projects" data-target="tab-projects">Research</button>
   <button type="button" id="tab-button-papers" class="rp-tab" role="tab" aria-selected="false" aria-controls="tab-papers" data-target="tab-papers">Publication</button>
   <button type="button" id="tab-button-teaching" class="rp-tab" role="tab" aria-selected="false" aria-controls="tab-teaching" data-target="tab-teaching">Teaching</button>
+  <button type="button" id="tab-button-game" class="rp-tab" role="tab" aria-selected="false" aria-controls="tab-game" data-target="tab-game">Game</button>
 </div>
 
 <div id="tab-projects" class="rp-tabcontent" role="tabpanel" aria-labelledby="tab-button-projects">
@@ -30,6 +31,10 @@ My research interests lie in statistical learning for data with dynamic, longitu
 
 <div id="tab-teaching" class="rp-tabcontent" role="tabpanel" aria-labelledby="tab-button-teaching" style="display:none;">
   {% include_relative _includes/teaching.md %}
+</div>
+
+<div id="tab-game" class="rp-tabcontent" role="tabpanel" aria-labelledby="tab-button-game" style="display:none;">
+  {% include game.html %}
 </div>
 
 <style>

@@ -1,0 +1,61 @@
+<div class="game-experience" id="gameExperience">
+  <div class="game-section-head">
+    <h3>Games</h3>
+    <p>Game inspired by research.</p>
+  </div>
+
+  <div class="game-library" id="gameLibrary">
+    <button class="game-card" id="openGameCard" type="button" aria-label="Play Guess from Observations">
+      <span class="game-card-art">
+        <canvas id="gameThumbnail" width="360" height="260" aria-hidden="true"></canvas>
+      </span>
+      <span class="game-card-copy">
+        <span class="game-card-title">Guess from Observations</span>
+        <span class="game-card-description">Choose locations and reconstruct the hidden surface with minimum error.</span>
+      </span>
+    </button>
+  </div>
+
+  <div id="inlineGameMount">
+    <div class="game-panel closed" id="gamePanel" role="region" aria-label="Guess from Observations game">
+      <div class="game-panel-head">
+        <h2 class="game-title">Guess from Observations</h2>
+        <button class="close-game" id="closeGame" type="button" aria-label="Back to games">← Games</button>
+      </div>
+
+      <div class="game-stats">
+        <div class="game-stat"><span class="game-stat-label">Samples</span><span class="game-stat-value accent" id="sampleCount">1 / 10</span></div>
+        <div class="game-stat"><span class="game-stat-label">NRMSE</span><span class="game-stat-value" id="rmseValue" aria-live="polite">—</span></div>
+        <div class="game-stat"><span class="game-stat-label">Best</span><span class="game-stat-value" id="bestValue">—</span></div>
+      </div>
+
+      <div class="game-view-tabs" role="tablist" aria-label="Heatmap view">
+        <button class="game-view-tab active" data-view="target" type="button" role="tab" aria-selected="true">TARGET</button>
+        <button class="game-view-tab" data-view="reconstruction" type="button" role="tab" aria-selected="false" disabled>RECONSTRUCTION</button>
+      </div>
+
+      <div class="game-map-frame">
+        <canvas id="heatmap" width="640" height="640" aria-label="Heatmap. Select up to ten observation locations."></canvas>
+        <span class="game-axis-x">x₂</span><span class="game-axis-y">x₁</span>
+        <div class="game-map-shield" id="mapShield">
+          <div><strong>Reconstructing surface…</strong><span>Gaussian process · RBF kernel</span></div>
+        </div>
+      </div>
+
+      <p class="game-help" id="gameHelp" aria-live="polite"><strong>9 samples remaining.</strong> <span>Press the Reconstruct button below to reconstruct.</span></p>
+
+      <div class="attempt-history">
+        <span class="attempt-history-label">Attempts</span>
+        <div class="attempt-list" id="attemptList"><span class="attempt-empty">No reconstructions yet</span></div>
+      </div>
+
+      <div class="game-result-note" id="resultNote" role="status"></div>
+
+      <div class="game-controls">
+        <button class="game-control-btn" id="undoBtn" type="button">Undo</button>
+        <button class="game-control-btn" id="newBtn" type="button">New map</button>
+        <button class="game-control-btn primary" id="reconstructBtn" type="button">Reconstruct</button>
+      </div>
+    </div>
+  </div>
+</div>

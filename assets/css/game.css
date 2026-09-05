@@ -1,0 +1,449 @@
+.game-experience {
+  --game-blue: #3eb7f0;
+  --game-blue-dark: #043361;
+  --game-gold: #c58f2d;
+  --game-ink: #15191f;
+  --game-muted: #69717d;
+  --game-paper: #fffefa;
+  --game-soft: #f3f7f8;
+  --game-line: #dce6e9;
+  --game-shadow: 0 24px 70px rgba(4, 51, 97, 0.18), 0 4px 16px rgba(4, 51, 97, 0.08);
+  color: var(--game-ink);
+}
+
+.game-experience button {
+  font: inherit;
+}
+
+.game-section-head {
+  margin: 28px 0 14px;
+}
+
+.game-section-head h3 {
+  margin: 0;
+  color: var(--game-blue-dark);
+  font-size: 1.35rem;
+}
+
+.game-section-head p {
+  margin: 3px 0 0;
+  color: var(--game-muted);
+  font-size: 0.8rem;
+}
+
+.game-library[hidden] {
+  display: none;
+}
+
+.game-card {
+  display: grid;
+  grid-template-columns: 180px 1fr;
+  width: 100%;
+  padding: 0;
+  overflow: hidden;
+  text-align: left;
+  color: var(--game-ink);
+  border: 1px solid #dfe7e9;
+  border-radius: 12px;
+  background: #fff;
+  box-shadow: 0 6px 18px rgba(4, 51, 97, 0.07);
+  cursor: pointer;
+  transition: transform 0.18s ease, box-shadow 0.18s ease, border-color 0.18s ease;
+}
+
+.game-card:hover,
+.game-card:focus-visible {
+  transform: translateY(-2px);
+  border-color: rgba(62, 183, 240, 0.55);
+  box-shadow: 0 12px 28px rgba(4, 51, 97, 0.12);
+}
+
+.game-card:focus-visible,
+.close-game:focus-visible,
+.game-view-tab:focus-visible,
+.game-control-btn:focus-visible {
+  outline: 3px solid rgba(62, 183, 240, 0.32);
+  outline-offset: 2px;
+}
+
+.game-card-art {
+  min-height: 145px;
+  padding: 12px;
+  background: #eaf2f3;
+}
+
+#gameThumbnail {
+  display: block;
+  width: 100%;
+  height: 100%;
+  min-height: 121px;
+  border-radius: 7px;
+}
+
+.game-card-copy {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 20px 22px;
+}
+
+.game-card-title {
+  color: var(--game-blue-dark);
+  font-size: 1.35rem;
+  font-weight: 600;
+  line-height: 1.08;
+}
+
+.game-card-description {
+  margin-top: 5px;
+  color: #5d6670;
+  font-size: 0.82rem;
+  line-height: 1.35;
+}
+
+.game-panel {
+  position: relative;
+  width: 100%;
+  margin: 18px 0 45px;
+  padding: 18px;
+  overflow: hidden;
+  border: 1px solid rgba(4, 51, 97, 0.16);
+  border-radius: 18px;
+  background: rgba(255, 254, 250, 0.985);
+  box-shadow: var(--game-shadow);
+}
+
+.game-panel.closed {
+  display: none;
+}
+
+.game-panel-head {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 16px;
+  margin-bottom: 14px;
+}
+
+.game-title {
+  margin: 0;
+  color: var(--game-blue-dark);
+  font-size: 1.5rem;
+  font-weight: 600;
+  line-height: 1.05;
+}
+
+.close-game {
+  display: grid;
+  place-items: center;
+  padding: 6px 10px;
+  color: #6d7781;
+  border: 1px solid var(--game-line);
+  border-radius: 999px;
+  background: #fff;
+  cursor: pointer;
+  font-family: "Ubuntu Mono", monospace;
+  font-size: 0.62rem;
+}
+
+.close-game:hover {
+  color: var(--game-blue-dark);
+  border-color: #b9cbd0;
+}
+
+.game-stats {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  margin-bottom: 12px;
+  border: 1px solid var(--game-line);
+  border-radius: 10px;
+  background: var(--game-soft);
+}
+
+.game-stat {
+  padding: 8px 10px;
+  border-right: 1px solid var(--game-line);
+}
+
+.game-stat:last-child {
+  border-right: 0;
+}
+
+.game-stat-label {
+  display: block;
+  color: var(--game-muted);
+  font-family: "Ubuntu Mono", monospace;
+  font-size: 0.58rem;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+.game-stat-value {
+  display: block;
+  margin-top: 1px;
+  color: var(--game-ink);
+  font-family: "Ubuntu Mono", monospace;
+  font-size: 0.79rem;
+  font-weight: 700;
+}
+
+.game-stat-value.accent {
+  color: var(--game-blue-dark);
+}
+
+.game-view-tabs {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 3px;
+  margin-bottom: 9px;
+  padding: 3px;
+  border-radius: 9px;
+  background: #eaf0f2;
+}
+
+.game-view-tab {
+  padding: 6px 5px;
+  color: #66717c;
+  border: 0;
+  border-radius: 7px;
+  background: transparent;
+  cursor: pointer;
+  font-family: "Ubuntu Mono", monospace;
+  font-size: 0.61rem;
+  font-weight: 700;
+}
+
+.game-view-tab.active {
+  color: var(--game-blue-dark);
+  background: #fff;
+  box-shadow: 0 2px 7px rgba(4, 51, 97, 0.08);
+}
+
+.game-view-tab:disabled {
+  cursor: not-allowed;
+  opacity: 0.4;
+}
+
+.game-map-frame {
+  position: relative;
+  width: min(100%, 400px);
+  margin: 0 auto;
+  padding: 9px;
+  border: 1px solid var(--game-line);
+  border-radius: 12px;
+  background: #f8faf9;
+}
+
+#heatmap {
+  display: block;
+  width: 100%;
+  aspect-ratio: 1;
+  border-radius: 7px;
+  cursor: crosshair;
+  touch-action: none;
+  box-shadow: inset 0 0 0 1px rgba(4, 51, 97, 0.06);
+}
+
+.game-axis-x,
+.game-axis-y {
+  position: absolute;
+  color: #6c7681;
+  font-family: "Ubuntu Mono", monospace;
+  font-size: 0.52rem;
+  letter-spacing: 0.05em;
+}
+
+.game-axis-x {
+  right: 13px;
+  bottom: 10px;
+}
+
+.game-axis-y {
+  left: 4px;
+  top: 13px;
+  writing-mode: vertical-rl;
+  transform: rotate(180deg);
+}
+
+.game-map-shield {
+  position: absolute;
+  inset: 9px;
+  display: none;
+  place-items: center;
+  border-radius: 7px;
+  color: #fff;
+  text-align: center;
+  background: rgba(4, 51, 97, 0.68);
+  backdrop-filter: blur(3px);
+}
+
+.game-map-shield.show {
+  display: grid;
+}
+
+.game-map-shield strong {
+  color: #fff;
+  font-size: 1.1rem;
+}
+
+.game-map-shield span {
+  display: block;
+  margin-top: 3px;
+  color: #d5eef1;
+  font-family: "Ubuntu Mono", monospace;
+  font-size: 0.65rem;
+}
+
+.game-help {
+  min-height: 22px;
+  margin: 9px 1px 11px;
+  color: #59636d;
+  font-size: 0.78rem;
+  line-height: 1.25;
+}
+
+.game-help strong {
+  color: var(--game-blue-dark);
+  font-weight: 600;
+}
+
+.game-help span {
+  margin-left: 3px;
+}
+
+.attempt-history {
+  display: flex;
+  align-items: flex-start;
+  gap: 8px;
+  min-height: 24px;
+  margin: -2px 1px 10px;
+  color: #66717c;
+  font-family: "Ubuntu Mono", monospace;
+  font-size: 0.6rem;
+}
+
+.attempt-history-label {
+  flex: 0 0 auto;
+  padding-top: 4px;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+}
+
+.attempt-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 5px;
+}
+
+.attempt-chip {
+  padding: 3px 6px;
+  color: var(--game-blue-dark);
+  border: 1px solid #d6e2e5;
+  border-radius: 999px;
+  background: #f5f9fa;
+}
+
+.attempt-chip.improved {
+  color: #27644a;
+  border-color: #badcca;
+  background: #edf8f1;
+}
+
+.attempt-empty {
+  padding-top: 4px;
+  color: #9aa2aa;
+}
+
+.game-result-note {
+  display: none;
+  margin: -1px 0 10px;
+  padding: 7px 9px;
+  color: #725319;
+  border-left: 2px solid var(--game-gold);
+  border-radius: 0 6px 6px 0;
+  background: rgba(197, 143, 45, 0.09);
+  font-family: "Ubuntu Mono", monospace;
+  font-size: 0.61rem;
+}
+
+.game-result-note.show {
+  display: block;
+}
+
+.game-controls {
+  display: grid;
+  grid-template-columns: auto auto 1fr;
+  gap: 7px;
+}
+
+.game-control-btn {
+  padding: 8px 11px;
+  color: #59636d;
+  border: 1px solid var(--game-line);
+  border-radius: 9px;
+  background: #fff;
+  cursor: pointer;
+  font-weight: 600;
+}
+
+.game-control-btn:hover {
+  color: var(--game-blue-dark);
+  border-color: #b9cbd0;
+}
+
+.game-control-btn:disabled {
+  cursor: not-allowed;
+  opacity: 0.45;
+}
+
+.game-control-btn.primary {
+  color: #fff;
+  border-color: var(--game-blue-dark);
+  background: var(--game-blue-dark);
+}
+
+.game-control-btn.primary:not(:disabled):hover {
+  background: #075084;
+}
+
+@media (max-width: 600px) {
+  .game-card {
+    grid-template-columns: 125px 1fr;
+  }
+
+  .game-card-art {
+    min-height: 128px;
+    padding: 9px;
+  }
+
+  .game-card-copy {
+    padding: 14px;
+  }
+
+  .game-card-title {
+    font-size: 1.12rem;
+  }
+
+  .game-card-description,
+  .game-help {
+    font-size: 0.72rem;
+  }
+
+  .game-panel {
+    padding: 15px;
+    overflow: auto;
+    border-radius: 17px;
+  }
+
+  .game-panel-head {
+    margin-bottom: 10px;
+  }
+
+  .game-stats {
+    margin-bottom: 9px;
+  }
+
+  .game-map-frame {
+    width: min(100%, 338px);
+  }
+}
