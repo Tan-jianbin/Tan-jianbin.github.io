@@ -260,27 +260,6 @@
   box-shadow: inset 0 0 0 1px rgba(4, 51, 97, 0.06);
 }
 
-.game-axis-x,
-.game-axis-y {
-  position: absolute;
-  color: #6c7681;
-  font-family: "Ubuntu Mono", monospace;
-  font-size: 0.72rem;
-  letter-spacing: 0.05em;
-}
-
-.game-axis-x {
-  right: 13px;
-  bottom: 10px;
-}
-
-.game-axis-y {
-  left: 4px;
-  top: 13px;
-  writing-mode: vertical-rl;
-  transform: rotate(180deg);
-}
-
 .game-map-shield {
   position: absolute;
   inset: 9px;

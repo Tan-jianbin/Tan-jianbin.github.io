@@ -425,7 +425,7 @@
       });
     } else {
       if (previous === undefined) {
-        resultNote.textContent = "Baseline recorded. Add another observation and improve it.";
+        resultNote.textContent = "Baseline recorded. Press Undo to restart your selections and try for a lower NRMSE.";
       } else if (improved) {
         resultNote.textContent = "Improved — " + improvementStreak + " of 3 in a row.";
       } else {
