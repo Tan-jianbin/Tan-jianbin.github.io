@@ -146,7 +146,7 @@
   </div>
 
   <p class="project-summary">
-    We develop statistical and Generative AI methods for health data with complex missingness,
+    We develop statistical and generative AI methods for health data with complex missingness,
 with an emphasis on generative modeling, structure-aware imputation, and reliable prediction and inference.
   </p>
 
