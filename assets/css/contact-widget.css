@@ -79,13 +79,18 @@
   z-index: 1000;
   left: 24px;
   bottom: 116px;
+  float: none;
+  clear: none;
   width: min(382px, calc(100vw - 32px));
+  margin: 0;
+  padding: 0;
   overflow: hidden;
   border: 1px solid rgba(8, 47, 89, 0.16);
   border-radius: 20px;
-  background: rgba(255, 254, 250, 0.99);
+  background: rgba(255, 254, 250, 0.99) !important;
   box-shadow: 0 24px 70px rgba(8, 47, 89, 0.25), 0 4px 16px rgba(8, 47, 89, 0.08);
   opacity: 0;
+  text-align: left;
   transform: translateY(14px) scale(0.97);
   transform-origin: left bottom;
   pointer-events: none;
@@ -101,14 +106,18 @@
 .mail-head {
   position: relative;
   display: flex;
+  float: none;
   align-items: center;
   gap: 11px;
+  width: 100%;
   min-height: 78px;
+  margin: 0;
   padding: 14px 50px 14px 16px;
   color: #fff;
   background:
     radial-gradient(circle at 88% 20%, rgba(216, 47, 125, 0.54), transparent 34%),
-    linear-gradient(135deg, #082f59 0%, #0a4775 100%);
+    linear-gradient(135deg, #082f59 0%, #0a4775 100%) !important;
+  text-align: left;
 }
 
 .mail-head::after {
@@ -133,6 +142,7 @@
   display: block;
   color: #fff;
   font-size: 1.08rem;
+  font-weight: 700;
 }
 
 .mail-title span {
