@@ -24,6 +24,7 @@
     <link rel="stylesheet" href="./assets/css/style.css">
     <link rel="stylesheet" href="./assets/css/publications.css">
     <link rel="stylesheet" href="./assets/css/game.css?v=20260905-2">
+    <link rel="stylesheet" href="./assets/css/contact-widget.css?v=20260906-1">
 
   </head>
   <body>
@@ -99,8 +100,10 @@
         
       </footer>
     </div>
+    {% include contact-widget.html %}
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
     <script src="{{ "/assets/js/heatmap-game.js" | relative_url }}"></script>
+    <script src="{{ "/assets/js/contact-widget.js" | relative_url }}"></script>
     {% if site.google_analytics %}
     <script>
       (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
