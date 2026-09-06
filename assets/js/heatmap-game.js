@@ -427,9 +427,9 @@
       if (previous === undefined) {
         resultNote.textContent = "Baseline recorded. Press Undo to restart your selections and try for a lower NRMSE.";
       } else if (improved) {
-        resultNote.textContent = "Improved — " + improvementStreak + " of 3 in a row.";
+        resultNote.textContent = "Improved. Press Undo to restart your selections and try for a lower NRMSE.";
       } else {
-        resultNote.textContent = "No improvement this time. The streak starts again.";
+        resultNote.textContent = "No improvement this time. Press Undo to restart your selections and try for a lower NRMSE.";
       }
       viewTabs[0].disabled = false;
       viewTabs[1].disabled = false;
