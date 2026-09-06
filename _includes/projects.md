@@ -345,9 +345,9 @@ with an emphasis on generative modeling, structure-aware imputation, and reliabl
    This research develops statistical methods for functional, longitudinal, and dynamic data, emphasizing model-free approaches that provide real-world interpretability, structural adaptivity, and accommodation of complex settings.
   </p>
   
- <!--  <div class="project-figure">
-    <img src="assets/img/fda.jpg" alt="Project figure">
-  </div> -->
+  <div class="project-figure">
+    <img src="assets/img/functional-curves.jpg" alt="Ensemble of smooth functional curves">
+  </div>
 
   <div class="project-meta">
     <span class="project-label">Representative publications:</span>
