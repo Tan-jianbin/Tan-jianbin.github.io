@@ -159,7 +159,7 @@
   background: #fff;
   cursor: pointer;
   font-family: "Ubuntu Mono", monospace;
-  font-size: 0.74rem;
+  font-size: 0.8rem;
 }
 
 .close-game:hover {
@@ -189,7 +189,7 @@
   display: block;
   color: var(--game-muted);
   font-family: "Ubuntu Mono", monospace;
-  font-size: 0.7rem;
+  font-size: 0.78rem;
   letter-spacing: 0.08em;
   text-transform: uppercase;
 }
@@ -265,7 +265,7 @@
   position: absolute;
   color: #6c7681;
   font-family: "Ubuntu Mono", monospace;
-  font-size: 0.64rem;
+  font-size: 0.72rem;
   letter-spacing: 0.05em;
 }
 
@@ -307,7 +307,7 @@
   margin-top: 3px;
   color: #d5eef1;
   font-family: "Ubuntu Mono", monospace;
-  font-size: 0.76rem;
+  font-size: 0.8rem;
 }
 
 .game-help {
@@ -335,7 +335,7 @@
   margin: -2px 1px 10px;
   color: #66717c;
   font-family: "Ubuntu Mono", monospace;
-  font-size: 0.72rem;
+  font-size: 0.78rem;
 }
 
 .attempt-history-label {
@@ -379,7 +379,7 @@
   border-radius: 0 6px 6px 0;
   background: rgba(197, 143, 45, 0.09);
   font-family: "Ubuntu Mono", monospace;
-  font-size: 0.74rem;
+  font-size: 0.8rem;
 }
 
 .game-result-note.show {
