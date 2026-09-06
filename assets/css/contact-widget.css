@@ -5,7 +5,6 @@
   --mail-ink: #171a20;
   --mail-line: #d9e4e8;
   --mail-paper: #fffefa;
-  --mail-soft: #f3f7f8;
   --mail-magenta: #d82f7d;
   box-sizing: border-box;
 }
@@ -172,18 +171,6 @@
 
 .mail-content {
   padding: 17px 17px 15px;
-}
-
-.mail-intro {
-  margin: 0 0 15px;
-  padding: 10px 12px;
-  color: #2d3740;
-  border: 1px solid #dce8eb;
-  border-radius: 4px 12px 12px 12px;
-  background: var(--mail-soft);
-  font-family: Arial, sans-serif;
-  font-size: 0.84rem;
-  line-height: 1.48;
 }
 
 .direct-mail-form {
