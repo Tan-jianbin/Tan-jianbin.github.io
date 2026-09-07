@@ -1,0 +1,237 @@
+.game-library {
+  display: grid;
+  gap: 14px;
+}
+
+.flow-game-card-art {
+  overflow: hidden;
+}
+
+.flow-game-card-art canvas {
+  display: block;
+  width: 100%;
+  height: 121px;
+  border-radius: 7px;
+  background: #f8faf9;
+}
+
+.flow-game-panel {
+  --flow-blue: #166fa6;
+  --flow-cyan: #42bec4;
+  --flow-gold: #e7b848;
+  --flow-red: #d65245;
+  --flow-grid: rgba(4, 51, 97, 0.14);
+}
+
+.flow-game-introduction {
+  margin: -3px 0 18px;
+  color: #59636d;
+  font-size: 0.92rem;
+  line-height: 1.5;
+}
+
+.flow-game-introduction p {
+  margin: 0 0 9px;
+}
+
+.flow-game-introduction strong {
+  color: var(--game-blue-dark);
+  font-weight: 600;
+}
+
+.flow-paper-figure {
+  width: min(100%, 740px);
+  aspect-ratio: 2.35 / 1;
+  margin: 6px auto 12px;
+  overflow: hidden;
+}
+
+.flow-paper-figure img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: center 76%;
+  border: 0;
+  border-radius: 0;
+  background: transparent;
+}
+
+.flow-game-stats {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  align-items: stretch;
+  width: 100%;
+  margin: 0 0 14px;
+  overflow: hidden;
+  border: 1px solid var(--game-line);
+  border-radius: 10px;
+  background: var(--game-soft);
+}
+
+.flow-game-stat {
+  padding: 8px 10px;
+  border-right: 1px solid var(--game-line);
+}
+
+.flow-game-stat:last-child {
+  border-right: 0;
+}
+
+.flow-game-stat span,
+.flow-game-stat strong {
+  display: block;
+  font-family: "Ubuntu Mono", monospace;
+}
+
+.flow-game-stat span {
+  color: var(--game-muted);
+  font-size: 0.75rem;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+}
+
+.flow-game-stat strong {
+  margin-top: 1px;
+  color: var(--game-blue-dark);
+  font-size: 0.92rem;
+}
+
+.flow-game-workspace {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  grid-template-areas:
+    "input output"
+    "field field";
+  gap: 17px 15px;
+}
+
+.flow-curve-view:first-child {
+  grid-area: input;
+}
+
+.flow-curve-view:nth-child(2) {
+  grid-area: output;
+}
+
+.flow-field-view {
+  grid-area: field;
+}
+
+.flow-view-head {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 9px;
+  margin-bottom: 6px;
+}
+
+.flow-view-head h3 {
+  margin: 0;
+  color: var(--game-blue-dark);
+  font-size: 1rem;
+}
+
+.flow-view-head span {
+  color: #7a838c;
+  font-family: "Ubuntu Mono", monospace;
+  font-size: 0.73rem;
+  text-align: right;
+}
+
+.flow-field-head {
+  align-items: center;
+}
+
+.flow-field-actions {
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  gap: 9px;
+}
+
+.flow-field-actions .game-control-btn {
+  flex: 0 0 auto;
+}
+
+.flow-redraw-note {
+  margin: 6px 2px 0;
+  color: #727c86;
+  font-size: 0.76rem;
+  line-height: 1.35;
+}
+
+#flowInputCanvas,
+#flowOutputCanvas,
+#flowFieldCanvas {
+  display: block;
+  width: 100%;
+  border: 1px solid var(--game-line);
+  border-radius: 9px;
+  background: #fbfdfc;
+  box-shadow: inset 0 0 0 1px rgba(4, 51, 97, 0.025);
+  touch-action: none;
+}
+
+#flowInputCanvas,
+#flowOutputCanvas {
+  aspect-ratio: 16 / 10;
+}
+
+#flowInputCanvas {
+  cursor: crosshair;
+}
+
+#flowFieldCanvas {
+  aspect-ratio: 1.72 / 1;
+  cursor: grab;
+}
+
+#flowFieldCanvas:active {
+  cursor: grabbing;
+}
+
+.flow-game-controls {
+  display: flex;
+  justify-content: flex-end;
+  margin-top: 14px;
+}
+
+@media (max-width: 600px) {
+  .flow-game-card-art canvas {
+    height: 110px;
+  }
+
+  .flow-game-introduction {
+    font-size: 0.84rem;
+  }
+
+  .flow-game-stats {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
+  .flow-game-workspace {
+    grid-template-columns: 1fr;
+    grid-template-areas:
+      "input"
+      "field"
+      "output";
+  }
+
+  #flowFieldCanvas {
+    aspect-ratio: 4 / 3;
+  }
+
+  .flow-view-head {
+    align-items: flex-start;
+  }
+
+  .flow-field-head {
+    flex-direction: column;
+  }
+
+  .flow-field-actions {
+    width: 100%;
+    justify-content: space-between;
+  }
+}

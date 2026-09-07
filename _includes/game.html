@@ -5,6 +5,16 @@
   </div>
 
   <div class="game-library" id="gameLibrary">
+    <button class="game-card" id="openFlowGameCard" type="button" aria-label="Play Playing with Smooth Flow">
+      <span class="game-card-art flow-game-card-art">
+        <canvas id="flowGameThumbnail" width="360" height="260" aria-hidden="true"></canvas>
+      </span>
+      <span class="game-card-copy">
+        <span class="game-card-title">Playing with Smooth Flow</span>
+        <span class="game-card-description">Draw an initial function and transport it through a smooth flow toward the target.</span>
+      </span>
+    </button>
+
     <button class="game-card" id="openGameCard" type="button" aria-label="Play Guess from Observations">
       <span class="game-card-art">
         <canvas id="gameThumbnail" width="360" height="260" aria-hidden="true"></canvas>
@@ -14,6 +24,7 @@
         <span class="game-card-description">Choose locations of a surface and reconstruct the hidden surface with minimum error.</span>
       </span>
     </button>
+
   </div>
 
   <div id="inlineGameMount">
@@ -58,6 +69,68 @@
         <button class="game-control-btn" id="undoBtn" type="button">Undo</button>
         <button class="game-control-btn" id="newBtn" type="button">New map</button>
         <button class="game-control-btn primary" id="reconstructBtn" type="button">Reconstruct</button>
+      </div>
+    </div>
+  </div>
+
+  <div id="inlineFlowGameMount">
+    <div class="game-panel flow-game-panel closed" id="flowGamePanel" role="region" aria-label="Playing with Smooth Flow game">
+      <div class="game-panel-head">
+        <h2 class="game-title">Playing with Smooth Flow</h2>
+        <button class="close-game" id="closeFlowGame" type="button" aria-label="Back to games">← Games</button>
+      </div>
+
+      <div class="flow-game-introduction">
+        <p>
+          This game is inspired by my paper
+          <a href="https://arxiv.org/abs/2508.13831" target="_blank" rel="noopener">Smooth Flow Matching for Synthesizing Functional Data</a>.
+        </p>
+        <p>
+          <strong>How to play.</strong> Draw an initial function. The system generates a smooth flow, then runs the flow to transport the initial function to the target. Hit at least 6 of the 8 target points to complete the challenge.
+        </p>
+
+        <figure class="flow-paper-figure">
+          <img src="assets/img/smooth-flow-game-reference.jpg" alt="Smooth flow matching illustration with functional trajectories moving through a vector field">
+        </figure>
+      </div>
+
+      <div class="flow-game-stats" aria-live="polite">
+        <div class="flow-game-stat"><span>Hits</span><strong id="flowHits">—</strong></div>
+        <div class="flow-game-stat"><span>RMSE</span><strong id="flowRmse">—</strong></div>
+      </div>
+
+      <div class="flow-game-workspace">
+        <section class="flow-curve-view" aria-labelledby="flowInputTitle">
+          <div class="flow-view-head">
+            <h3 id="flowInputTitle">Draw Initial Function</h3>
+            <span id="flowDrawState"></span>
+          </div>
+          <canvas id="flowInputCanvas" width="720" height="450" aria-label="Drawing surface for the bounded initial function X of t"></canvas>
+          <p class="flow-redraw-note">Redraw can be done by drawing a new initial function directly on this panel.</p>
+        </section>
+
+        <section class="flow-curve-view" aria-labelledby="flowOutputTitle">
+          <div class="flow-view-head">
+            <h3 id="flowOutputTitle">Generated function by Flow</h3>
+            <span id="flowOutputState">Target points</span>
+          </div>
+          <canvas id="flowOutputCanvas" width="720" height="450" aria-label="Output function Y of t and eight target points"></canvas>
+        </section>
+
+        <section class="flow-field-view" aria-labelledby="flowFieldTitle">
+          <div class="flow-view-head flow-field-head">
+            <h3 id="flowFieldTitle">Flow</h3>
+            <div class="flow-field-actions">
+              <span>Drag the 3D heatmap to rotate</span>
+              <button class="game-control-btn primary" id="runFlowBtn" type="button" disabled>Run the flow</button>
+            </div>
+          </div>
+          <canvas id="flowFieldCanvas" width="1200" height="560" aria-label="Rotatable three-dimensional volume heatmap of vector-field magnitude"></canvas>
+        </section>
+      </div>
+
+      <div class="game-controls flow-game-controls">
+        <button class="game-control-btn" id="newFlowGameBtn" type="button">New game</button>
       </div>
     </div>
   </div>
