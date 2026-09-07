@@ -35,7 +35,7 @@
       </div>
 
       <p class="game-instructions">
-        Select points on the map below, then reconstruct the surface using the observations at those locations. Lower the NRMSE three times in a row to complete the challenge. 
+        <strong>How to play.</strong> Select points on the map below, then reconstruct the surface using the observations at those locations. Lower the NRMSE three times in a row to complete the challenge.
       </p>
 
       <div class="game-stats">
@@ -100,24 +100,24 @@
       </div>
 
       <div class="flow-game-workspace">
-        <section class="flow-curve-view" aria-labelledby="flowInputTitle">
+        <div class="flow-curve-view" role="group" aria-labelledby="flowInputTitle">
           <div class="flow-view-head">
             <h3 id="flowInputTitle">Draw Initial Function</h3>
             <span id="flowDrawState"></span>
           </div>
           <canvas id="flowInputCanvas" width="720" height="450" aria-label="Drawing surface for the bounded initial function X of t"></canvas>
-          <p class="flow-redraw-note">Redraw is done by drawing a new function on this panel.</p>
-        </section>
+          <p class="flow-redraw-note">Redraw can be done by drawing a new initial function directly on this panel.</p>
+        </div>
 
-        <section class="flow-curve-view" aria-labelledby="flowOutputTitle">
+        <div class="flow-curve-view" role="group" aria-labelledby="flowOutputTitle">
           <div class="flow-view-head">
             <h3 id="flowOutputTitle">Generated function by Flow</h3>
             <span id="flowOutputState">Target points</span>
           </div>
           <canvas id="flowOutputCanvas" width="720" height="450" aria-label="Output function Y of t and eight target points"></canvas>
-        </section>
+        </div>
 
-        <section class="flow-field-view" aria-labelledby="flowFieldTitle">
+        <div class="flow-field-view" role="group" aria-labelledby="flowFieldTitle">
           <div class="flow-view-head flow-field-head">
             <h3 id="flowFieldTitle">Flow</h3>
             <div class="flow-field-actions">
@@ -126,7 +126,7 @@
             </div>
           </div>
           <canvas id="flowFieldCanvas" width="1200" height="560" aria-label="Rotatable three-dimensional volume heatmap of vector-field magnitude"></canvas>
-        </section>
+        </div>
       </div>
 
       <div class="game-controls flow-game-controls">

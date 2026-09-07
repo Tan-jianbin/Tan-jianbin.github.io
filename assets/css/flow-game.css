@@ -118,6 +118,11 @@
   grid-area: field;
 }
 
+.flow-curve-view,
+.flow-field-view {
+  min-width: 0;
+}
+
 .flow-view-head {
   display: flex;
   align-items: baseline;
