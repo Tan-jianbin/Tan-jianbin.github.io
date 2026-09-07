@@ -598,12 +598,12 @@
     const sineYaw = Math.sin(fieldYaw);
     const horizontal = domain * cosineYaw - flow * sineYaw;
     const depth = domain * sineYaw + flow * cosineYaw;
-    const depthScale = height * (0.18 + 0.11 * Math.cos(fieldPitch));
-    const valueScale = height * (0.17 + 0.14 * Math.sin(fieldPitch));
+    const depthScale = height * (0.165 + 0.10 * Math.cos(fieldPitch));
+    const valueScale = height * (0.155 + 0.125 * Math.sin(fieldPitch));
 
     return {
       x: width * 0.47 + horizontal * width * 0.56,
-      y: height * 0.52 - depth * depthScale - value * valueScale,
+      y: height * 0.54 - depth * depthScale - value * valueScale,
       depth: depth + value * 0.08
     };
   }
@@ -623,7 +623,7 @@
   function drawFieldLegend(context, maximum) {
     const width = Math.min(260, fieldCanvas.flowWidth * 0.34);
     const left = fieldCanvas.flowWidth / 2 - width / 2;
-    const top = 14;
+    const top = 10;
     const gradient = context.createLinearGradient(left, 0, left + width, 0);
     colorStops.forEach(function (stop, index) {
       gradient.addColorStop(index / (colorStops.length - 1), "rgb(" + stop.join(",") + ")");
