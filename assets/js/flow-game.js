@@ -598,12 +598,12 @@
     const sineYaw = Math.sin(fieldYaw);
     const horizontal = domain * cosineYaw - flow * sineYaw;
     const depth = domain * sineYaw + flow * cosineYaw;
-    const depthScale = height * (0.19 + 0.12 * Math.cos(fieldPitch));
-    const valueScale = height * (0.18 + 0.15 * Math.sin(fieldPitch));
+    const depthScale = height * (0.18 + 0.11 * Math.cos(fieldPitch));
+    const valueScale = height * (0.17 + 0.14 * Math.sin(fieldPitch));
 
     return {
       x: width * 0.47 + horizontal * width * 0.56,
-      y: height * 0.50 - depth * depthScale - value * valueScale,
+      y: height * 0.52 - depth * depthScale - value * valueScale,
       depth: depth + value * 0.08
     };
   }
