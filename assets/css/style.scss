@@ -49,3 +49,11 @@ header a[href] autocolor {
 header a[href]:hover autocolor{
   text-decoration: underline !important; /* if you want hover underline; remove if not */
 }
+
+.site-copyright {
+  margin: 28px 0 0;
+  color: #8a8f96;
+  font-size: 12px;
+  line-height: 1.4;
+  text-align: center;
+}
