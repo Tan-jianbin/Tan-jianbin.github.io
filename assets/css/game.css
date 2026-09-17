@@ -149,6 +149,30 @@
   font-weight: 600;
 }
 
+.game-action-cue {
+  display: inline-flex;
+  align-items: center;
+  padding: 1px 7px;
+  border: 1px solid #b9cbd0;
+  border-radius: 999px;
+  font-size: 0.88em;
+  font-weight: 600;
+  line-height: 1.45;
+  white-space: nowrap;
+  vertical-align: 0.05em;
+}
+
+.game-action-select {
+  color: var(--game-blue-dark);
+  background: var(--game-soft);
+}
+
+.game-action-reconstruct {
+  color: #fff;
+  border-color: var(--game-blue-dark);
+  background: var(--game-blue-dark);
+}
+
 .close-game {
   display: grid;
   place-items: center;
