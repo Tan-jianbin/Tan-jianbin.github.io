@@ -268,6 +268,7 @@
 </div>
 </li>
 
+<!--
 <li>
 <div class="pub-row">
 
@@ -279,13 +280,13 @@
     <div class="title"><a href="https://doi.org/10.1017/S0950268823001292">Social Mixing and Network Characteristics of COVID-19 Patients before and after Widespread Interventions: a Population-Based Study</a></div>
     <div class="author"> Yuncong He, Leonardo Martinez, Yang Ge, Yan Feng, Yewen Chen, <strong><span style="color: orange;">Jianbin Tan</span></strong>, Adrianna Westbrook, Changwei Li, Wei Cheng, Feng Ling, Huimin Cheng, Shushan Wu, Wenxuan Zhong, Andreas Handel, Hui Huang, Jimin Sun, and Ye Shen.</div>
     <div class="periodical"><em> Epidemiology & Infection, 2023.</em></div>
-        <!-- Code -->
     <div class="github-link">
       <a href="https://github.com/howanchung/COVID19-network">  View on GitHub </a>
     </div>
   </div>
 </div>
 </li>
+-->
 
 
 
