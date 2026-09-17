@@ -59,6 +59,7 @@
 </div>
 </li>
 
+<!--
 <li>
 <div class="pub-row">
    <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;max-width: 150px;max-height: 150px">
@@ -72,13 +73,13 @@
      <div style="color: #b07d4f; margin-top: 4px;">
         This paper received the 2025 Best Paper Award from the National Forum on Graduate Statistics at Renmin University of China.
       </div>
-      <!-- Code -->
     <div class="github-link">
       <a href="https://arxiv.org/abs/2408.02343"> View on Arxiv </a>
     </div>
   </div>
 </div>
 </li>
+-->
 
 <li>
   <div class="pub-row">
