@@ -39,6 +39,30 @@
   font-weight: 600;
 }
 
+.flow-action-cue {
+  display: inline-flex;
+  align-items: center;
+  padding: 1px 7px;
+  border: 1px solid #b9cbd0;
+  border-radius: 999px;
+  font-size: 0.88em;
+  font-weight: 600;
+  line-height: 1.45;
+  white-space: nowrap;
+  vertical-align: 0.05em;
+}
+
+.flow-action-draw {
+  color: var(--game-blue-dark);
+  background: var(--game-soft);
+}
+
+.flow-action-run {
+  color: #fff;
+  border-color: var(--game-blue-dark);
+  background: var(--game-blue-dark);
+}
+
 .flow-paper-figure {
   width: min(100%, 740px);
   aspect-ratio: 2.35 / 1;
