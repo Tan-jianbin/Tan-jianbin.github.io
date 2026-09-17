@@ -398,12 +398,6 @@ with an emphasis on generative modeling, structure-aware imputation, and reliabl
         <span class="pub-badge">Preprint</span>
       </div>
 
-      <div class="pub-row">
-        <span class="proj-pub-title">
-          <a href="https://arxiv.org/abs/2408.02343">Dependence-Adaptive Modelling for Functional Time Series</a>
-        </span>
-        <span class="pub-badge">Preprint</span>
-      </div>
     </div>
   </div>
 

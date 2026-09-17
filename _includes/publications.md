@@ -125,6 +125,7 @@
 </div>
 </li>
 
+<!-- 
 <li>
 <div class="pub-row">
    <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;max-width: 150px;max-height: 150px">
@@ -135,7 +136,6 @@
     <div class="title"><a href="https://arxiv.org/abs/2507.20072">Sparse Equation Matching: a Derivative-Free Learning for General-Order Dynamical Systems</a></div>
     <div class="author"> Jiaqiang Li, <strong><span style="color: orange;">Jianbin Tan</span></strong>, and Xueqin Wang.</div>
     <div class="periodical"><em>  Statistics and Its Interface, 2026.</em></div>
-    <!-- Code -->
     <div class="github-link">
       <a href="https://arxiv.org/abs/2507.20072"> View on Arxiv </a>
     </div>
@@ -153,7 +153,6 @@
     <div class="title"><a href="https://doi.org/10.1002/sta4.70140">A Frequency-Domain Approach for Integrating Multiple Functional Time Series</a></div>
     <div class="author"> Zerui Guo, <strong><span style="color: orange;">Jianbin Tan</span></strong>, and Hui Huang.</div>
     <div class="periodical"><em>  Stat, 2026. </em></div>
-    <!-- Code -->
     <div class="github-link">
       <a href="https://arxiv.org/abs/2603.22719"> View on Arxiv </a>
     </div>
@@ -161,6 +160,7 @@
 </div>
 </li>
 
+-->
 
 <li>
 <div class="pub-row">
@@ -172,7 +172,6 @@
     <div class="title"><a href="https://doi.org/10.1016/j.jbi.2025.104933">Integrated Analysis for Electronic Health Records with Structured and Sporadic Missingness</a></div>
     <div class="author"> <strong><span style="color: orange;">Jianbin Tan</span></strong>, Yan Zhang, Chuan Hong, T. Tony Cai, Tianxi Cai, and Anru Zhang.</div>
     <div class="periodical"><em>  Journal of Biomedical Informatics, 2025.</em></div>
-    <!-- Code -->
     <div class="github-link">
       <a href="https://github.com/Tan-jianbin/Macomss">  View on GitHub </a>&nbsp;&nbsp;
       <a href="https://arxiv.org/abs/2506.09208"> View on Arxiv </a>
