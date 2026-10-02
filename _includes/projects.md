@@ -142,7 +142,7 @@
 <!-- Project 1 -->
 <div class="project-item">
   <div class="project-title">
-   Statistics and AI for Health
+   Statistics and Synthetic Analysis for Health
   </div>
 
   <p class="project-summary">
