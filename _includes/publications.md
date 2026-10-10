@@ -59,7 +59,7 @@
 </div>
 </li>
 
-<!--
+
 <li>
 <div class="pub-row">
    <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;max-width: 150px;max-height: 150px">
@@ -79,7 +79,7 @@
   </div>
 </div>
 </li>
--->
+
 
 <li>
   <div class="pub-row">
@@ -126,7 +126,7 @@
 </div>
 </li>
 
-<!-- 
+
 <li>
 <div class="pub-row">
    <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;max-width: 150px;max-height: 150px">
@@ -134,7 +134,7 @@
      <abbr class="badge">  SII </abbr>
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://arxiv.org/abs/2507.20072">Sparse Equation Matching: a Derivative-Free Learning for General-Order Dynamical Systems</a></div>
+    <div class="title"><a href="https://dx.doi.org/10.4310/SII.261008005403">Sparse Equation Matching: a Derivative-Free Learning for General-Order Dynamical Systems</a></div>
     <div class="author"> Jiaqiang Li, <strong><span style="color: orange;">Jianbin Tan</span></strong>, and Xueqin Wang.</div>
     <div class="periodical"><em>  Statistics and Its Interface, 2026.</em></div>
     <div class="github-link">
@@ -161,7 +161,7 @@
 </div>
 </li>
 
--->
+
 
 <li>
 <div class="pub-row">
