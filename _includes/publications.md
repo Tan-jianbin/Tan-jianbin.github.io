@@ -89,7 +89,7 @@
     </div>
     <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
       <div class="title">
-        <a href="https://arxiv.org/abs/2508.13831">Smooth Flow Matching for Synthesizing Functional Data</a>
+        <a href="https://imstat.org/journals-and-publications/annals-of-statistics/annals-of-statistics-future-papers/">Smooth Flow Matching for Synthesizing Functional Data</a>
       </div>
       <div class="author">
         <strong><span style="color: orange;">Jianbin Tan</span></strong> and Anru Zhang.
