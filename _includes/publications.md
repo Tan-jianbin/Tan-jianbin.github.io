@@ -74,7 +74,10 @@
     <!-- Code -->
     <div class="github-link">
       <!--<a href="">  View on GitHub </a>&nbsp;&nbsp;-->
-      <a href="https://arxiv.org/abs/2601.13405"> View on Arxiv </a>
+       <a href="https://github.com/Tan-jianbin/Functional-Aggregated-Cross-covariance-Decomposition-FACD">View on GitHub</a>&nbsp;&nbsp;
+      <a href="https://arxiv.org/abs/2601.13405">View on Arxiv</a>&nbsp;&nbsp;
+      <a href="https://github.com/Tan-jianbin/FACD">R Package</a>
+      
     </div>
   </div>
 </div>
