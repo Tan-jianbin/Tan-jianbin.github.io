@@ -339,7 +339,7 @@
 <!-- Project 1 (Group 2) -->
 <div class="project-item">
   <div class="project-title">
-    Statistical Methodology for Functional and Dynamic Data
+    Statistical Methodology for Complex Data
   </div>
 
   <div class="project-summary">
