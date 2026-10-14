@@ -348,7 +348,7 @@
   </p>
 
   <p>
-    I focus on uncovering heterogeneity, dependence, and temporal evolution in noisy, irregularly sampled, incompletely observed, and high-dimensional data, with contributions spanning dimension reduction, generative modeling, association analysis, causal inference, operator learning, and differential-equation-based learning.
+    I focus on uncovering heterogeneity, dependence structures, causal relationships, and latent mechanisms in noisy, irregularly sampled, incompletely observed, and high-dimensional data, with contributions spanning dimension reduction, generative modeling, association analysis, causal inference, operator learning, and differential-equation-based learning.
   </p>
 </div>
   
