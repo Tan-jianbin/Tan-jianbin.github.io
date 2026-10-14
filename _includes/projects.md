@@ -212,7 +212,7 @@
     </span>
     
     <span class="code-item">
-      <a href="https://github.com/Tan-jianbin/Functional-Aggregated-Cross-covariance-Decomposition-FACD">Functional Aggregated Cross-covariance Decomposition</a>
+      <a href="https://github.com/Tan-jianbin/Functional-Aggregated-Cross-covariance-Decomposition-FACD">Functional Aggregated Cross-Covariance Decomposition</a>
     </span>
   </p>
 </div>
@@ -424,7 +424,7 @@
     </span>
     
     <span class="code-item">
-      <a href="https://github.com/Tan-jianbin/Functional-Aggregated-Cross-covariance-Decomposition-FACD">Functional Aggregated Cross-covariance Decomposition</a>
+      <a href="https://github.com/Tan-jianbin/Functional-Aggregated-Cross-covariance-Decomposition-FACD">Functional Aggregated Cross-Covariance Decomposition</a>
     </span>
 
   </p>
