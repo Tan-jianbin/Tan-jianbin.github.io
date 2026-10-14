@@ -344,11 +344,11 @@
 
   <div class="project-summary">
   <p>
-    From a methodological perspective, my research centers on developing flexible and theoretically grounded methods for functional, longitudinal, and dynamic data, as well as other data with temporal or spatial structure.
+    From a methodological perspective, my research centers on developing flexible, theoretically grounded, and structure-aware methods tailored to functional, longitudinal, and dynamic data, as well as other data with temporal or spatial structure.
   </p>
 
   <p>
-    I focus on uncovering heterogeneity/dependence structures, causal/graphical relationships, and latent mechanisms in noisy, irregularly sampled, incompletely observed, and high-dimensional data, with contributions spanning dimension reduction, generative modeling, association analysis, causal inference, operator learning, and differential-equation-based learning.
+    I focus on uncovering heterogeneity/dependence patterns, causal/graphical relationships, and latent mechanisms in data that may be noisy, irregularly sampled, incompletely observed, or high-dimensional. My contributions span dimension reduction, generative modeling, association analysis, causal inference, operator learning, and differential-equation-based learning.
   </p>
 </div>
   
