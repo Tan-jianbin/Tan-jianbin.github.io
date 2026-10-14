@@ -210,6 +210,10 @@
     <span class="code-item">
       <a href="https://github.com/Tan-jianbin/Macomss">Matrix Completion with Structured and Sporadic Missingness</a>
     </span>
+    
+    <span class="code-item">
+      <a href="https://github.com/Tan-jianbin/Functional-Aggregated-Cross-covariance-Decomposition-FACD">Functional Aggregated Cross-covariance Decomposition</a>
+    </span>
   </p>
 </div>
 
