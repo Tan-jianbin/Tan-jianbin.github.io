@@ -220,9 +220,7 @@
   </div>
 
   <p class="project-summary">
-    We develop statistical methods for dynamic epidemiologic and public health data, including causal inference,
-    transmission modeling, and association discovery, to characterize policy effects and enable reliable
-    inference and public health evaluation.
+    We develop statistical methods for dynamic epidemiologic and public health data, with an emphasis on causal inference, disease transmission modeling, and longitudinal association discovery, to evaluate interventions, understand population-level health dynamics, and support evidence-based public health decisions.
   </p>
 
   <div class="project-figure">
