@@ -9,7 +9,7 @@ I am currently a [Postdoctoral Associate](https://biostat.duke.edu/profile/jianb
 I won the [Outstanding Doctoral Thesis Award](https://mp.weixin.qq.com/s/p0YuztNT93S-eUhu0AwBYg) (2023), the [IMS New Researcher Travel Award](https://imstat.org/ims-awards/ims-awards-recipients/) (2026), and the [ICSA Travel Award](https://symposium2026.icsa.org/nsf-travel-award-for-icsa/) (2026).
 
 I am interested in developing methods that leverage
-<span style="color: orange;">mathematical principles, statistical structures, and application-specific characteristics intrinsic to complex data</span>,
+<span style="color: orange;">mathematical principles, statistical structures, and application-specific characteristics</span> intrinsic to complex data,
 supporting analysis in
 <span style="color: orange;">biomedical, public health, and environmental sciences</span>.
 
