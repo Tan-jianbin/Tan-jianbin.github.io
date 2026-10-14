@@ -216,7 +216,7 @@
 <!-- Project 2 (Group 1) -->
 <div class="project-item">
   <div class="project-title">
-    Epidemiologic Data Analysis
+    Statistics for Epidemiology and Public Health
   </div>
 
   <p class="project-summary">
