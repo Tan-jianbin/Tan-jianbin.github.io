@@ -10,7 +10,7 @@ I won the [Outstanding Doctoral Thesis Award](https://mp.weixin.qq.com/s/p0YuztN
 
 I am interested in developing methods that leverage
 <span style="color: orange;">mathematical principles and statistical structures</span>
-intrinsic to complex dynamic, longitudinal, and spatiotemporal data, supporting analysis in
+intrinsic to complex data, supporting analysis in
 <span style="color: orange;">biomedical, public health, and environmental sciences</span>.
 
 <!-- I was a [visiting student](https://statlab905.github.io/author/jianbin-tan/) working with Prof. [Xueqin Wang](https://bs.ustc.edu.cn/english/profile.php?id=650) in the School of Management, USTC, in 2022.
