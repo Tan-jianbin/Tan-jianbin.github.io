@@ -339,11 +339,13 @@
 <!-- Project 1 (Group 2) -->
 <div class="project-item">
   <div class="project-title">
-    Statistical Methods for Functional/Longitudinal/Dynamic Data
+    Statistical Methodology for Functional and Dynamic Data
   </div>
 
   <p class="project-summary">
-   This research develops statistical methods for functional, longitudinal, and dynamic data, emphasizing model-free approaches that provide real-world interpretability, structural adaptivity, and accommodation of complex settings.
+   From a methodological perspective, my research centers on developing flexible and theoretically grounded methods for functional, longitudinal, and dynamic data, as well as other data with temporal or spatial structure. 
+   
+   I focus on uncovering heterogeneity, dependence, and temporal evolution in noisy, irregularly sampled, incompletely observed, and high-dimensional data, with contributions spanning dimension reduction, generative modeling, association analysis, causal inference, operator learning, and differential-equation-based learning.
   </p>
   
   <div class="project-figure">
