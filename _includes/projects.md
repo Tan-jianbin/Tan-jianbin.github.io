@@ -342,11 +342,15 @@
     Statistical Methodology for Functional and Dynamic Data
   </div>
 
-  <p class="project-summary">
-   From a methodological perspective, my research centers on developing flexible and theoretically grounded methods for functional, longitudinal, and dynamic data, as well as other data with temporal or spatial structure. 
-   
-   I focus on uncovering heterogeneity, dependence, and temporal evolution in noisy, irregularly sampled, incompletely observed, and high-dimensional data, with contributions spanning dimension reduction, generative modeling, association analysis, causal inference, operator learning, and differential-equation-based learning.
+  <div class="project-summary">
+  <p>
+    From a methodological perspective, my research centers on developing flexible and theoretically grounded methods for functional, longitudinal, and dynamic data, as well as other data with temporal or spatial structure.
   </p>
+
+  <p>
+    I focus on uncovering heterogeneity, dependence, and temporal evolution in noisy, irregularly sampled, incompletely observed, and high-dimensional data, with contributions spanning dimension reduction, generative modeling, association analysis, causal inference, operator learning, and differential-equation-based learning.
+  </p>
+</div>
   
   <div class="project-figure">
     <img src="assets/img/functional-curves.jpg" alt="Ensemble of smooth functional curves">
