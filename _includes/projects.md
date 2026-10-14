@@ -142,12 +142,11 @@
 <!-- Project 1 -->
 <div class="project-item">
   <div class="project-title">
-   Statistics and Synthetic Analysis for Health
+   Statistics and Generative AI for Health
   </div>
 
   <p class="project-summary">
-    We develop statistical and generative methods for health data with complex missingness,
-with an emphasis on generative modeling, structure-aware imputation, and reliable prediction and inference.
+    We develop statistical and generative AI methods for complex health and biomedical data, including electronic health records and longitudinal biomedical trajectories, with an emphasis on modeling heterogeneity and missingness, synthesizing realistic data, and enabling reliable prediction and inference.
   </p>
 
   <div class="project-figure">
