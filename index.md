@@ -10,8 +10,7 @@ I won the [Outstanding Doctoral Thesis Award](https://mp.weixin.qq.com/s/p0YuztN
 
 I am interested in developing methods that leverage
 <span style="color: orange;">mathematical principles, statistical structures, and application-specific characteristics</span> intrinsic to complex data,
-supporting analysis in
-<span style="color: orange;">biomedical, public health, and environmental sciences</span>.
+supporting analysis in biomedical, public health, and environmental sciences.
 
 <!-- I was a [visiting student](https://statlab905.github.io/author/jianbin-tan/) working with Prof. [Xueqin Wang](https://bs.ustc.edu.cn/english/profile.php?id=650) in the School of Management, USTC, in 2022.
 My research interests lie in statistical learning for data with dynamic, longitudinal, or functional structures. Such data often exhibit complicated dependencies and heterogeneity, as well as challenges arising from irregular sampling and high/infinite-dimensionality. To address these, I focus on developing new methodologies for learning with  <span style="color: orange;"> functions, flows, and differential equations</span>, supporting effective analysis in health, epidemiology, and environmental science.-->
