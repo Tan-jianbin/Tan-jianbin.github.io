@@ -348,7 +348,7 @@
   </p>
 
   <p>
-    I focus on leveraging mathematical principles and statistical structures intrinsic to complex data to uncover dependence patterns, causal relationships, and latent mechanisms, particularly when the data are noisy, irregularly sampled, incompletely observed, or high-dimensional. 
+    I focus on leveraging statistical principles and  mathematical structures intrinsic to complex data to uncover dependence patterns, causal relationships, and latent mechanisms, particularly when the data are noisy, dependent, incompletely observed, or high-dimensional. 
     My contributions span dimension reduction, generative modeling, association discovery, causal inference, operator learning, and differential-equation-based learning.
   </p>
 </div>
