@@ -30,7 +30,7 @@
         <a href="">Censored Flow Matching for Synthetic Time-to-Event Generation</a>
       </div>
       <div class="author">
-        <strong><span style="color: orange;">Jianbin Tan</span></strong>, Xingran Chen, Kevin He, Zhenke Wu, Bhramar Mukherjee, and Anru R. Zhang.
+        <strong><span style="color: orange;">Jianbin Tan</span></strong>, Xingran Chen, Kevin He, Zhenke Wu, Bhramar Mukherjee, and Anru Zhang.
       </div>
       <div class="periodical"><em>Preprint.</em></div>
       <div class="github-link">
