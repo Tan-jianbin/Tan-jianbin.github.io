@@ -13,22 +13,14 @@
 .publications ol.bibliography li .abbr{
   display:flex !important;
   flex-direction:column !important;
-  align-items:center !important;
-  justify-content:center !important;
-  gap:8px !important;
+  align-items:flex-start !important;
   height:auto !important;
   max-height:none !important;
-  margin-bottom:0 !important;
+  margin-bottom:0.5rem !important;
 }
 
 .publications ol.bibliography li .abbr img{
-  display:block !important;
   order:2;
-  width:auto !important;
-  height:auto !important;
-  max-width:100% !important;
-  max-height:110px !important;
-  object-fit:contain;
 }
 
 .publications ol.bibliography li .abbr abbr.badge{
@@ -36,8 +28,8 @@
   order:1;
   position:static !important;
   inset:auto !important;
-  align-self:center !important;
-  margin:0 !important;
+  align-self:flex-start !important;
+  margin:0 0 8px 0 !important;
 }
 
 @media (max-width: 600px) {
