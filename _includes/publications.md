@@ -38,7 +38,7 @@
   <div class="pub-row">
     <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;max-width: 150px;max-height: 150px">
       <abbr class="badge">Preprint</abbr>
-      <img src="assets/img/CFM.png" style="width: auto; height: auto">
+      <img src="assets/img/CFM.png?v=20261017-1" style="width: auto; height: auto">
     </div>
     <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
       <div class="title">
@@ -59,7 +59,7 @@
   <div class="pub-row">
     <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;max-width: 150px;max-height: 150px">
       <abbr class="badge">Preprint</abbr>
-      <img src="assets/img/PFM.jpg" style="width: auto; height: auto">
+      <img src="assets/img/PFM.jpg?v=20261017-1" style="width: auto; height: auto">
     </div>
     <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
       <div class="title">
@@ -81,7 +81,7 @@
 <div class="pub-row">
    <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;max-width: 150px;max-height: 150px">
     <abbr class="badge">  Preprint </abbr>
-    <img src="assets/img/UFPCA.jpg" style="width: auto; height: auto">
+    <img src="assets/img/UFPCA.jpg?v=20261017-1" style="width: auto; height: auto">
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://arxiv.org/abs/2408.02343">Dependence-Adaptive Modelling for Functional Time Series</a></div>
@@ -101,7 +101,7 @@
 <div class="pub-row">
    <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;max-width: 150px;max-height: 150px">
     <abbr class="badge"> Biostatistics </abbr>
-    <img src="assets/img/association.jpg" style="width: auto; height: auto">
+    <img src="assets/img/association.jpg?v=20261017-1" style="width: auto; height: auto">
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://arxiv.org/abs/2601.13405"> Associating High-Dimensional Longitudinal Datasets through an Efficient Cross-Covariance Decomposition </a></div>
@@ -124,7 +124,7 @@
   <div class="pub-row">
     <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;max-width: 150px;max-height: 150px">
       <abbr class="badge">AOS</abbr>
-      <img src="assets/img/SMO.jpg" style="width: auto; height: auto">
+      <img src="assets/img/SMO.jpg?v=20261017-1" style="width: auto; height: auto">
     </div>
     <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
       <div class="title">
@@ -149,7 +149,7 @@
 <div class="pub-row">
    <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;max-width: 150px;max-height: 150px">
     <abbr class="badge"> JASA </abbr>
-    <img src="assets/img/fsvd.jpg" style="width: auto; height: auto">
+    <img src="assets/img/fsvd.jpg?v=20261017-1" style="width: auto; height: auto">
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://doi.org/10.1080/01621459.2026.2625441"> Functional-SVD for Heterogeneous Trajectories: Case Studies in Health </a></div>
@@ -170,7 +170,7 @@
 <div class="pub-row">
    <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;max-width: 150px;max-height: 150px">
     <abbr class="badge">  SII </abbr>
-    <img src="assets/img/dynamic.jpg" style="width: auto; height: auto">
+    <img src="assets/img/dynamic.jpg?v=20261017-1" style="width: auto; height: auto">
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://dx.doi.org/10.4310/SII.261008005403">Sparse Equation Matching: a Derivative-Free Learning for General-Order Dynamical Systems</a></div>
@@ -187,7 +187,7 @@
 <div class="pub-row">
    <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;max-width: 150px;max-height: 150px">
     <abbr class="badge"> STAT  </abbr>
-    <img src="assets/img/functional_filter.jpg" style="width: auto; height: auto">
+    <img src="assets/img/functional_filter.jpg?v=20261017-1" style="width: auto; height: auto">
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://doi.org/10.1002/sta4.70140">A Frequency-Domain Approach for Integrating Multiple Functional Time Series</a></div>
@@ -206,7 +206,7 @@
 <div class="pub-row">
    <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;max-width: 150px;max-height: 150px">
     <abbr class="badge">  JBI </abbr>
-    <img src="assets/img/MACCOM.jpg" style="width: auto; height: auto">
+    <img src="assets/img/MACCOM.jpg?v=20261017-1" style="width: auto; height: auto">
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://doi.org/10.1016/j.jbi.2025.104933">Integrated Analysis for Electronic Health Records with Structured and Sporadic Missingness</a></div>
