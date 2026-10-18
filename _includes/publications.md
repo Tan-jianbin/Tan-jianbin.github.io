@@ -93,7 +93,7 @@
 <div class="pub-row">
    <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;max-width: 150px;max-height: 150px">
     <abbr class="badge">  Preprint </abbr>
-    <img src="assets/img/UFPCA.jpg?v=20261017-1" style="width: auto; height: auto">
+    <img src="assets/img/UFPCA.jpg?v=20261017-2" style="width: auto; height: auto">
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://arxiv.org/abs/2408.02343">Dependence-Adaptive Modelling for Functional Time Series</a></div>
@@ -136,7 +136,7 @@
   <div class="pub-row">
     <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;max-width: 150px;max-height: 150px">
       <abbr class="badge">AOS</abbr>
-      <img src="assets/img/SMO.jpg?v=20261017-1" style="width: auto; height: auto">
+      <img src="assets/img/SMO.jpg?v=20261017-2" style="width: auto; height: auto">
     </div>
     <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
       <div class="title">
