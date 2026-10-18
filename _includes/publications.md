@@ -9,6 +9,37 @@
   padding: 20px;
 }
 
+/* Keep every journal/status badge in its own row above the preview image. */
+.publications ol.bibliography li .abbr{
+  display:flex !important;
+  flex-direction:column !important;
+  align-items:center !important;
+  justify-content:center !important;
+  gap:8px !important;
+  height:auto !important;
+  max-height:none !important;
+  margin-bottom:0 !important;
+}
+
+.publications ol.bibliography li .abbr img{
+  display:block !important;
+  order:2;
+  width:auto !important;
+  height:auto !important;
+  max-width:100% !important;
+  max-height:110px !important;
+  object-fit:contain;
+}
+
+.publications ol.bibliography li .abbr abbr.badge{
+  display:inline-block !important;
+  order:1;
+  position:static !important;
+  inset:auto !important;
+  align-self:center !important;
+  margin:0 !important;
+}
+
 @media (max-width: 600px) {
   .publications .pub-row { display: block; padding: 18px; }
 }
