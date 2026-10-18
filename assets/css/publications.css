@@ -52,20 +52,12 @@ blockquote { background: var(--global-bg-color); border-left: 2px solid var(--gl
   height: auto;
   max-height: none !important;
   margin-bottom: 0.5rem;
-  display: flex;
-  flex-direction: column;
-  align-items: flex-start;
-}
-
-.publications ol.bibliography li .abbr img {
-  order: 2;
 }
 
 .publications ol.bibliography li .abbr abbr {
-  display: inline-block;
-  order: 1;
+  display: block;
   position: static;
-  align-self: flex-start;
+  width: fit-content;
   margin: 0 0 8px 0;
   background-color: var(--global-theme-color);
   padding-left: 1rem;

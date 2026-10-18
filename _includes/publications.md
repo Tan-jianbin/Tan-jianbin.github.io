@@ -11,24 +11,16 @@
 
 /* Keep every journal/status badge in its own row above the preview image. */
 .publications ol.bibliography li .abbr{
-  display:flex !important;
-  flex-direction:column !important;
-  align-items:flex-start !important;
   height:auto !important;
   max-height:none !important;
   margin-bottom:0.5rem !important;
 }
 
-.publications ol.bibliography li .abbr img{
-  order:2;
-}
-
 .publications ol.bibliography li .abbr abbr.badge{
-  display:inline-block !important;
-  order:1;
+  display:block !important;
   position:static !important;
   inset:auto !important;
-  align-self:flex-start !important;
+  width:fit-content;
   margin:0 0 8px 0 !important;
 }
 
@@ -45,8 +37,8 @@
 <li>
   <div class="pub-row">
     <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;max-width: 150px;max-height: 150px">
-      <img src="assets/img/CFM.png" style="width: auto; height: auto">
       <abbr class="badge">Preprint</abbr>
+      <img src="assets/img/CFM.png" style="width: auto; height: auto">
     </div>
     <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
       <div class="title">
@@ -66,8 +58,8 @@
 <li>
   <div class="pub-row">
     <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;max-width: 150px;max-height: 150px">
-      <img src="assets/img/PFM.jpg" style="width: auto; height: auto">
       <abbr class="badge">Preprint</abbr>
+      <img src="assets/img/PFM.jpg" style="width: auto; height: auto">
     </div>
     <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
       <div class="title">
@@ -88,8 +80,8 @@
 <li>
 <div class="pub-row">
    <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;max-width: 150px;max-height: 150px">
+    <abbr class="badge">  Preprint </abbr>
     <img src="assets/img/UFPCA.jpg" style="width: auto; height: auto">
-     <abbr class="badge">  Preprint </abbr>
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://arxiv.org/abs/2408.02343">Dependence-Adaptive Modelling for Functional Time Series</a></div>
@@ -108,8 +100,8 @@
 <li>
 <div class="pub-row">
    <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;max-width: 150px;max-height: 150px">
+    <abbr class="badge"> Biostatistics </abbr>
     <img src="assets/img/association.jpg" style="width: auto; height: auto">
-     <abbr class="badge"> Biostatistics </abbr>
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://arxiv.org/abs/2601.13405"> Associating High-Dimensional Longitudinal Datasets through an Efficient Cross-Covariance Decomposition </a></div>
@@ -131,8 +123,8 @@
 <li>
   <div class="pub-row">
     <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;max-width: 150px;max-height: 150px">
-      <img src="assets/img/SMO.jpg" style="width: auto; height: auto">
       <abbr class="badge">AOS</abbr>
+      <img src="assets/img/SMO.jpg" style="width: auto; height: auto">
     </div>
     <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
       <div class="title">
@@ -156,8 +148,8 @@
 <li>
 <div class="pub-row">
    <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;max-width: 150px;max-height: 150px">
+    <abbr class="badge"> JASA </abbr>
     <img src="assets/img/fsvd.jpg" style="width: auto; height: auto">
-     <abbr class="badge"> JASA </abbr>
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://doi.org/10.1080/01621459.2026.2625441"> Functional-SVD for Heterogeneous Trajectories: Case Studies in Health </a></div>
@@ -177,8 +169,8 @@
 <li>
 <div class="pub-row">
    <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;max-width: 150px;max-height: 150px">
+    <abbr class="badge">  SII </abbr>
     <img src="assets/img/dynamic.jpg" style="width: auto; height: auto">
-     <abbr class="badge">  SII </abbr>
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://dx.doi.org/10.4310/SII.261008005403">Sparse Equation Matching: a Derivative-Free Learning for General-Order Dynamical Systems</a></div>
@@ -194,8 +186,8 @@
 <!--<li>
 <div class="pub-row">
    <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;max-width: 150px;max-height: 150px">
+    <abbr class="badge"> STAT  </abbr>
     <img src="assets/img/functional_filter.jpg" style="width: auto; height: auto">
-     <abbr class="badge"> STAT  </abbr>
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://doi.org/10.1002/sta4.70140">A Frequency-Domain Approach for Integrating Multiple Functional Time Series</a></div>
@@ -213,8 +205,8 @@
 <li>
 <div class="pub-row">
    <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;max-width: 150px;max-height: 150px">
+    <abbr class="badge">  JBI </abbr>
     <img src="assets/img/MACCOM.jpg" style="width: auto; height: auto">
-     <abbr class="badge">  JBI </abbr>
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://doi.org/10.1016/j.jbi.2025.104933">Integrated Analysis for Electronic Health Records with Structured and Sporadic Missingness</a></div>
@@ -232,8 +224,8 @@
 <li>
 <div class="pub-row">
    <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;max-width: 150px;max-height: 150px">
-    <img src="assets/img/clusterres8.png" style="width: auto; height: auto">
     <abbr class="badge">  AOAS </abbr>
+    <img src="assets/img/clusterres8.png" style="width: auto; height: auto">
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://doi.org/10.1214/24-AOAS1989">Functional Clustering for Longitudinal Associations between Social Determinants of Health and Stroke Mortality in the U.S.</a></div>
@@ -256,8 +248,8 @@
 <li>
 <div class="pub-row">
    <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;max-width: 150px;max-height: 150px">
-    <img src="assets/img/Local.jpeg" style="width: auto; height: auto">
     <abbr class="badge">JRSSB</abbr>
+    <img src="assets/img/Local.jpeg" style="width: auto; height: auto">
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://doi.org/10.1093/jrsssb/qkae031">Green’s Matching: an Efficient Approach to Parameter Estimation in Complex Dynamic Systems</a></div>
@@ -277,8 +269,8 @@
 <li>
 <div class="pub-row">
    <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;max-width: 150px;max-height: 150px">
-    <img src="assets/img/fit_fda.jpeg" style="width: auto; height: auto">
     <abbr class="badge">JASA</abbr>
+    <img src="assets/img/fit_fda.jpeg" style="width: auto; height: auto">
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://www.tandfonline.com/doi/full/10.1080/01621459.2024.2302198">Graphical Principal Component Analysis of Multivariate Functional Time Series</a></div>
@@ -300,8 +292,8 @@
 <div class="pub-row">
 
    <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;max-width: 150px;max-height: 150px">
-    <img src="assets/img/comps.jpeg" style="width: auto; height: auto">
     <abbr class="badge">BIOM</abbr>
+    <img src="assets/img/comps.jpeg" style="width: auto; height: auto">
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://doi.org/10.1111/biom.13814">Age-Related Model for Estimating the Symptomatic and Asymptomatic Transmissibility of COVID-19 Patients</a></div>
@@ -320,8 +312,8 @@
 <div class="pub-row">
 
    <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;max-width: 150px;max-height: 150px">
-    <img src="assets/img/network.jpeg" style="width: auto; height: auto">
     <abbr class="badge">I&E</abbr>
+    <img src="assets/img/network.jpeg" style="width: auto; height: auto">
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://doi.org/10.1017/S0950268823001292">Social Mixing and Network Characteristics of COVID-19 Patients before and after Widespread Interventions: a Population-Based Study</a></div>
@@ -344,8 +336,8 @@
 <div class="pub-row">
 
    <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;max-width: 150px;max-height: 150px">
-    <img src="assets/img/tran.jpeg" style="width: auto; height: auto">
     <abbr class="badge">I&E</abbr>
+    <img src="assets/img/tran.jpeg" style="width: auto; height: auto">
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://doi.org/10.1017/S0950268822001467">Transmission Roles of Symptomatic and Asymptomatic COVID-19 Cases: a Modelling Study</a></div>
@@ -365,8 +357,8 @@
 <div class="pub-row">
 
    <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;max-width: 150px;max-height: 150px">
-    <img src="assets/img/policy.jpeg" style="width: auto; height: auto">
     <abbr class="badge">JASA</abbr>
+    <img src="assets/img/policy.jpeg" style="width: auto; height: auto">
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://doi.org/10.1080/01621459.2021.1897015">The Effects of Stringent and Mild Interventions for Coronavirus Pandemic</a></div>
@@ -385,8 +377,8 @@
 <div class="pub-row">
 
    <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;max-width: 150px;max-height: 150px">
-    <img src="assets/img/jds.jpeg" style="width: auto; height: auto">
     <abbr class="badge">JDS</abbr>
+    <img src="assets/img/jds.jpeg" style="width: auto; height: auto">
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://jds-online.org/journal/JDS/article/664/info">Evaluate the Risk of Resumption of Business for the States of New York, New Jersey and Connecticut via a Pre-Symptomatic and Asymptomatic Transmission Model of COVID-19</a></div>
