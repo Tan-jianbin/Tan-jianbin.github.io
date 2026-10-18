@@ -24,23 +24,22 @@
   margin:0 0 8px 0 !important;
 }
 
-/* Give wide, detail-heavy figures a little more room without stretching them. */
-.publications ol.bibliography li .abbr.pub-figure-wide{
-  flex:0 0 220px;
-  max-width:220px !important;
+/* Use one consistent preview area while preserving every image's aspect ratio. */
+.publications ol.bibliography li .abbr{
+  flex:0 0 200px;
+  max-width:200px !important;
 }
 
-.publications ol.bibliography li .abbr.pub-figure-wide img{
+.publications ol.bibliography li .abbr img{
   display:block;
   width:100% !important;
-  height:auto !important;
+  height:140px !important;
+  object-fit:contain;
+  object-position:center top;
 }
 
 @media (max-width: 600px) {
   .publications .pub-row { display: block; padding: 18px; }
-  .publications ol.bibliography li .abbr.pub-figure-wide{
-    max-width:220px !important;
-  }
 }
 </style>
 
@@ -94,7 +93,7 @@
 
 <li>
 <div class="pub-row">
-   <div class="col-sm-3 abbr pub-figure-wide" style="position: relative;padding-right: 15px;padding-left: 15px;max-width: 150px;max-height: 150px">
+   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;max-width: 150px;max-height: 150px">
     <abbr class="badge">  Preprint </abbr>
     <img src="assets/img/UFPCA.jpg?v=20261017-1" style="width: auto; height: auto">
   </div>
@@ -137,7 +136,7 @@
 
 <li>
   <div class="pub-row">
-    <div class="col-sm-3 abbr pub-figure-wide" style="position: relative;padding-right: 15px;padding-left: 15px;max-width: 150px;max-height: 150px">
+    <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;max-width: 150px;max-height: 150px">
       <abbr class="badge">AOS</abbr>
       <img src="assets/img/SMO.jpg?v=20261017-1" style="width: auto; height: auto">
     </div>
