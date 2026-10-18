@@ -26,14 +26,14 @@
 
 /* Use one consistent preview area while preserving every image's aspect ratio. */
 .publications ol.bibliography li .abbr{
-  flex:0 0 200px;
-  max-width:200px !important;
+  flex:0 0 180px;
+  max-width:180px !important;
 }
 
 .publications ol.bibliography li .abbr img{
   display:block;
   width:100% !important;
-  height:140px !important;
+  height:126px !important;
   object-fit:contain;
   object-position:center top;
 }
