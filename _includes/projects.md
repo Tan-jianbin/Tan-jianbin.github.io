@@ -412,6 +412,13 @@
         </span>
         <span class="pub-badge">Preprint</span>
       </div>
+      
+       <div class="pub-row">
+        <span class="proj-pub-title">
+          <a href="https://arxiv.org/abs/2610.24233">Censored Flow Matching for Synthetic Time-to-Event Generation</a>
+        </span>
+        <span class="pub-badge">Preprint</span>
+      </div>
 
     </div>
   </div>
