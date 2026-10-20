@@ -54,14 +54,14 @@
     </div>
     <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
       <div class="title">
-        <a href="">Censored Flow Matching for Synthetic Time-to-Event Generation</a>
+        <a href="https://arxiv.org/abs/2610.24233">Censored Flow Matching for Synthetic Time-to-Event Generation</a>
       </div>
       <div class="author">
         <strong><span style="color: orange;">Jianbin Tan</span></strong>, Xingran Chen, Kevin He, Zhenke Wu, Bhramar Mukherjee, and Anru Zhang.
       </div>
       <div class="periodical"><em>Preprint.</em></div>
       <div class="github-link">
-        <a href="">View on Arxiv</a>
+        <a href="https://arxiv.org/abs/2610.24233">View on Arxiv</a>
       </div>
     </div>
   </div>
