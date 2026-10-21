@@ -116,7 +116,7 @@
     <img src="assets/img/association.jpg?v=20261017-1" style="width: auto; height: auto">
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://arxiv.org/abs/2601.13405"> Associating High-Dimensional Longitudinal Datasets through an Efficient Cross-Covariance Decomposition </a></div>
+    <div class="title"><a href="https://arxiv.org/abs/2601.13405v2"> Associating High-Dimensional Longitudinal Datasets through an Efficient Cross-Covariance Decomposition </a></div>
     <div class="author"> <strong><span style="color: orange;">Jianbin Tan</span></strong> and Pixu Shi.</div>
     <div class="periodical"><em>  Biostatistics, acceptable under minor revision.</em></div>
     <!-- Code -->

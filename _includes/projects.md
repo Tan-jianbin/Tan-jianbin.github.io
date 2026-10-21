@@ -181,7 +181,7 @@
       
        <div class="pub-row">
         <span class="proj-pub-title">
-          <a href="https://arxiv.org/abs/2601.13405">Associating High-Dimensional Longitudinal Datasets through an Efficient Cross-Covariance Decomposition</a>
+          <a href="https://arxiv.org/abs/2601.13405v2">Associating High-Dimensional Longitudinal Datasets through an Efficient Cross-Covariance Decomposition</a>
         </span>
         <span class="pub-badge">Biostatistics</span>
       </div>
